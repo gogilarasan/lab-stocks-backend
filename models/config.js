@@ -3,13 +3,12 @@ module.exports = {
   USER: "postgres",
   PASSWORD: "root",
   DB: "stocks-ist",
-  PORT: 5432, // Specify the port of your PostgreSQL database
-  dialect: "postgresql",
-  //dialectOptions: {ssl:true},
+  PORT: 5432,
+  dialect: "postgres",
   pool: {
     max: 5,
     min: 0,
-    acquire: 30000, // Adjusted acquire time (in milliseconds)
-    idle: 10000, // Adjusted idle time (in milliseconds)
+    acquire: 30000, 
+    idle: 10000, 
   },
 };

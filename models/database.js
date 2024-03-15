@@ -1,11 +1,10 @@
-
 const dbConfig = require("./config");
 const Sequelize = require("sequelize");
 
 const sequelize = new Sequelize(dbConfig.DB, dbConfig.USER, dbConfig.PASSWORD, {
   host: dbConfig.HOST,
   dialect: dbConfig.dialect,
-  port: dbConfig.port, // Corrected the port configuration
+  port: dbConfig.port, 
   pool: {
     max: dbConfig.pool.max,
     min: dbConfig.pool.min,
@@ -19,15 +18,16 @@ const db = {};
 db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
-// Define your models here and export them
 db.Lab = require("./lab")(sequelize, Sequelize); 
-db.Stocks = require("./stocks")(sequelize, Sequelize);
-db.Rescholar = require("./rescholar")(sequelize, Sequelize);
+db.Stock = require("./stocks")(sequelize, Sequelize);
 db.Staff = require("./staff")(sequelize, Sequelize);
+db.Rescholar = require("./rescholar")(sequelize, Sequelize);
 db.Complaint = require("./complaints")(sequelize, Sequelize);
-db.Userlogs = require("./userlogs")(sequelize, Sequelize);
+db.UserLog = require("./userlogs")(sequelize, Sequelize);
+db.TimeTable = require("./timetable")(sequelize, Sequelize);
+db.StockDept = require("./stockDept")(sequelize, Sequelize);
 
-// Sync the database
+
 sequelize.sync({ force: false, alter: true })
   .then(() => {
     console.log("Database connected 😀 ");
@@ -37,5 +37,3 @@ sequelize.sync({ force: false, alter: true })
   });
 
 module.exports = db;
-
-

@@ -1,23 +1,17 @@
 const express = require("express");
+const cors = require("cors");
 const app = express();
-const port = 5000;
+const createAdminRoutes = require("./routes/create_route");
+const updateAdminRoutes = require("./routes/update_route");
+const deleteAdminRoutes = require("./routes/delete_route");
+const viewAdminRoutes   = require("./routes/view_route");
+app.use(cors()); 
 
-// Import Sequelize models
-const db = require("./models/database");
-
-// Synchronize models with the database
-db.sequelize.sync()
-  .then(() => {
-    console.log("Models synchronized with the database");
-  })
-  .catch(err => {
-    console.error("Error synchronizing models:", err);
-  });
-
-// Set up middleware if needed
-// Example middleware usage: app.use(express.json());
-
-// Start the server
-app.listen(port, () => {
-    console.log(`Server running on the port ${port}`);
+app.listen(3000, () => {
+  console.log("Application started and Listening on port 3000");
 });
+
+app.use("/admin", createAdminRoutes);
+app.use("/admin", updateAdminRoutes);
+app.use("/admin", deleteAdminRoutes);
+app.use("/admin", viewAdminRoutes);

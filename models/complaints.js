@@ -14,14 +14,24 @@ module.exports = (sequelize, Sequelize) => {
         complainer_name: {
             type: DataTypes.STRING,
             allowNull: false
+        },
+        dist_id: {
+            type: DataTypes.STRING,
+            allowNull: false,
+            references: {
+                model: 'Stocks',
+                key: 'dist_id'
+            }
+        },
+        lab_id: {
+            type: DataTypes.INTEGER,
+            allowNull: false,
+            references: {
+                model: 'Labs',
+                key: 'lab_id'
+            }
         }
     });
-
-    // Define association with Stock model
-    Complaint.belongsTo(sequelize.models.Stock, { foreignKey: 'dist_id', allowNull: false });
-
-    // Define association with Lab model
-    Complaint.belongsTo(sequelize.models.Lab, { foreignKey: 'lab_id', allowNull: false });
 
     return Complaint;
 };

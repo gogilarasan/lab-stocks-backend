@@ -9,7 +9,8 @@ module.exports = (sequelize, Sequelize) => {
         },
         dist_id: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: false,
+            unique: true 
         },
         seat_number: {
             type: DataTypes.STRING,
@@ -21,16 +22,21 @@ module.exports = (sequelize, Sequelize) => {
         },
         remarks: {
             type: DataTypes.STRING,
-            allowNull: true // Remarks can be nullable
+            allowNull: true
         },
         stock_type: {
             type: DataTypes.STRING,
             allowNull: false
+        },
+        lab_id: {
+            type: DataTypes.INTEGER,
+            allowNull: false,
+            references: {
+                model: 'Labs', 
+                key: 'lab_id'
+            }
         }
     });
-
-    // Define association with Lab model
-    Stock.belongsTo(sequelize.models.Lab, { foreignKey: 'lab_id', allowNull: false });
 
     return Stock;
 };

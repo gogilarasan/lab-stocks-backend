@@ -1,0 +1,55 @@
+POST http://localhost:3000/admin/create_lab  HTTP/1.1
+Content-Type: application/json 
+
+{
+    "lab_name": "Lab Name",
+    "lab_incharge": "Lab Incharge",
+    "cpu_count": 10,
+    "mouse_count": 20,
+    "monitor_count": 15,
+    "keyboard_count": 10,
+    "backup_stocks": "Backup Stocks"
+}
+
+###
+
+POST http://localhost:3000/admin/get_lab_by_id  HTTP/1.1
+Content-Type: application/json 
+
+{
+    "labId": 1
+}
+
+###
+
+POST http://localhost:3000/admin/get_all_labs  HTTP/1.1
+Content-Type: application/json 
+
+###
+
+POST http://localhost:3000/admin/update_lab  HTTP/1.1
+Content-Type: application/json
+
+{
+    "lab_id": 1,
+    "lab_name": "Updated Lab Name",
+    "lab_incharge": "Updated Lab Incharge",
+    "cpu_count": 20,
+    "mouse_count": 30,
+    "monitor_count": 25,
+    "keyboard_count": 20,
+    "backup_stocks": "Updated Backup Stocks"
+}
+
+###
+
+POST http://localhost:3000/admin/delete_lab  HTTP/1.1
+Content-Type: application/json
+
+{
+    "labId": 1
+}
+
+###
+
+
