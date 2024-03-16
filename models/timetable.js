@@ -8,7 +8,7 @@ module.exports = (sequelize, Sequelize) => {
             autoIncrement: true
         },
         lab_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false,
             references: {
                 model: 'Labs',
@@ -16,7 +16,7 @@ module.exports = (sequelize, Sequelize) => {
             }
         },
         subject_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false,
         },
         subject_name: {
@@ -37,7 +37,11 @@ module.exports = (sequelize, Sequelize) => {
         },
         subject_teacher: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true,
+            references: {
+                model: 'Staffs',
+                key: 'staffid'
+            }
         }
     });
 

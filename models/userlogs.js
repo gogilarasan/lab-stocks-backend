@@ -37,11 +37,19 @@ module.exports = (sequelize, Sequelize) => {
         },
         exit_time: {
             type: DataTypes.TIME,
-            allowNull: false
+            allowNull: true
         },
         date: {
             type: DataTypes.DATEONLY,
             allowNull: false
+        },
+        timetable_id: {
+            type: DataTypes.INTEGER,
+            allowNull: false,
+            references: {
+                model: 'Timetables',
+                key: 'timetable_id'
+            }
         }
     });
 

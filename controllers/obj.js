@@ -6,4 +6,5 @@ obj.staff = require("./staff");
 obj.stock = require("./stocks");
 obj.timetable = require("./timetable");
 obj.userlog = require("./userlogs");
+obj.stockdept = require("./stockdept");
 module.exports = obj

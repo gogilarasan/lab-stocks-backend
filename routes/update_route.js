@@ -43,7 +43,7 @@ router.post('/update_stock_dept', async (req, res) => {
     const deptId = req.body.deptId;
     const deptData = req.body;
     try {
-        const updatedDept = await StockDeptController.updateStockDept(deptId, deptData);
+        const updatedDept = await obj.stockdept.updateStockDept(deptId, deptData);
         if (updatedDept) {
             res.status(200).json({ "message": "Stock department updated successfully" });
         } else {
@@ -51,6 +51,54 @@ router.post('/update_stock_dept', async (req, res) => {
         }
     } catch (error) {
         console.error('Error updating stock department:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/update_staff', async (req, res) => {
+    const staffId = req.body.staffId;
+    const updatedData = req.body;
+    try {
+        const updatedStaff = await obj.staff.updateStaff(staffId, updatedData);
+        if (updatedStaff) {
+            res.status(200).json({ "message": "Staff updated successfully", "data": updatedStaff });
+        } else {
+            res.status(404).json({ "error": "Staff not found" });
+        }
+    } catch (error) {
+        console.error('Error updating staff:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/update_timetable', async (req, res) => {
+    const timetableId = req.body.timetableId;
+    const updatedData = req.body.updatedData;
+    try {
+        const updatedTimetable = await obj.timetable.updateTimetable(db,timetableId, updatedData);
+        if (updatedTimetable) {
+            res.status(200).json({ "message": "Timetable updated successfully", "data": updatedTimetable });
+        } else {
+            res.status(404).json({ "error": "Timetable not found" });
+        }
+    } catch (error) {
+        console.error('Error updating timetable:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/update_research_scholar', async (req, res) => {
+    const scholarId = req.body.scholarId;
+    const updatedData = req.body.updatedData;
+    try {
+        const updatedScholar = await obj.rs.updateResearchScholar(db,scholarId, updatedData);
+        if (updatedScholar) {
+            res.status(200).json({ "message": "Research scholar updated successfully", "data": updatedScholar });
+        } else {
+            res.status(404).json({ "error": "Research scholar not found" });
+        }
+    } catch (error) {
+        console.error('Error updating research scholar:', error);
         res.status(500).json({ "error": "Internal server error" });
     }
 });

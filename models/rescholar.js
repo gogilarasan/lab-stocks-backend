@@ -3,9 +3,9 @@ const { DataTypes } = require('sequelize');
 module.exports = (sequelize, Sequelize) => {
     const ResearchScholar = sequelize.define('ResearchScholar', {
         rs_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             primaryKey: true,
-            autoIncrement: true
+            unique:true,
         },
         rs_name: {
             type: DataTypes.STRING,
@@ -19,9 +19,25 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.INTEGER,
             allowNull: false
         },
+        distid: {
+            type: DataTypes.STRING,
+            allowNull: true,
+            references: {
+                model: 'Stocks',
+                key: 'dist_id'
+            }
+        },
         guide: {
             type: DataTypes.STRING,
             allowNull: false
+        },
+        staff_id: {
+            type: DataTypes.STRING,
+            allowNull: false,
+            references: {
+                model: 'Staffs',
+                key: 'staffid'
+            }
         }
     });
 

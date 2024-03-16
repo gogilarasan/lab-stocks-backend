@@ -13,7 +13,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         distid: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
             references: {
                 model: 'Stocks',
                 key: 'dist_id'
@@ -22,7 +22,15 @@ module.exports = (sequelize, Sequelize) => {
         researchscholarcount: {
             type: DataTypes.INTEGER,
             allowNull: false
-        }
+        },
+        timetable_id: {
+            type: DataTypes.INTEGER,
+            allowNull: true,
+            references: {
+                model: 'Timetables',
+                key: 'timetable_id'
+            }
+        },
     });
 
     return Staff;

@@ -1,7 +1,9 @@
+###  LABS
 POST http://localhost:3000/admin/create_lab  HTTP/1.1
 Content-Type: application/json 
 
 {
+    "lab_id": "IT4455",
     "lab_name": "Lab Name",
     "lab_incharge": "Lab Incharge",
     "cpu_count": 10,
@@ -17,7 +19,7 @@ POST http://localhost:3000/admin/get_lab_by_id  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "labId": 1
+    "labId": "IT4455"
 }
 
 ###
@@ -31,7 +33,7 @@ POST http://localhost:3000/admin/update_lab  HTTP/1.1
 Content-Type: application/json
 
 {
-    "lab_id": 1,
+    "lab_id": "IT4455",
     "lab_name": "Updated Lab Name",
     "lab_incharge": "Updated Lab Incharge",
     "cpu_count": 20,
@@ -47,9 +49,227 @@ POST http://localhost:3000/admin/delete_lab  HTTP/1.1
 Content-Type: application/json
 
 {
-    "labId": 1
+    "labId": "IT4455"
+}
+
+### Stocks Depart
+
+POST http://localhost:3000/admin/create_stock_dept HTTP/1.1
+Content-Type: application/json
+
+{
+    "stockRegisterPageNo": 1,
+    "stockRegisterSlNo": 1,
+    "description": "Description",
+    "bookFigureQuantity": 10,
+    "bookStockValueRs": 100,
+    "issuedToRemarks": "Issued to Remarks",
+    "location": "Location"
 }
 
 ###
+
+POST http://localhost:3000/admin/delete_stock_dept HTTP/1.1
+Content-Type: application/json
+
+{
+    "deptId": 2
+}
+
+###
+POST http://localhost:3000/admin/update_stock_dept HTTP/1.1
+Content-Type: application/json
+
+{
+    "deptId": 3,
+    "stockRegisterPageNo": 2,
+    "stockRegisterSlNo": 2,
+    "description": "Updated Description",
+    "bookFigureQuantity": 20,
+    "bookStockValueRs": 200,
+    "issuedToRemarks": "Updated Issued to Remarks",
+    "location": "Updated Location"
+}
+
+###
+
+POST http://localhost:3000/admin/get_stock_dept_by_id HTTP/1.1
+Content-Type: application/json
+
+{
+    "deptId": 1
+}
+
+###
+
+POST http://localhost:3000/admin/get_all_stock_depts HTTP/1.1
+Content-Type: application/json
+
+### Staff
+
+POST http://localhost:3000/admin/create_staff HTTP/1.1
+Content-Type: application/json
+
+{
+    "staffid": "S1",
+    "staffname": "John Doe",
+    "researchscholarcount": 5
+}
+
+
+###
+
+POST http://localhost:3000/admin/get_staff_by_id HTTP/1.1
+Content-Type: application/json
+
+{
+    "staffId": "S1"
+}
+
+###
+
+POST http://localhost:3000/admin/get_all_staffs HTTP/1.1
+Content-Type: application/json
+
+###
+
+POST http://localhost:3000/admin/update_staff HTTP/1.1
+Content-Type: application/json
+
+{
+    "staffId": "S1",
+    "staffname": "John Doe",
+    "researchscholarcount": 5
+}
+
+###
+
+POST http://localhost:3000/admin/delete_staff HTTP/1.1
+Content-Type: application/json
+
+{
+    "staffId": "S1"
+}
+
+### TimeTable
+
+POST http://localhost:3000/admin/create_timetable HTTP/1.1
+Content-Type: application/json
+
+{
+    "lab_id": "IT4455",
+    "subject_id":"IT5506",
+    "subject_name": "Mathematics",
+    "day": "Monday",
+    "session_type": "FN",
+    "timings": "9:00 AM - 11:00 AM",
+    "subject_teacher": "S1"
+}
+
+###
+
+POST http://localhost:3000/admin/get_all_timetables HTTP/1.1
+Content-Type: application/json
+
+###
+
+POST http://localhost:3000/admin/get_timetable_by_id HTTP/1.1
+Content-Type: application/json
+
+{
+    "timetableId": 4
+}
+
+###
+
+POST http://localhost:3000/admin/update_timetable HTTP/1.1
+Content-Type: application/json
+
+{
+    "timetableId": 4,
+    "lab_id": "IT4455",
+    "subject_id":"IT5506",
+    "subject_name": "Mathematics",
+    "day": "Monday",
+    "session_type": "FN",
+    "timings": "9:00 AM - 11:00 AM",
+    "subject_teacher": "S1"
+}
+
+###
+
+POST http://localhost:3000/admin/delete_timetable HTTP/1.1
+Content-Type: application/json
+
+{
+    "timetableId": 4
+}
+
+### Research Scholar
+
+POST http://localhost:3000/admin/create_research_scholar HTTP/1.1
+Content-Type: application/json
+
+{
+    "rs_id": "RS123",
+    "rs_name": "John Doe",
+    "seat_no": "A1",
+    "tenure": 3,
+    "distid": "ST456",
+    "guide": "Dr. Smith",
+    "staff_id": "S1"
+}
+
+###
+
+POST http://localhost:3000/admin/get_all_research_scholars HTTP/1.1
+Content-Type: application/json
+
+###
+
+POST http://localhost:3000/admin//get_research_scholar_by_id HTTP/1.1
+Content-Type: application/json
+
+{
+    "scholarId":"RS123"
+}
+
+###
+
+POST http://localhost:3000/admin/update_research_scholar HTTP/1.1
+Content-Type: application/json
+
+{
+    "rs_id": "RS123",
+    "rs_name": "John Doe",
+    "seat_no": "A1",
+    "tenure": 3,
+    "distid": "ST456",
+    "guide": "Dr. Smith",
+    "staff_id": "S789"
+}
+
+###
+
+POST http://localhost:3000/admin/delete_research_scholar HTTP/1.1
+Content-Type: application/json
+
+{
+    "scholarId":"RS123"
+}
+
+### Userlogs
+
+
+
+
+
+
+
+
+
+
+
+
 
 

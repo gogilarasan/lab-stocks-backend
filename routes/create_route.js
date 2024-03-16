@@ -37,13 +37,44 @@ router.post('/create_stock', async (req, res) => {
 
 router.post('/create_stock_dept', async (req, res) => {
     try {
-        const result = await StockDeptController.createStockDept(req.body);
+        const result = await obj.stockdept.createStockDept(req.body);
         res.status(200).json({ "message": "Stock department created successfully", "data": result });
     } catch (error) {
         console.error('Error creating stock department:', error);
         res.status(500).json({ "error": "Internal server error" });
     }
 });
+
+router.post('/create_staff', async (req, res) => {
+    try {
+        const result = await obj.staff.createStaff(db ,req.body);
+        res.status(200).json({ "message": "Staff created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating staff:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/create_timetable', async (req, res) => {
+    try {
+        const result = await obj.timetable.createTimetable(db, req.body);
+        res.status(200).json({ "message": "Timetable created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating timetable:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/create_research_scholar', async (req, res) => {
+    try {
+        const result = await obj.rs.createResearchScholar(db,req.body);
+        res.status(200).json({ "message": "Research scholar created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating research scholar:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
 
 
 
