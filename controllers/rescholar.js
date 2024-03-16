@@ -1,7 +1,7 @@
 const db = require('../models/database');
 
 class ResearchScholarController {
-    static async createResearchScholar(rsData) {
+    static async createResearchScholar(db, rsData) {
         try {
             const researchScholar = await db.Rescholar.create(rsData);
             return researchScholar;
@@ -11,7 +11,7 @@ class ResearchScholarController {
         }
     }
 
-    static async getResearchScholarById(rsId) {
+    static async getResearchScholarById(db, rsId) {
         try {
             const researchScholar = await db.Rescholar.findByPk(rsId);
             return researchScholar;
@@ -21,7 +21,7 @@ class ResearchScholarController {
         }
     }
 
-    static async getAllResearchScholars() {
+    static async getAllResearchScholars(db) {
         try {
             const researchScholars = await db.Rescholar.findAll();
             return researchScholars;
@@ -31,9 +31,9 @@ class ResearchScholarController {
         }
     }
 
-    static async updateResearchScholar(rsId, rsData) {
+    static async updateResearchScholar(db, rsId, rsData) {
         try {
-            await db.ResearchScholar.update(rsData, {
+            await db.ReScholar.update(rsData, {
                 where: { rs_id: rsId }
             });
             const updatedResearchScholar = await db.Rescholar.findByPk(rsId);
@@ -44,7 +44,7 @@ class ResearchScholarController {
         }
     }
 
-    static async deleteResearchScholar(rsId) {
+    static async deleteResearchScholar(db, rsId) {
         try {
             const researchScholar = await db.Rescholar.findByPk(rsId);
             if (researchScholar) {

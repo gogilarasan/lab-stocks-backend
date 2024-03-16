@@ -16,7 +16,7 @@ module.exports = (sequelize, Sequelize) => {
             allowNull: false
         },
         tenure: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.DATE,
             allowNull: false
         },
         distid: {

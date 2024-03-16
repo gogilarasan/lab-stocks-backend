@@ -214,11 +214,11 @@ Content-Type: application/json
     "rs_id": "RS123",
     "rs_name": "John Doe",
     "seat_no": "A1",
-    "tenure": 3,
-    "distid": "ST456",
+    "tenure": "2024-03-16",
     "guide": "Dr. Smith",
     "staff_id": "S1"
 }
+
 
 ###
 
@@ -259,6 +259,7 @@ Content-Type: application/json
 }
 
 ### Userlogs
+
 
 
 

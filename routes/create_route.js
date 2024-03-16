@@ -67,6 +67,7 @@ router.post('/create_timetable', async (req, res) => {
 
 router.post('/create_research_scholar', async (req, res) => {
     try {
+        console.log('Request body:', req.body);
         const result = await obj.rs.createResearchScholar(db,req.body);
         res.status(200).json({ "message": "Research scholar created successfully", "data": result });
     } catch (error) {

@@ -135,7 +135,7 @@ router.post('/get_all_timetables', async (req, res) => {
 router.post('/get_research_scholar_by_id', async (req, res) => {
     const scholarId = req.body.scholarId;
     try {
-        const scholar = await obj.rs.getResearchScholarById(scholarId);
+        const scholar = await obj.rs.getResearchScholarById(db,scholarId);
         if (scholar) {
             res.status(200).json(scholar);
         } else {
