@@ -1,4 +1,8 @@
 const { DataTypes } = require('sequelize');
+const { Op } = require('sequelize');
+
+
+
 
 module.exports = (sequelize, Sequelize) => {
     const userlogs = sequelize.define('Userlog', {
@@ -51,7 +55,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         timetable_id: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
             references: {
                 model: 'Timetables',
                 key: 'timetable_id'

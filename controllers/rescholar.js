@@ -36,16 +36,22 @@ class ResearchScholarController {
 
     static async updateResearchScholar(db, rsId, rsData) {
         try {
-            await db.ReScholar.update(rsData, {
+            const updatedRows = await db.Rescholar.update(rsData, {
                 where: { rs_id: rsId }
             });
-            const updatedResearchScholar = await db.Rescholar.findByPk(rsId);
-            return updatedResearchScholar;
+    
+            if (updatedRows[0] === 1) {
+                const updatedResearchScholar = await db.Rescholar.findByPk(rsId);
+                return updatedResearchScholar;
+            } else {
+                throw new Error('Research scholar not found or not updated');
+            }
         } catch (error) {
             console.error('Error updating research scholar:', error);
             throw error;
         }
     }
+    
 
     static async deleteResearchScholar(db, rsId) {
         try {
