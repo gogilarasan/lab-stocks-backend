@@ -1,19 +1,20 @@
 const { DataTypes } = require('sequelize');
 
 module.exports = (sequelize, Sequelize) => {
-    const UserLogs = sequelize.define('UserLogs', {
+    const userlogs = sequelize.define('Userlog', {
         id: {
             type: DataTypes.INTEGER,
             primaryKey: true,
             autoIncrement: true
         },
-        labname: {
-            type: DataTypes.STRING,
-            allowNull: false
-        },
+        
         labid: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: false,
+            references: {
+                model: 'Labs',
+                key: 'lab_id'
+            }
         },
         sysseat: {
             type: DataTypes.STRING,
@@ -21,7 +22,12 @@ module.exports = (sequelize, Sequelize) => {
         },
         distid: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true,
+            references: {
+                model : "Stocks",
+                key: "dist_id"
+
+            }
         },
         username: {
             type: DataTypes.STRING,
@@ -44,7 +50,7 @@ module.exports = (sequelize, Sequelize) => {
             allowNull: false
         },
         timetable_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false,
             references: {
                 model: 'Timetables',
@@ -53,5 +59,5 @@ module.exports = (sequelize, Sequelize) => {
         }
     });
 
-    return UserLogs;
+    return userlogs;
 };

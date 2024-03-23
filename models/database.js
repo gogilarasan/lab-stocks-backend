@@ -23,7 +23,7 @@ db.Stock = require("./stocks")(sequelize, Sequelize);
 db.Staff = require("./staff")(sequelize, Sequelize);
 db.Rescholar = require("./rescholar")(sequelize, Sequelize);
 db.Complaint = require("./complaints")(sequelize, Sequelize);
-db.UserLog = require("./userlogs")(sequelize, Sequelize);
+db.Userlog = require("./userlogs")(sequelize, Sequelize);
 db.TimeTable = require("./timetable")(sequelize, Sequelize);
 db.StockDept = require("./stockDept")(sequelize, Sequelize);
 

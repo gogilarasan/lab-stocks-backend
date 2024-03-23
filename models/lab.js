@@ -14,7 +14,7 @@ module.exports = (sequelize, Sequelize) => {
         lab_incharge: {
             type: DataTypes.STRING,
             allowNull: false
-        },
+        }/*,
         cpu_count: {
             type: DataTypes.INTEGER,
             allowNull: false
@@ -34,7 +34,7 @@ module.exports = (sequelize, Sequelize) => {
         backup_stocks: {
             type: DataTypes.STRING,
             allowNull: false
-        }
+        }*/
     });
 
     return Lab;

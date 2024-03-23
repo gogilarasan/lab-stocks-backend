@@ -1,16 +1,14 @@
 const { DataTypes } = require('sequelize');
 
+
 module.exports = (sequelize, Sequelize) => {
     const Complaint = sequelize.define('Complaint', {
         complaint_id: {
-            type: DataTypes.INTEGER,
-            primaryKey: true,
-            autoIncrement: true
-        },
-        complainer_type: {
             type: DataTypes.STRING,
-            allowNull: false
+            primaryKey: true,
+            
         },
+        
         complainer_name: {
             type: DataTypes.STRING,
             allowNull: false

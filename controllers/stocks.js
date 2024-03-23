@@ -1,14 +1,19 @@
 const { Op } = require('sequelize');
+const db = require("../models/database");
+const id = require("shortid");
 
 class StockController {
     static async createStock(db, stockData) {
         try {
+            const s_id = id.generate();
+
+            stockData.stock_id = s_id;
             const stock = await db.Stock.create(stockData);
             return stock;
         } catch (error) {
             console.error('Error creating stock:', error);
             throw error;
-        }
+        } 
     }
 
     static async getStockById(db, stockId) {

@@ -3,7 +3,7 @@ const db = require('../models/database');
 class UserLogsController {
     static async createUserLog(db, userLogData) {
         try {
-            const userLog = await db.UserLogs.create(userLogData);
+            const userLog = await db.Userlog.create(userLogData);
             return userLog;
         } catch (error) {
             console.error('Error creating user log:', error);

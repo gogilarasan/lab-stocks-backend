@@ -3,9 +3,9 @@ const { DataTypes } = require('sequelize');
 module.exports = (sequelize, Sequelize) => {
     const Stock = sequelize.define('Stock', {
         stock_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             primaryKey: true,
-            autoIncrement: true
+            
         },
         dist_id: {
             type: DataTypes.STRING,
@@ -14,11 +14,12 @@ module.exports = (sequelize, Sequelize) => {
         },
         seat_number: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true
         },
         incharge: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true,
+
         },
         remarks: {
             type: DataTypes.STRING,

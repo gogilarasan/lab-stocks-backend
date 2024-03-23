@@ -67,7 +67,7 @@ router.post('/create_timetable', async (req, res) => {
 
 router.post('/create_research_scholar', async (req, res) => {
     try {
-        console.log('Request body:', req.body);
+        
         const result = await obj.rs.createResearchScholar(db,req.body);
         res.status(200).json({ "message": "Research scholar created successfully", "data": result });
     } catch (error) {
@@ -75,6 +75,29 @@ router.post('/create_research_scholar', async (req, res) => {
         res.status(500).json({ "error": "Internal server error" });
     }
 });
+
+router.post('/create_user_log', async (req, res) => {
+    try {
+        
+        const result = await obj.Userlog.createUserLog(db,req.body);
+        res.status(200).json({ "message": "User log created successfully", "data": result });
+    } catch (error) {
+        console.error('Error Entry of USer:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+router.post('/create_complaint', async (req, res) => {
+    try {
+        
+        const result = await obj.complaint.createComplaint(db,req.body);
+        res.status(200).json({ "message": "Complaint created successfully", "data": result });
+    } catch (error) {
+        console.error('Error Entry of Complaint:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
 
 
 

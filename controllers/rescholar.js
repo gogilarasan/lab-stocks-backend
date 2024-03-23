@@ -1,9 +1,12 @@
 const db = require('../models/database');
+const id = require("shortid");
 
 class ResearchScholarController {
-    static async createResearchScholar(db, rsData) {
+    static async createResearchScholar(db, obj) {
         try {
-            const researchScholar = await db.Rescholar.create(rsData);
+            const r_id = id.generate();
+            obj.rs_id = r_id;
+            const researchScholar = await db.Rescholar.create(obj);
             return researchScholar;
         } catch (error) {
             console.error('Error creating research scholar:', error);
