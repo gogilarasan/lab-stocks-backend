@@ -24,7 +24,7 @@ db.Staff = require("./staff")(sequelize, Sequelize);
 db.Rescholar = require("./rescholar")(sequelize, Sequelize);
 db.Complaint = require("./complaints")(sequelize, Sequelize);
 db.Userlog = require("./userlogs")(sequelize, Sequelize);
-db.TimeTable = require("./timetable")(sequelize, Sequelize);
+db.Timetable = require("./timetable")(sequelize, Sequelize);
 db.StockDept = require("./stockDept")(sequelize, Sequelize);
 
 

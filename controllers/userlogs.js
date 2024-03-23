@@ -1,4 +1,6 @@
 const db = require('../models/database');
+const { Op } = require('sequelize');
+
 
 class UserLogsController {
     static async createUserLog(db, userLogData) {
@@ -10,55 +12,56 @@ class UserLogsController {
             throw error;
         }
     }
-
     static async getUserLogById(db, userLogId) {
         try {
-            const userLog = await db.UserLogs.findByPk(userLogId);
-            return userLog;
+            const userLog = await db.Userlog.findByPk(userLogId);
+            if (userLog) {
+                return userLog;
+            } else {
+                throw new Error('User log not found');
+            }
         } catch (error) {
             console.error('Error getting user log by ID:', error);
             throw error;
         }
     }
-
-    static async getAllUserLogs(db) {
+    
+    static async getUserLogBySeatNo(db, seatNo) {
         try {
-            const userLogs = await db.UserLogs.findAll();
+            const userlogs = await db.Userlog.findAll({ where: { sysseat: seatNo } });
+            return userlogs;
+        } catch (error) {
+            console.error('Error getting user logs by seat number:', error);
+            throw error;
+        }
+    }
+
+    static async deleteUserLogsWithinDateRange(db, startDate, endDate) {
+        try {
+            const deletedCount = await db.Userlog.destroy({
+                where: {
+                    date: {
+                        [Op.between]: [startDate, endDate]
+                    }
+                }
+            });
+            return deletedCount;
+        } catch (error) {
+            console.error('Error deleting userlogs within date range:', error);
+            throw error;
+        }
+    }
+
+    static async getUserLogsByLabId(db, labId) {
+        try {
+            const userLogs = await db.Userlog.findAll({ where: { labid: labId } });
             return userLogs;
         } catch (error) {
-            console.error('Error getting all user logs:', error);
+            console.error('Error getting user logs by lab ID:', error);
             throw error;
         }
     }
 
-    static async updateUserLog(db, userLogId, userLogData) {
-        try {
-            await db.UserLogs.update(userLogData, {
-                where: { id: userLogId }
-            });
-            const updatedUserLog = await db.UserLogs.findByPk(userLogId);
-            return updatedUserLog;
-        } catch (error) {
-            console.error('Error updating user log:', error);
-            throw error;
-        }
-    }
-
-    static async deleteUserLog(db, userLogId) {
-        try {
-            const userLog = await db.UserLogs.findByPk(userLogId);
-            if (userLog) {
-                await userLog.destroy();
-                return true;
-            } else {
-                console.error('User log not found with ID:', userLogId);
-                return false;
-            }
-        } catch (error) {
-            console.error('Error deleting user log:', error);
-            throw error;
-        }
-    }
 }
 
 module.exports = UserLogsController;

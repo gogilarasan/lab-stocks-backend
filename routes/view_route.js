@@ -133,7 +133,7 @@ router.post('/get_all_timetables', async (req, res) => {
 });
 
 router.post('/get_research_scholar_by_id', async (req, res) => {
-    const scholarId = req.body.scholarId;
+    const scholarId = req.body.rs_id;
     try {
         const scholar = await obj.rs.getResearchScholarById(db,scholarId);
         if (scholar) {
@@ -157,6 +157,60 @@ router.post('/get_all_research_scholars', async (req, res) => {
     }
 });
 
+router.post('/get_userlog_by_id', async (req, res) => {
+    const userLogId = req.body.userLogId;
+    try {
+        const userLog = await obj.Userlog.getUserLogById(db, userLogId);
+        res.status(200).json(userLog);
+    } catch (error) {
+        console.error('Error getting user log by ID:', error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
 
+router.post('/get_userlog_by_seatno', async (req, res) => {
+    const seatNo = req.body.sysseat;
+    try {
+        const userLogs = await obj.Userlog.getUserLogBySeatNo(db, seatNo);
+        res.status(200).json(userLogs);
+    } catch (error) {
+        console.error('Error getting user logs by seat number:', error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+
+
+
+router.post('/get_user_logs_by_lab_id', async (req, res) => {
+    const labId = req.body.labid;
+    try {
+        const userLogs = await obj.Userlog.getUserLogsByLabId(db, labId);
+        res.status(200).json(userLogs);
+    } catch (error) {
+        console.error('Error getting user logs by lab ID:', error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+
+router.post('/get_complaint_by_id', async (req, res) => {
+    try {
+        const complaintId = req.body.complaintId; // Corrected key name
+        const complaint = await obj.complaint.getComplaintById(db, complaintId);
+        res.status(200).json({ message: "Complaint retrieved successfully", data: complaint });
+    } catch (error) {
+        console.error('Error getting complaint by ID:', error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
+
+router.get('/get_all_complaints', async (req, res) => {
+    try {
+        const complaints = await obj.complaint.getAllComplaints(db);
+        res.status(200).json({ message: "All complaints retrieved successfully", data: complaints });
+    } catch (error) {
+        console.error('Error getting all complaints:', error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
 
 module.exports = router;

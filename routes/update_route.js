@@ -59,7 +59,7 @@ router.post('/update_staff', async (req, res) => {
     const staffId = req.body.staffId;
     const updatedData = req.body;
     try {
-        const updatedStaff = await obj.staff.updateStaff(staffId, updatedData);
+        const updatedStaff = await obj.staff.updateStaff(db,staffId, updatedData);
         if (updatedStaff) {
             res.status(200).json({ "message": "Staff updated successfully", "data": updatedStaff });
         } else {
@@ -72,26 +72,29 @@ router.post('/update_staff', async (req, res) => {
 });
 
 router.post('/update_timetable', async (req, res) => {
-    const timetableId = req.body.timetableId;
-    const updatedData = req.body.updatedData;
+    const { timetable_id, lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher } = req.body;
+
     try {
-        const updatedTimetable = await obj.timetable.updateTimetable(db,timetableId, updatedData);
+        const updatedTimetable = await obj.timetable.updateTimetableById(timetable_id, { lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher });
+
         if (updatedTimetable) {
-            res.status(200).json({ "message": "Timetable updated successfully", "data": updatedTimetable });
+            res.status(200).json({ message: 'Timetable updated successfully', data: updatedTimetable });
         } else {
-            res.status(404).json({ "error": "Timetable not found" });
+            res.status(404).json({ error: 'Timetable not found' });
         }
     } catch (error) {
         console.error('Error updating timetable:', error);
-        res.status(500).json({ "error": "Internal server error" });
+        res.status(500).json({ error: 'Internal server error' });
     }
 });
 
+
+
 router.post('/update_research_scholar', async (req, res) => {
-    const scholarId = req.body.scholarId;
-    const updatedData = req.body.updatedData;
+    const rsId = req.body.rs_id;
+    const rsData = req.body; 
     try {
-        const updatedScholar = await obj.rs.updateResearchScholar(db,scholarId, updatedData);
+        const updatedScholar = await obj.rs.updateResearchScholar(db, rsId, rsData);
         if (updatedScholar) {
             res.status(200).json({ "message": "Research scholar updated successfully", "data": updatedScholar });
         } else {
@@ -102,6 +105,7 @@ router.post('/update_research_scholar', async (req, res) => {
         res.status(500).json({ "error": "Internal server error" });
     }
 });
+
 
 
 module.exports = router;

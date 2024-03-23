@@ -37,7 +37,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         subject_teacher: {
             type: DataTypes.STRING,
-            allowNull: true,
+            allowNull: false,
             references: {
                 model: 'Staffs',
                 key: 'staffid'
