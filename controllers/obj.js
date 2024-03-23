@@ -1,10 +1,10 @@
 const obj ={}
-obj.complain = require("./complaints");
 obj.lab= require("./labs");
 obj.rs= require("./rescholar");
 obj.staff = require("./staff");
 obj.stock = require("./stocks");
 obj.timetable = require("./timetable");
-obj.userlog = require("./userlogs");
+obj.Userlog = require("./userlogs");
 obj.stockdept = require("./stockdept");
+obj.complaint = require("./complaints");
 module.exports = obj

@@ -19,18 +19,17 @@ module.exports = (sequelize, Sequelize) => {
                 key: 'dist_id'
             }
         },
+        stock_type: {
+            type: DataTypes.STRING,
+            allowNull: true
+
+        },
+        /*
         researchscholarcount: {
             type: DataTypes.INTEGER,
             allowNull: false
-        },
-        timetable_id: {
-            type: DataTypes.INTEGER,
-            allowNull: true,
-            references: {
-                model: 'Timetables',
-                key: 'timetable_id'
-            }
-        },
+        },*/
+        
     });
 
     return Staff;

@@ -1,9 +1,13 @@
 const db = require('../models/database');
+const id = require("shortid");
 
 class TimetableController {
-    static async createTimetable(db, timetableData) {
+    static async createTimetable(db, obj) {
         try {
-            const timetable = await db.TimeTable.create(timetableData);
+            const t_id = id.generate();
+
+            obj.timetable_id = t_id;
+            const timetable = await db.TimeTable.create(obj);
             return timetable;
         } catch (error) {
             console.error('Error creating timetable:', error);

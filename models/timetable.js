@@ -3,9 +3,9 @@ const { DataTypes } = require('sequelize');
 module.exports = (sequelize, Sequelize) => {
     const Timetable = sequelize.define('Timetable', {
         timetable_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             primaryKey: true,
-            autoIncrement: true
+            
         },
         lab_id: {
             type: DataTypes.STRING,
