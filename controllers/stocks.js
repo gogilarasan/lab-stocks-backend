@@ -26,6 +26,16 @@ class StockController {
         }
     }
 
+    static async getAllStocksByLabId(db, labId) {
+        try {
+            const stocks = await db.Stock.findAll({ where: { lab_id: labId } });
+            return stocks;
+        } catch (error) {
+            console.error('Error getting all stocks by lab ID:', error);
+            throw error;
+        }
+    }
+
     static async getAllStocks(db) {
         try {
             const stocks = await db.Stock.findAll();

@@ -3,7 +3,7 @@ POST http://localhost:3000/admin/create_lab  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "lab_id": "CL1",
+    "lab_id": "CL9",
     "lab_name": "firstfloor",
     "lab_incharge": "yashoda"
    
@@ -16,12 +16,12 @@ Content-Type: application/json
 {
     
     
-    "dist_id": "D018",
+    "dist_id": "D019",
     "seat_number": "A104",
     "incharge": "yashoda",
     "remarks": "Good condition",
     "stock_type": "Type A",
-    "lab_id": "F1"
+    "lab_id": "CL2"
   
 }
 
@@ -124,6 +124,20 @@ Content-Type: application/json
         "timetable_id": "xym4t4V7o"
 }
 
+###
+
+POST http://localhost:3000/admin/create_user_log1 HTTP/1.1
+Content-Type: application/json
+
+{
+        
+    "lab_id": "F1",
+    "seat_no": "SF1",
+    "name": "Onlyyy log",
+    "rollno": "2021115037",
+    "entry_time": "09:00:00",
+    "date": "2024-03-24"
+}
 ###
 
 POST http://localhost:3000/admin/get_userlog_by_id HTTP/1.1
@@ -271,7 +285,15 @@ Content-Type: application/json
 }
 
 ###
+GET http://localhost:3000/admin/get_stocks_by_lab_id HTTP/1.1
+Content-Type: application/json
 
+{
+    "lab_id": "CL2"
+}
+
+
+###
 POST http://localhost:3000/admin/get_all_stock_depts HTTP/1.1
 Content-Type: application/json
 
