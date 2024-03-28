@@ -5,7 +5,8 @@ Content-Type: application/json
 {
     "lab_id": "CL9",
     "lab_name": "firstfloor",
-    "lab_incharge": "yashoda"
+    "lab_incharge": "yashoda",
+    "lab_description":"Name"
    
 }
 
@@ -21,7 +22,7 @@ Content-Type: application/json
     "incharge": "yashoda",
     "remarks": "Good condition",
     "stock_type": "Type A",
-    "lab_id": "CL2"
+    "lab_id": "CL1"
   
 }
 
@@ -38,7 +39,7 @@ Content-Type: application/json
     "incharge": "yashoda updated",
     "remarks": "Good condition",
     "stock_type": "Type A",
-    "lab_id": "F1"
+    "lab_id": "CL1"
   
 }
 
@@ -48,7 +49,7 @@ POST http://localhost:3000/admin/delete_stock  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "stock_id": "UBH6M3UPZ"
+    "stock_id": "dOWKKP7uY"
 }
 
 
@@ -71,7 +72,7 @@ Content-Type: application/json
     
    "staffid": "S000",
     "staffname": "Test C SIr",
-    "distid": "D003",
+    //"distid": "D003",
     "stock_type": "Type A"
     
 }
@@ -82,13 +83,13 @@ POST http://localhost:3000/admin/create_timetable HTTP/1.1
 Content-Type: application/json
 
 {
-    "lab_id": "F1",
+    "lab_id": "CL1",
     "subject_id":"IT5506",
     "subject_name": "DBMS Veimala",
     "day": "Monday",
     "session_type": "FN",
     "timings": "9:00 AM - 11:00 AM",
-    "subject_teacher": "S003"
+    "subject_teacher": "S000"
 }
 
 
@@ -101,9 +102,9 @@ Content-Type: application/json
     
     "rs_name": "Srivani",
     "seat_no": "TF10",
-    "distid": "D003",
+    "distid": "D018",
     "tenure": "2024-03-16",
-    "staff_id": "S003"
+    "staff_id": "S000"
 }
 
 ### Userlogs
@@ -113,15 +114,15 @@ Content-Type: application/json
 
 {
         
-        "labid": "F1",
+        "labid": "CL1",
         "sysseat": "SF1",
-        "distid": "D003",
+        "distid": "D020",
         "username": "Gogilarasaaaaaaan div",
         "rollno": "2021115037",
         "entry_time": "09:00:00",
         "exit_time": "17:00:00",
         "date": "2024-03-24",
-        "timetable_id": "xym4t4V7o"
+        "timetable_id": "vFN3tIi1y"
 }
 
 ###
@@ -163,7 +164,7 @@ POST http://localhost:3000/admin/get_user_logs_by_lab_id HTTP/1.1
 Content-Type: application/json
 
 {
-    "labid": "F1"
+    "labid": "CL1"
 }
 ###
 
@@ -262,8 +263,8 @@ POST http://localhost:3000/admin/update_lab  HTTP/1.1
 Content-Type: application/json
 
 {
-    "lab_id": "F1",
-    "lab_name": "Knuth Laboratory",
+    "lab_id": "CL1",
+    "lab_name": "Kn Laboratory",
     "lab_incharge": "yashoda"
     
 }
@@ -274,7 +275,7 @@ POST http://localhost:3000/admin/delete_lab  HTTP/1.1
 Content-Type: application/json
 
 {
-    "labId": "F1"
+    "labId": "CL1"
 }
 
 
@@ -314,16 +315,24 @@ Content-Type: application/json
 ###
 GET http://localhost:3000/admin/get_stocks_by_lab_id HTTP/1.1
 Content-Type: application/json
+###
+POST http://localhost:3000/admin/get_stock_by_Labid HTTP/1.1
+Content-Type: application/json
 
 {
-    "lab_id": "CL2"
+    "lab_id": "CL1"
 }
 
-
 ###
+
 POST http://localhost:3000/admin/get_all_stock_depts HTTP/1.1
 Content-Type: application/json
 
+
+###
+
+POST http://localhost:3000/admin/get_all_stocks HTTP/1.1
+Content-Type: application/json
 
 
 
@@ -410,7 +419,8 @@ Content-Type: application/json
 
 ###
 
-POST http://localhost:3000/admin//get_research_scholar_by_id HTTP/1.1
+
+POST http://localhost:3000/admin/get_research_scholar_by_id HTTP/1.1
 Content-Type: application/json
 
 {

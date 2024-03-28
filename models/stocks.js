@@ -16,11 +16,6 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.STRING,
             allowNull: true
         },
-        incharge: {
-            type: DataTypes.STRING,
-            allowNull: true,
-
-        },
         remarks: {
             type: DataTypes.STRING,
             allowNull: true
