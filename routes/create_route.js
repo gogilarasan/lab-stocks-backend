@@ -45,6 +45,18 @@ router.post('/create_stock_dept', async (req, res) => {
     }
 });
 
+router.post('/create_stock_dept_arr', async (req, res) => {
+    try {
+        const stockDeptDataArray = req.body.stockDeptDataArray; // Expecting an array of stock data
+        const result = await obj.stockdept.createStockDeptArr(stockDeptDataArray);
+        res.status(200).json({ "message": "Stock departments created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating stock departments:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+
 router.post('/create_staff', async (req, res) => {
     try {
         const result = await obj.staff.createStaff(db ,req.body);

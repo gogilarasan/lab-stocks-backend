@@ -11,6 +11,21 @@ class StockDeptController {
         }
     }
 
+    static async createStockDeptArr(stockDeptDataArray) {
+        try {
+            const createdStocks = await Promise.all(stockDeptDataArray.map(async (stockDeptData) => {
+                const stockDept = await db.StockDept.create(stockDeptData);
+                return stockDept;
+            }));
+            return createdStocks;
+        } catch (error) {
+            console.error('Error creating stock departments:', error);
+            throw error;
+        }
+    }
+    
+    
+
     static async getStockDeptById(stockDeptId) {
         try {
             const stockDept = await db.StockDept.findByPk(stockDeptId);
