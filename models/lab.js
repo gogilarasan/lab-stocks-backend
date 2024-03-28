@@ -4,7 +4,7 @@ module.exports = (sequelize, Sequelize) => {
     const Lab = sequelize.define('Lab', {
         lab_id: {
             type: DataTypes.STRING,
-            unique:true,
+            unique: true,
             primaryKey: true,
         },
         lab_name: {
@@ -14,6 +14,10 @@ module.exports = (sequelize, Sequelize) => {
         lab_incharge: {
             type: DataTypes.STRING,
             allowNull: false
+        },
+        lab_description: {
+            type: DataTypes.STRING,
+            allowNull: true
         }/*,
         cpu_count: {
             type: DataTypes.INTEGER,

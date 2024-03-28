@@ -56,6 +56,21 @@ router.post('/get_stock_by_id', async (req, res) => {
     }
 });
 
+router.post('/get_stock_by_Labid', async (req, res) => {
+    const LabId = req.body.lab_id;
+    try {
+        const stock = await obj.stock.getStockByLabId(db, LabId);
+        if (stock) {
+            res.status(200).json(stock);
+        } else {
+            res.status(404).json({ "error": "Stock not found" });
+        }
+    } catch (error) {
+        console.error('Error getting stock by ID:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
 router.post('/get_stock_dept_by_id', async (req, res) => {
     const deptId = req.body.deptId;
     try {

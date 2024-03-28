@@ -13,12 +13,22 @@ class StockController {
         } catch (error) {
             console.error('Error creating stock:', error);
             throw error;
-        } 
+        }
     }
 
     static async getStockById(db, stockId) {
         try {
             const stock = await db.Stock.findByPk(stockId);
+            return stock;
+        } catch (error) {
+            console.error('Error getting stock by ID:', error);
+            throw error;
+        }
+    }
+
+    static async getStockByLabId(db, LabId) {
+        try {
+            const stock = await db.Stock.findAll({ where: { lab_id: LabId } });
             return stock;
         } catch (error) {
             console.error('Error getting stock by ID:', error);
@@ -56,7 +66,7 @@ class StockController {
         try {
             // Delete the stock with the given stock_id
             const deletedRows = await db.Stock.destroy({ where: { stock_id: stockId } });
-    
+
             // Check if any rows were affected (i.e., if the stock was found and deleted)
             if (deletedRows > 0) {
                 return true; // Stock deleted successfully
@@ -69,19 +79,19 @@ class StockController {
             throw error;
         }
     }
-    
+
 
     static async deleteStockByDistId(db, distId) {
         try {
             // Find the stock with the given dist_id
             const stock = await db.Stock.findOne({ where: { dist_id: distId } });
-    
+
             // If stock is not found, return false
             if (!stock) {
                 console.error('Stock not found with dist_id:', distId);
                 return false;
             }
-    
+
             // If stock is found, delete it
             await stock.destroy();
             return true;
@@ -90,8 +100,8 @@ class StockController {
             throw error;
         }
     }
-    
-    
+
+
 }
 
 module.exports = StockController;
