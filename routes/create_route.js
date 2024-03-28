@@ -87,6 +87,25 @@ router.post('/create_user_log', async (req, res) => {
     }
 });
 
+router.post('/create_user_log1', async (req, res) => {
+    try {
+        const userInput = {
+            labid: req.body.lab_id,
+            sysseat: req.body.seat_no,
+            username: req.body.name,
+            rollno: req.body.rollno,
+            entry_time: req.body.entry_time,
+            date: req.body.date
+        };
+        const userLog = await obj.Userlog.createUserLog1(db, userInput);
+        res.status(200).json({ message: "User log created successfully", data: userLog });
+    } catch (error) {
+        console.error('Error creating user log:', error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
+
+
 router.post('/create_complaint', async (req, res) => {
     try {
         

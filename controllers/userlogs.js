@@ -12,6 +12,17 @@ class UserLogsController {
             throw error;
         }
     }
+
+    static async createUserLog1(db, obj) {
+        try {
+            const userLog = await db.Userlog.create(obj);
+            return userLog;
+        } catch (error) {
+            console.error('Error creating user log:', error);
+            throw error;
+        }
+    }
+
     static async getUserLogById(db, userLogId) {
         try {
             const userLog = await db.Userlog.findByPk(userLogId);
