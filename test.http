@@ -191,6 +191,33 @@ Content-Type: application/json
     "issuedToRemarks": "Issued to Remarks",
     "location": "Location"
 }
+###
+
+POST http://localhost:3000/admin/create_stock_dept_arr HTTP/1.1
+Content-Type: application/json
+
+{
+     "stockDeptDataArray": [
+        {
+            "stockRegisterPageNo": 1,
+            "stockRegisterSlNo": 1,
+            "description": "Hey Description",
+            "bookFigureQuantity": 10,
+            "bookStockValueRs": 100,
+            "issuedToRemarks": "Issued to Remarks",
+            "location": "Location"
+        },
+        {
+            "stockRegisterPageNo": 2,
+            "stockRegisterSlNo": 2,
+            "description": "Hey Description",
+            "bookFigureQuantity": 10,
+            "bookStockValueRs": 100,
+            "issuedToRemarks": "Issued to Remarks",
+            "location": "Location"
+        }
+    ]
+}
 
 ###
 POST http://localhost:3000/admin/create_complaint HTTP/1.1
