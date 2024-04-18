@@ -1,0 +1,4088 @@
+{
+    "659019c5-96b6-494a-b29e-99264c4ea6ee": {
+        "S.No": "1",
+        "Stock Register Page No.": "1",
+        "Stock Register Sl.No": "1",
+        "Description": "NAME BORAD",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Transferred to FSR",
+        "Location": "OFFICE"
+    },
+    "9427c4df-f9ae-4b27-ac26-49b16ef1d5d6": {
+        "S.No": "2",
+        "Stock Register Page No.": "1",
+        "Stock Register Sl.No": "2",
+        "Description": "500GB SATA LAPTOP HDD",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "USEAGE OF LAPTOP FOR HOD LAPTOP HANDOVER TO DCSE",
+        "Location": "DCSE"
+    },
+    "28b880f3-8057-489b-bfac-bd71a36bd1bd": {
+        "S.No": "3",
+        "Stock Register Page No.": "1",
+        "Stock Register Sl.No": "3",
+        "Description": "XEROX 5225   DIGITAL COPIER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "Location": "nan"
+    },
+    "15e7c4f2-2d83-45e7-bd16-62401db067d1": {
+        "S.No": "4",
+        "Stock Register Page No.": "1",
+        "Stock Register Sl.No": "3",
+        "Description": "STABILIZER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "Location": "nan"
+    },
+    "3486e902-7c84-49c5-a6c6-b60262704811": {
+        "S.No": "5",
+        "Stock Register Page No.": "1",
+        "Stock Register Sl.No": "3",
+        "Description": "XEROX LASER PRINTER 3117",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "90b4c4f6-86c6-490f-b1e2-310ccafa4c70": {
+        "S.No": "6",
+        "Stock Register Page No.": "2",
+        "Stock Register Sl.No": "4",
+        "Description": "HP LASERJET 2035 PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. L. Sairamesh",
+        "Location": "SF"
+    },
+    "f493d61a-1aa2-4928-a240-f81f54ea5635": {
+        "S.No": "7",
+        "Stock Register Page No.": "2",
+        "Stock Register Sl.No": "5",
+        "Description": "HP LASERJET PRINTER 3015 DN",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "a5f87e4d-b29f-469a-b4b1-adadb37d2016": {
+        "S.No": "8",
+        "Stock Register Page No.": "2",
+        "Stock Register Sl.No": "6",
+        "Description": "HP LASEJET PRINTER 3015DN",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "RS Cabin (1) / Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "e02fbe4d-ae66-4274-9c37-10f01438dcbd": {
+        "S.No": "9",
+        "Stock Register Page No.": "3",
+        "Stock Register Sl.No": "7",
+        "Description": "ACER DESKTOP COMPUTERS",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "f5f795e5-eae4-482a-81a6-d43590177f9f": {
+        "S.No": "10",
+        "Stock Register Page No.": "4",
+        "Stock Register Sl.No": "8",
+        "Description": "LAPTOP -DELL VOSTRO 3500 BT",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "861b1c07-8c6d-4e6c-80a5-a2b4853b1100": {
+        "S.No": "11",
+        "Stock Register Page No.": "5",
+        "Stock Register Sl.No": "9",
+        "Description": "SERVER - HP PROLIANT DL180",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "9c21c429-eb15-4453-985d-fa4c6b5e1520": {
+        "S.No": "12",
+        "Stock Register Page No.": "6",
+        "Stock Register Sl.No": "10",
+        "Description": "HP LASERJET PRINTER - M1536 DNF",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "RS Cabin (1)",
+        "Location": "TF"
+    },
+    "c3e21f5f-10d1-46df-9edc-c47e6cb8f300": {
+        "S.No": "13",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "11",
+        "Description": "DESKTOP COMPUTERS - INTELCORE (i5)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "f960a2ca-1d09-4990-acc4-d8b3838e248f": {
+        "S.No": "14",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "12-A",
+        "Description": "CREATIVE HEADSET HS510",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Missing Item - 4 Nos. / Item Condominated in 2020",
+        "Location": "NA / TF"
+    },
+    "c1cf335e-8f99-4b93-b351-80276c1a2512": {
+        "S.No": "15",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "12-B",
+        "Description": "DIGITAL NOTE BOOK - iBALL MAKE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "7b6d718e-22fd-434f-96de-6624b992ff26": {
+        "S.No": "16",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "12-C",
+        "Description": "PHONE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "4eb023f9-b71d-4847-b10a-2107fd0a671a": {
+        "S.No": "17",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "13-A",
+        "Description": "8 PORT SWITCH",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "7f1bff00-925c-4905-8642-5a8294e9b941": {
+        "S.No": "18",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "13-B",
+        "Description": "SCREW DRIVER SET",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Missing Item  - 3 No.",
+        "Location": "nan"
+    },
+    "255fb3f2-3585-4f75-96f6-d1d6ad2c58ee": {
+        "S.No": "19",
+        "Stock Register Page No.": "7",
+        "Stock Register Sl.No": "13-C",
+        "Description": "SEAGATE 1TB EXTERNAL HARD DISK",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Missing Item  - 1 No. / Dr.V.Pandiyaraju",
+        "Location": "NA / SF"
+    },
+    "b4d6adf1-abdb-46c8-b9dd-628da5edcd7e": {
+        "S.No": "20",
+        "Stock Register Page No.": "8",
+        "Stock Register Sl.No": "14",
+        "Description": "EMERGENCY LIGHT CFL-12V",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Item Condominated in 2020   - 4 Nos.   Dr.G.V.Uma - 1 No.",
+        "Location": "TF / GF"
+    },
+    "e3636b86-c28f-465b-b281-ec7ab83975db": {
+        "S.No": "21",
+        "Stock Register Page No.": "8",
+        "Stock Register Sl.No": "15",
+        "Description": "HP LASERJET M2727 NF  ALL IN ONE  MULTIFUNCTION PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "77eb88e4-d59b-4715-9746-14c2e1b44eac": {
+        "S.No": "22",
+        "Stock Register Page No.": "9",
+        "Stock Register Sl.No": "16",
+        "Description": "SEAGATE 1TB EXTERNAL HARD DISK USB TYPE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Third Floor Lab",
+        "Location": "TF"
+    },
+    "496fef3f-6627-4cfc-a3c6-b938d24add72": {
+        "S.No": "23",
+        "Stock Register Page No.": "9",
+        "Stock Register Sl.No": "17 & 18",
+        "Description": "BICYCLE  & BASKET",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office - OA",
+        "Location": "GF"
+    },
+    "5f62e608-d85e-4227-9e86-41ae033ca6a2": {
+        "S.No": "24",
+        "Stock Register Page No.": "9",
+        "Stock Register Sl.No": "18 - A",
+        "Description": "IR 48 CAMERA",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "44a0b72b-153f-491d-99f2-ef1810e39b18": {
+        "S.No": "25",
+        "Stock Register Page No.": "10",
+        "Stock Register Sl.No": "19",
+        "Description": "1 KVA LINE INTERACTIVE  UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "752162b7-4a3e-47f4-be72-4c3ad54d720c": {
+        "S.No": "26",
+        "Stock Register Page No.": "10",
+        "Stock Register Sl.No": "20",
+        "Description": "1 KVA LINE INTERACTIVE  UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "59daec6d-3cb5-4328-909c-883c80ec1958": {
+        "S.No": "27",
+        "Stock Register Page No.": "10",
+        "Stock Register Sl.No": "21",
+        "Description": "1 KVA LINE INTERACTIVE  UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "10ab3405-65ec-45c2-8c16-a56c1ddb145e": {
+        "S.No": "28",
+        "Stock Register Page No.": "10",
+        "Stock Register Sl.No": "22",
+        "Description": "500 GB EXTERNAL HARD DISK - ACCER MAKE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "f6dac8e7-fd89-47f6-b87f-41da87be5f6e": {
+        "S.No": "29",
+        "Stock Register Page No.": "11",
+        "Stock Register Sl.No": "23",
+        "Description": "1 KVA LINE INTERACTIVE  UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "a1f1ae11-65bd-4af3-a89e-12ae0331d77c": {
+        "S.No": "30",
+        "Stock Register Page No.": "11",
+        "Stock Register Sl.No": "24",
+        "Description": "CREATIVE HEADSET HS 150  WITH MIC",
+        "Book Figure Quantity": "28",
+        "Issed to / Remarks": "SF Lab - 21 Nos. / Dr. S. Bama - 1 No. /                       Dr. Pandiyaraju - 1 Nos. /                              Mr. Ashok (RS) - 1 No. /                                      Item Condominated in 2020  - 4 Nos.",
+        "Location": "SF / TF"
+    },
+    "4fc56c5a-c708-464f-bd81-aabf2805fa6e": {
+        "S.No": "31",
+        "Stock Register Page No.": "11",
+        "Stock Register Sl.No": "25",
+        "Description": "RFID-MF KIT",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.N.Thangaraj",
+        "Location": "CPDE"
+    },
+    "e744354d-8e20-447c-84b6-630f99ece5de": {
+        "S.No": "32",
+        "Stock Register Page No.": "11",
+        "Stock Register Sl.No": "26",
+        "Description": "BAFO 810 CABLE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.N.Thangaraj",
+        "Location": "CPDE"
+    },
+    "40f70251-8677-47d7-9172-e92df3e3c81a": {
+        "S.No": "33",
+        "Stock Register Page No.": "12",
+        "Stock Register Sl.No": "27",
+        "Description": "DELL POWER EDGE R510 RACK  MOUNT SERVER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "910cc78a-299a-4409-996b-b39a57390405": {
+        "S.No": "34",
+        "Stock Register Page No.": "13",
+        "Stock Register Sl.No": "28",
+        "Description": "PAPER SHREDDER DOPPLER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "5f3eaf66-87eb-4a85-bd7a-e46bff3af1c0": {
+        "S.No": "35",
+        "Stock Register Page No.": "13",
+        "Stock Register Sl.No": "29",
+        "Description": "HP LASER COLOR PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "8abe76ec-7b32-49cd-b8c6-8bde5f83b522": {
+        "S.No": "36",
+        "Stock Register Page No.": "13",
+        "Stock Register Sl.No": "30",
+        "Description": "EXTERNAL HD 500 GB",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Mala",
+        "Location": "FF"
+    },
+    "8c346bb7-eb50-49ad-b2c9-eaff2e2d05e0": {
+        "S.No": "37",
+        "Stock Register Page No.": "14",
+        "Stock Register Sl.No": "31",
+        "Description": "RICHO GESTETNER COPY PRINTER - DX2430",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "cd8b35b5-8324-458e-8931-ecd8aaaca509": {
+        "S.No": "38",
+        "Stock Register Page No.": "14",
+        "Stock Register Sl.No": "32",
+        "Description": "DEKTOP COMPUTER DELL VOSTRO MINI DOOR 460",
+        "Book Figure Quantity": "25",
+        "Issed to / Remarks": "CICSO Lab - 20 Nos. /                         Dr. Narasiman - 1 No.  /                                                         Item Condominated in 2020  - 4 Nos.",
+        "Location": "CPDE / TF"
+    },
+    "46e7276f-1740-413d-bb58-34cc7aff24b6": {
+        "S.No": "39",
+        "Stock Register Page No.": "15",
+        "Stock Register Sl.No": "33",
+        "Description": "4 - PORT USB KVM SWITCH KIT",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "6e0dbf2b-7a81-467c-a54d-a4e4fc3c79da": {
+        "S.No": "40",
+        "Stock Register Page No.": "15",
+        "Stock Register Sl.No": "34",
+        "Description": "HP  SCANNER N6350",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "0a5c34fb-7b7c-4529-b50e-17b6a65828b3": {
+        "S.No": "41",
+        "Stock Register Page No.": "15",
+        "Stock Register Sl.No": "35-1",
+        "Description": "TECH COM 2.5 SATA LASING",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "806a6153-176a-40be-9b6a-b6231266330d": {
+        "S.No": "42",
+        "Stock Register Page No.": "15",
+        "Stock Register Sl.No": "35-2",
+        "Description": "LOGITECH USB OPTICAL MOUSE",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "c484b623-587b-48d8-b32a-591b7f53d464": {
+        "S.No": "43",
+        "Stock Register Page No.": "15",
+        "Stock Register Sl.No": "36",
+        "Description": "CISCO SF 100-24 PORT 10/100 SWITCH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "CPDE -1 No. / Item Condominated in 2020  - 1 No.",
+        "Location": "CPDE / TF"
+    },
+    "526d8031-6661-4359-b6b4-2bc48170143b": {
+        "S.No": "44",
+        "Stock Register Page No.": "16",
+        "Stock Register Sl.No": "37-1",
+        "Description": "SEAGATE 500GB EX HARD DISK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "098d5e09-4792-42e6-9565-d68d2ac35d4b": {
+        "S.No": "45",
+        "Stock Register Page No.": "16",
+        "Stock Register Sl.No": "37-2",
+        "Description": "MEDIA CARD READER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "93a7ada2-f220-4a43-8523-ebfa02435923": {
+        "S.No": "46",
+        "Stock Register Page No.": "16",
+        "Stock Register Sl.No": "38",
+        "Description": "SEAGATE 1 TB EXTERNAL HARD DISK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item - 1 No.",
+        "Location": "nan"
+    },
+    "f93ef912-c0cf-46c5-a755-8d5ba9601b1b": {
+        "S.No": "47",
+        "Stock Register Page No.": "16",
+        "Stock Register Sl.No": "39",
+        "Description": "HP OFFICE JET 6000 PRINTER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "ff3478ce-6364-4c71-9740-ba0139a76e36": {
+        "S.No": "48",
+        "Stock Register Page No.": "16",
+        "Stock Register Sl.No": "40",
+        "Description": "SONY VPL EX145 PROJECTOR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "CICSO Lab",
+        "Location": "CPDE"
+    },
+    "3048b716-a9ee-4ec2-9533-d3eaf14b7fb9": {
+        "S.No": "49",
+        "Stock Register Page No.": "17",
+        "Stock Register Sl.No": "41",
+        "Description": "CANAN SLR EOS 6000 CAMERA WITH LENS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "20e8b6d7-c95d-47da-8512-30a7fd1e2bc6": {
+        "S.No": "50",
+        "Stock Register Page No.": "17",
+        "Stock Register Sl.No": "42",
+        "Description": "HP MINI LAPTOP MODEL 210",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "0fd20207-9e5d-404b-a5ac-6e3cd9ef2b27": {
+        "S.No": "51",
+        "Stock Register Page No.": "17",
+        "Stock Register Sl.No": "43",
+        "Description": "NOKIA LUMIA 800 WITH HEADPHONE, USP CHARGER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "836a89ab-6892-42aa-8d49-cc60dde9c461": {
+        "S.No": "52",
+        "Stock Register Page No.": "18",
+        "Stock Register Sl.No": "44",
+        "Description": "36 U NET RACK FOR SERVER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "c76b88d8-70a9-4168-a0f1-4dc1f943c5dd": {
+        "S.No": "53",
+        "Stock Register Page No.": "18",
+        "Stock Register Sl.No": "45",
+        "Description": "1 TB HARD DISK EXTERNAL",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Dr.Kulothungan, Dr.Swamynathan, Dr.Indumathi, Dr.Ranjani Parthasarathy",
+        "Location": "GF/SF"
+    },
+    "f8ef4b52-3992-4478-bde4-c56c083f5f98": {
+        "S.No": "54",
+        "Stock Register Page No.": "19",
+        "Stock Register Sl.No": "46",
+        "Description": "SEAGATE 1 TB TOPLEX 2.5 USB 3.0",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Kulothungan, Dr.Swamynathan, Dr.Indumathi, Dr.Ranjani Parthasarathy",
+        "Location": "GF/SF"
+    },
+    "cfa2b7ab-be03-4052-9c7e-3748099751a7": {
+        "S.No": "55",
+        "Stock Register Page No.": "19",
+        "Stock Register Sl.No": "47",
+        "Description": "HP OFFICE JET 6000 PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "ea4fd9e9-3fd8-4d98-9738-e2fdbcdaafff": {
+        "S.No": "56",
+        "Stock Register Page No.": "19",
+        "Stock Register Sl.No": "48",
+        "Description": "ORIENT 18 PF TORNADO FAN",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "Item Condominated in 2020  - 3 Nos. /    CPDE - 4 Nos.",
+        "Location": "TF / CPDE"
+    },
+    "6cda59ee-14cd-4331-a623-81f6fbb4964d": {
+        "S.No": "57",
+        "Stock Register Page No.": "20",
+        "Stock Register Sl.No": "49",
+        "Description": "DESKTOP COMPUTERS -HP I7",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "Item Condominated in 2020  - 14 Nos. /                   RS Cabin (1&2) - 4 Nos. / CPDE RS Cabin - 1 No. / Missing Item - 1 No.",
+        "Location": "TF / CPDE / NA"
+    },
+    "47e8adef-fec6-4887-806c-a22790af91b0": {
+        "S.No": "58",
+        "Stock Register Page No.": "20",
+        "Stock Register Sl.No": "50",
+        "Description": "HP LASERJET PRINTER M1536 DNF",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Sendhilkumar",
+        "Location": "FF"
+    },
+    "ab45cd34-a875-4ccc-8717-d75556dc2262": {
+        "S.No": "59",
+        "Stock Register Page No.": "21",
+        "Stock Register Sl.No": "51",
+        "Description": "HP DESKTOP I5 WITH MONITOR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Sendhilkumar",
+        "Location": "FF"
+    },
+    "6245a3cf-b65a-41d0-a3f8-a61a050cd849": {
+        "S.No": "60",
+        "Stock Register Page No.": "21",
+        "Stock Register Sl.No": "52",
+        "Description": "DELL LAPTOP",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Sendhilkumar",
+        "Location": "FF"
+    },
+    "265aa8f0-a134-4eb0-95b3-cc4b20600365": {
+        "S.No": "61",
+        "Stock Register Page No.": "22",
+        "Stock Register Sl.No": "53",
+        "Description": "SEAGATE EXTERANAL HARD DISK 1 TB",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Missing Item - 2 Nos.",
+        "Location": "nan"
+    },
+    "0b9f2f77-9b0c-443e-b3d9-7dd20709f41f": {
+        "S.No": "62",
+        "Stock Register Page No.": "22",
+        "Stock Register Sl.No": "54",
+        "Description": "4 KVA DOUBLE BOOSTING 140-240 VOLTS STABILIZER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "CPDE RS Cabin",
+        "Location": "CPDE"
+    },
+    "4e6093df-6347-4c06-926c-141c4bc348d2": {
+        "S.No": "63",
+        "Stock Register Page No.": "22",
+        "Stock Register Sl.No": "55",
+        "Description": "4 KVA DOUBLE BOOSTING 140-240 VOLTS STABILIZER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "CPDE RS Cabin",
+        "Location": "CPDE"
+    },
+    "384d648e-fa8c-459a-b458-51ba4a865a41": {
+        "S.No": "64",
+        "Stock Register Page No.": "23",
+        "Stock Register Sl.No": "56",
+        "Description": "DESKTOP COMPUTER DELL OPTIPLEX 9010 INTEL CORE I7 3770 PROCOSS",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "Item Condominated in 2020 - 12 Nos. /                 Ms. Tina Ester - 1 No. / CPDE - 1 No. /                    RS Cabin (1) - 4 Nos.",
+        "Location": "SF / TF / CPDE"
+    },
+    "46956136-b07d-4a49-a8a7-8a2b1ffc062b": {
+        "S.No": "65",
+        "Stock Register Page No.": "23",
+        "Stock Register Sl.No": "57",
+        "Description": "24 PORT ANALOG EXTENSION CARD(SLAME)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "In RCC for Telephone at New building",
+        "Location": "RCC"
+    },
+    "275499d9-17cf-40c6-9791-647a43cd4065": {
+        "S.No": "66",
+        "Stock Register Page No.": "24",
+        "Stock Register Sl.No": "58",
+        "Description": "NETWORK COMPONENTS FOR TELEPHONE",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "For Using in New Building",
+        "Location": "nan"
+    },
+    "62fe39ea-bb99-426a-943f-5bbe1abe4245": {
+        "S.No": "67",
+        "Stock Register Page No.": "25",
+        "Stock Register Sl.No": "59",
+        "Description": "1 KVA LINE INTERACTIVE  UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "99dd67c4-4a43-4e07-a046-c957549e4edc": {
+        "S.No": "68",
+        "Stock Register Page No.": "25",
+        "Stock Register Sl.No": "60",
+        "Description": "KEYBOARD & MOUSE",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "a0d3e7bc-472d-4a4d-8e57-af7a6387749b": {
+        "S.No": "69",
+        "Stock Register Page No.": "25",
+        "Stock Register Sl.No": "61",
+        "Description": "HP LJ 1606DN PRINTER",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "Dr. S. Sridhar / Dr. K. Vidhya / Item Condominated in 2020 - 2 Nos / Mr.M.Anto Vizhoni / M. Muralikrishnan /  Dr. S. Bama / Dr. Selvi Ravindran /       Dr. Arul Deepa / Dr.P. Geetha (For TT Work)",
+        "Location": "GF / FF / SF / TF"
+    },
+    "ed21618b-c9af-4f9c-a2f6-efb10af567b6": {
+        "S.No": "70",
+        "Stock Register Page No.": "26",
+        "Stock Register Sl.No": "62",
+        "Description": "HITACHI PROJECTOR CP-DX300",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "9d0a4337-199c-49f7-a647-1e19211c7108": {
+        "S.No": "71",
+        "Stock Register Page No.": "26",
+        "Stock Register Sl.No": "63",
+        "Description": "FUJITSU LAPTOP LH532",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "8d9f1526-bf02-4945-9e74-cfdb0a3861c3": {
+        "S.No": "72",
+        "Stock Register Page No.": "27",
+        "Stock Register Sl.No": "64",
+        "Description": "WIFI ACCESS POINTS",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "9e863801-9ace-4cae-b341-a9d8d2a5490c": {
+        "S.No": "73",
+        "Stock Register Page No.": "28",
+        "Stock Register Sl.No": "65",
+        "Description": "NETWORK COMPONENTS",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Network Connection for Department",
+        "Location": "nan"
+    },
+    "af682a84-d937-4b9d-9134-337722f08c02": {
+        "S.No": "74",
+        "Stock Register Page No.": "29",
+        "Stock Register Sl.No": "66",
+        "Description": "DELL SERVER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server room",
+        "Location": "FF"
+    },
+    "5bea8721-abda-466f-bb15-d271db643bd4": {
+        "S.No": "75",
+        "Stock Register Page No.": "30",
+        "Stock Register Sl.No": "67-1",
+        "Description": "PANASONIC ANALOG CAMERA SP CPR603",
+        "Book Figure Quantity": "17",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "68546b7a-9669-41a8-a37a-5ad84bcc7847": {
+        "S.No": "76",
+        "Stock Register Page No.": "30",
+        "Stock Register Sl.No": "67-2",
+        "Description": "X-PLUS SYSTEM  SP-DR16 CHANNEL",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "daa290ef-176f-4d90-ab38-c6b6d1418e69": {
+        "S.No": "77",
+        "Stock Register Page No.": "30",
+        "Stock Register Sl.No": "68-1",
+        "Description": "SAN STORAGE  EMCVNXE 5100  20TB",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "TF Spl. Lab",
+        "Location": "TF"
+    },
+    "f0f9f07c-99f8-45df-8617-ea6a3311c002": {
+        "S.No": "78",
+        "Stock Register Page No.": "30",
+        "Stock Register Sl.No": "68-2",
+        "Description": "SAN SWITCH  BROCEDE MODEL 320-8",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "TF Spl. Lab",
+        "Location": "TF"
+    },
+    "a6dfc451-c57c-4735-baed-56f73215f00f": {
+        "S.No": "79",
+        "Stock Register Page No.": "31",
+        "Stock Register Sl.No": "69",
+        "Description": "VIRTUALIZATION BLADE SERVER                                                     MAKE: DELL POWER  EDGE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "TF Spl. Lab",
+        "Location": "TF"
+    },
+    "305bf398-4597-4250-87c2-024f46bd4a17": {
+        "S.No": "80",
+        "Stock Register Page No.": "33",
+        "Stock Register Sl.No": "70",
+        "Description": "NAME BOARD WITH RAILING STRIP",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office",
+        "Location": "FF"
+    },
+    "acdf8f0c-b347-48cf-b486-481efc10ccd4": {
+        "S.No": "81",
+        "Stock Register Page No.": "33",
+        "Stock Register Sl.No": "71-1",
+        "Description": "SEAGATE  500 GB HDD SATA",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item - 1 No.",
+        "Location": "nan"
+    },
+    "ec5b6b16-b770-42fc-b2c1-858653c89ff9": {
+        "S.No": "82",
+        "Stock Register Page No.": "33",
+        "Stock Register Sl.No": "71-2",
+        "Description": "DIGITAL 8 PORT SWITCH",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.L.Sai Ramesh",
+        "Location": "SF"
+    },
+    "57a89007-fc6b-406e-9a14-6a0841bc0d4b": {
+        "S.No": "83",
+        "Stock Register Page No.": "34",
+        "Stock Register Sl.No": "72",
+        "Description": "HITACHI 2 TON SPLIT AC  WITH  5 KVA  DOUBLE BOOSTER STABLIZER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "RS Cabin (2)",
+        "Location": "TF"
+    },
+    "bb37616b-2117-4ec2-836e-b243af06d842": {
+        "S.No": "84",
+        "Stock Register Page No.": "34",
+        "Stock Register Sl.No": "73",
+        "Description": "LAPTOP HP THINK PAD",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.E.Uma",
+        "Location": "FF"
+    },
+    "151ffc9e-1418-4d5f-833b-880790ba0a2c": {
+        "S.No": "85",
+        "Stock Register Page No.": "34",
+        "Stock Register Sl.No": "74",
+        "Description": "1 KVA UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "d85546f6-2126-4067-a079-bbb61ebfd8d1": {
+        "S.No": "86",
+        "Stock Register Page No.": "35",
+        "Stock Register Sl.No": "75-2",
+        "Description": "SAMSUNG 1TB INTERNAL HD",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item - 1 No. Each",
+        "Location": "nan"
+    },
+    "a400eb71-5a4e-445b-af7f-bc744c9a46cb": {
+        "S.No": "87",
+        "Stock Register Page No.": "35",
+        "Stock Register Sl.No": "75-2",
+        "Description": "SEAGATE 1TB INTERNAL HD",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item - 1 No. Each",
+        "Location": "nan"
+    },
+    "9fb5603e-6ee3-4482-b075-3e8f2e350471": {
+        "S.No": "88",
+        "Stock Register Page No.": "35",
+        "Stock Register Sl.No": "76",
+        "Description": "CALLER-ID TELEPHONE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "ae4fc3ba-9654-42e7-8572-a573a0d2efd9": {
+        "S.No": "89",
+        "Stock Register Page No.": "35",
+        "Stock Register Sl.No": "77",
+        "Description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "EB room / UPS room",
+        "Location": "GF / TF"
+    },
+    "7588771f-4d50-4586-aa19-8e618585b093": {
+        "S.No": "90",
+        "Stock Register Page No.": "36",
+        "Stock Register Sl.No": "78",
+        "Description": "MOBILE PHONE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "EB room / UPS room",
+        "Location": "GF / TF"
+    },
+    "63759422-1965-4481-94ca-42a12148b040": {
+        "S.No": "91",
+        "Stock Register Page No.": "36",
+        "Stock Register Sl.No": "79",
+        "Description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS room",
+        "Location": "FF / SF"
+    },
+    "e2a64a7d-84e6-4c66-8ca4-d115b7394f3f": {
+        "S.No": "92",
+        "Stock Register Page No.": "37",
+        "Stock Register Sl.No": "80",
+        "Description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF"
+    },
+    "e5c8d210-2249-4041-9aee-03c5695219ee": {
+        "S.No": "93",
+        "Stock Register Page No.": "37",
+        "Stock Register Sl.No": "81",
+        "Description": "HITACHI  2 TON CASSET TYPE AC                             WITH 5 KVA DOUBLE BOOSTER STABILIZER",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "FF lab",
+        "Location": "FF"
+    },
+    "4777e6a8-7385-470b-b228-9dc271197a35": {
+        "S.No": "94",
+        "Stock Register Page No.": "38",
+        "Stock Register Sl.No": "82",
+        "Description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS room",
+        "Location": "FF"
+    },
+    "9840aaf5-9cda-4bd5-9ba9-24f87ab0150f": {
+        "S.No": "95",
+        "Stock Register Page No.": "38",
+        "Stock Register Sl.No": "83",
+        "Description": "DESKTOP COMPUTER  I7",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "SF Main Lab - 21 Nos. / Item condeminated in 2020 - 15 Nos. / Transfer to USB - 5 Nos. / Transfer to Dean CEG - 9 Nos.",
+        "Location": "SF / TF"
+    },
+    "36af080d-2a2a-4668-b1ea-9abcf6609185": {
+        "S.No": "96",
+        "Stock Register Page No.": "39",
+        "Stock Register Sl.No": "84",
+        "Description": "DESKTOP COMPUTERS  I7",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "SF Main Lab - 36 Nos. / Item condeminated in 2020 - 8 Nos. /  Transfer to Dean CEG - 6 Nos.",
+        "Location": "SF / TF"
+    },
+    "091291c2-2138-480d-abac-608dd9454df1": {
+        "S.No": "97",
+        "Stock Register Page No.": "39",
+        "Stock Register Sl.No": "85",
+        "Description": "DESKTOP COMPUTER  I7",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "SF Main Lab - 19 Nos. / Item condeminated in 2020  - 1 No.",
+        "Location": "SF / TF"
+    },
+    "5da70d88-35d7-4732-92fa-9e7defa1a4b2": {
+        "S.No": "98",
+        "Stock Register Page No.": "39",
+        "Stock Register Sl.No": "86",
+        "Description": "SERVER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Server room",
+        "Location": "FF"
+    },
+    "14526082-8431-436f-b41f-e0bbc316f347": {
+        "S.No": "99",
+        "Stock Register Page No.": "41",
+        "Stock Register Sl.No": "87",
+        "Description": "NEWMERIC  10 KVA UPS WITH  36 EXIDE POWER SAVE  BATTERIES EACH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS room",
+        "Location": "TF"
+    },
+    "0b44b3ef-b5c4-407c-9861-88151ce1442b": {
+        "S.No": "100",
+        "Stock Register Page No.": "41",
+        "Stock Register Sl.No": "88",
+        "Description": "EPSON PROJECTOR",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Class room - 5 Nos. /                                Item condeminated in 2020 - 1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "5bdade2d-1468-4f82-8eed-4f72bf741aa9": {
+        "S.No": "101",
+        "Stock Register Page No.": "42",
+        "Stock Register Sl.No": "89",
+        "Description": "PROJECTOR WALL MOUNTION KIT",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Class room - 5 Nos. /                                Item condeminated in 2020 - 1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "dca4e54c-3a67-48df-90dc-b8e2dad3a317": {
+        "S.No": "102",
+        "Stock Register Page No.": "42",
+        "Stock Register Sl.No": "90",
+        "Description": "NETWORK ACTIVE TYPE - I",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Missing Item - 3 Nos.  / Item condeminated in 2020 - 3 Nos.",
+        "Location": "NA / TF"
+    },
+    "39afa4e8-a34d-45ab-a6f1-8978809e013d": {
+        "S.No": "103",
+        "Stock Register Page No.": "43",
+        "Stock Register Sl.No": "91",
+        "Description": "NETWORKING FINISHED IN ALL FLOORS",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Dept. Networking",
+        "Location": "GF / FF / SF / TF"
+    },
+    "2702b68b-538a-4651-99da-885138b234b2": {
+        "S.No": "104",
+        "Stock Register Page No.": "44",
+        "Stock Register Sl.No": "91-A",
+        "Description": "SPLIT AC 1.5  TON MAKE - HITACHI",
+        "Book Figure Quantity": "12",
+        "Issed to / Remarks": "SF Lab - 10 Nos. / Dr.T.Mala / Dr.S.Sridhar",
+        "Location": "FF / SF"
+    },
+    "c9e88179-4090-47d3-a63e-2c0c774ba6f9": {
+        "S.No": "105",
+        "Stock Register Page No.": "45",
+        "Stock Register Sl.No": "92",
+        "Description": "4  KVA WALL MOUNTING DOUBLE BOOSTER STABLIZER",
+        "Book Figure Quantity": "12",
+        "Issed to / Remarks": "SF Lab - 10 Nos. / Dr.T.Mala / Dr.S.Dridhar",
+        "Location": "FF / SF"
+    },
+    "c5b2ac38-022e-4832-b49e-57cad101aca5": {
+        "S.No": "106",
+        "Stock Register Page No.": "45",
+        "Stock Register Sl.No": "93-1",
+        "Description": "DVD WRITER LG",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "9eafbc27-2b8b-4ff7-b734-6dbce9b72faf": {
+        "S.No": "107",
+        "Stock Register Page No.": "45",
+        "Stock Register Sl.No": "93-2",
+        "Description": "SEGATE HAND DISK  1 TB",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item - 1 No.",
+        "Location": "nan"
+    },
+    "9c3d3fd5-9272-4d7d-9cfe-e2dd42db3d84": {
+        "S.No": "108",
+        "Stock Register Page No.": "46",
+        "Stock Register Sl.No": "94",
+        "Description": "HITACHI CASSATTE TYPE AIR CONDITIONER",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "FF Lab - 1 No. / Server Room -1 No. /          AUCTS - 1 No. / HOD Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "1e2f825e-0267-458b-b0e1-5119d4e49c0a": {
+        "S.No": "109",
+        "Stock Register Page No.": "46",
+        "Stock Register Sl.No": "95",
+        "Description": "32 U RACK WITH ACCESSORIES",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server room / TF Lab",
+        "Location": "FF / TF"
+    },
+    "c2585476-39e3-4190-943c-f1e1520d460c": {
+        "S.No": "110",
+        "Stock Register Page No.": "47",
+        "Stock Register Sl.No": "96",
+        "Description": "PERSONAL COMPUTERS",
+        "Book Figure Quantity": "26",
+        "Issed to / Remarks": "Item Condominated in 2020 - 25 Nos. /                                   Dr. S. Senthilkumar",
+        "Location": "FF / TF"
+    },
+    "4acb1a86-10d6-4dce-af80-e8b4326d97ca": {
+        "S.No": "111",
+        "Stock Register Page No.": "48",
+        "Stock Register Sl.No": "97",
+        "Description": "TELEPHONE CABLING",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Department use",
+        "Location": "nan"
+    },
+    "94736894-9eed-4a03-9273-731eb5653faf": {
+        "S.No": "112",
+        "Stock Register Page No.": "48",
+        "Stock Register Sl.No": "98-1",
+        "Description": "SEAGATE  1TB HARD DISK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.N.Thangaraj",
+        "Location": "CPDE"
+    },
+    "1f47dbba-c198-4a32-a003-99701c60267c": {
+        "S.No": "113",
+        "Stock Register Page No.": "48",
+        "Stock Register Sl.No": "98-2",
+        "Description": "DLINK N300 WIRELESS  ROUTER DIR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Swamynathan",
+        "Location": "GF"
+    },
+    "4dad6f69-7d45-4432-ad4a-97d52e3be10a": {
+        "S.No": "114",
+        "Stock Register Page No.": "48",
+        "Stock Register Sl.No": "99",
+        "Description": "TELEPHONE CABLING",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Department use",
+        "Location": "nan"
+    },
+    "51e6c801-a644-4d47-9fc2-d6674119b62f": {
+        "S.No": "115",
+        "Stock Register Page No.": "49",
+        "Stock Register Sl.No": "100",
+        "Description": "EPSON L210 PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.K.Vidhya",
+        "Location": "FF"
+    },
+    "0fbd15b6-5c15-41f0-a4ad-a9f41f2ed4df": {
+        "S.No": "116",
+        "Stock Register Page No.": "49",
+        "Stock Register Sl.No": "101",
+        "Description": "DESKTOP COMPUTER  ACER VERTON",
+        "Book Figure Quantity": "150",
+        "Issed to / Remarks": "TF Main Lab - 76 Nos. / TF Annex Lab - 30 Nos. / Condomination Room - 26 No. /       PG Exam Cell - 1 No. / UAV Lab - 1 No.  /    RS Cabin (2) - 1 No. /                                     PA to HOD Room - 1 No. /                          Staff Cabin - 20 Nos. / TF Cabin - 12 Nos.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "04c0e62c-0b56-4d15-aeeb-7ab9bc859509": {
+        "S.No": "117",
+        "Stock Register Page No.": "50",
+        "Stock Register Sl.No": "102",
+        "Description": "DESKTOP COMPUTER   ACER VERTON",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "TF Main Lab - 76 Nos. / TF Annex Lab - 30 Nos. / Condomination Room - 26 No. /       PG Exam Cell - 1 No. / UAV Lab - 1 No.  /    RS Cabin (2) - 1 No. /                                     PA to HOD Room - 1 No. /                          Staff Cabin - 20 Nos. / TF Cabin - 12 Nos.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "a1b78475-4c5c-485a-badb-9580d4f8e7c7": {
+        "S.No": "118",
+        "Stock Register Page No.": "50",
+        "Stock Register Sl.No": "103",
+        "Description": "1.5 TON SPLIT AC LG",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No.",
+        "Location": "GF / TF"
+    },
+    "26d38ea9-0213-4b2c-8d6b-70c9668d1c74": {
+        "S.No": "119",
+        "Stock Register Page No.": "51",
+        "Stock Register Sl.No": "104",
+        "Description": "LASER PRINTER HP",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "17eecc43-196b-4240-8383-7b3f6d187411": {
+        "S.No": "120",
+        "Stock Register Page No.": "51",
+        "Stock Register Sl.No": "105",
+        "Description": "1.5 TON SPLIT AC LG",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "e4671673-354d-4035-84b6-0ba0a562f6d8": {
+        "S.No": "121",
+        "Stock Register Page No.": "52",
+        "Stock Register Sl.No": "106 A",
+        "Description": "Outdoor fixing angle",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No. Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "7c615080-702b-43ff-89f9-33a7db505721": {
+        "S.No": "122",
+        "Stock Register Page No.": "52",
+        "Stock Register Sl.No": "106 B",
+        "Description": "DOUBLE BOOSTING STABILIZER",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No. Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "5b992769-b028-4194-b17f-965a81b59398": {
+        "S.No": "123",
+        "Stock Register Page No.": "52",
+        "Stock Register Sl.No": "107",
+        "Description": "R.O Plant",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Department common use",
+        "Location": "Terrace"
+    },
+    "5c72d2e9-f999-4a92-9fec-2efe2d3b48d0": {
+        "S.No": "124",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "JBL Speaker",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "6758538e-339a-4c17-9c32-b29a338bf1ec": {
+        "S.No": "125",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "JBL Control power speaker",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "0e0f321e-8116-480a-9cae-c61b2554699a": {
+        "S.No": "126",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Handled Mic",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "eaea9f68-a15f-40f1-b858-49a046456c9b": {
+        "S.No": "127",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Micro VHF Collar Mic",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "5eb8e5b6-9600-4ea0-915c-5ee666e9e6bc": {
+        "S.No": "128",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Micro VHF Hand Mic",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "4a7cc877-092d-416d-90fc-2ec2b650383f": {
+        "S.No": "129",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Podium Mic",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "GF / TF"
+    },
+    "108723ee-c6a3-40f2-9dd5-f8a7556257cb": {
+        "S.No": "130",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Mic table stand",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "GF / TF"
+    },
+    "cef0f628-9071-45f3-9967-9bfdab0e967a": {
+        "S.No": "131",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Channel mixer",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "6973aa32-163b-4e41-93a4-65918747c02f": {
+        "S.No": "132",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "Audio Equipment Racker",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "a83c032c-851b-46e8-a2a7-5a9badee443b": {
+        "S.No": "133",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "2 Core Loudspeaker cable",
+        "Book Figure Quantity": "150 mt.",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "8e6553e4-52c9-4f01-a69d-f1faeca5c0d6": {
+        "S.No": "134",
+        "Stock Register Page No.": "53",
+        "Stock Register Sl.No": "108",
+        "Description": "2 core mic cable",
+        "Book Figure Quantity": "150 mt.",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF / TF"
+    },
+    "a366b84a-fa05-49b4-8888-143eed5dd3d4": {
+        "S.No": "135",
+        "Stock Register Page No.": "54",
+        "Stock Register Sl.No": "109",
+        "Description": "Crown power amplifier",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF"
+    },
+    "f9e15951-e3b0-467a-90a5-b91013300efd": {
+        "S.No": "136",
+        "Stock Register Page No.": "54",
+        "Stock Register Sl.No": "110",
+        "Description": "Motor Projector Screen",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "8f45a5e9-b1cd-4151-b7a1-948178309d8c": {
+        "S.No": "137",
+        "Stock Register Page No.": "54",
+        "Stock Register Sl.No": "111",
+        "Description": "Fiber optic convertor",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "MBA OFC Room - 1 No. /                        Server Room - 1 No. / Technical Store     room - 1 No.",
+        "Location": "RCC OFC Room / GF / FF"
+    },
+    "f56e2010-1e8a-4ce5-9c14-ba5cbcf326ab": {
+        "S.No": "138",
+        "Stock Register Page No.": "55",
+        "Stock Register Sl.No": "112",
+        "Description": "Intel Galilio MB",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "edefc112-44a4-4215-8f97-7400b75b5ae5": {
+        "S.No": "139",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "113-1",
+        "Description": "D Link 8 port switch",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020  / TF Cabin",
+        "Location": "SF"
+    },
+    "3c70176d-b637-4574-8104-2551f421e4d3": {
+        "S.No": "140",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "113-2",
+        "Description": "D Link 16 port switch",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Missing Item - 2 No.",
+        "Location": "nan"
+    },
+    "e129055b-92e9-49cb-9453-8b785f783c2a": {
+        "S.No": "141",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "113-3",
+        "Description": "D Link KVM switch",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "9bd9794e-25a3-46a7-90ad-b77042bc8285": {
+        "S.No": "142",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "113-4",
+        "Description": "Net Gear Wi Fi router",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "TF Lab / Dr. Sendhil Kumar",
+        "Location": "FF / TF"
+    },
+    "30858d32-6678-432f-a580-cf9fbe5d2e8c": {
+        "S.No": "143",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "114",
+        "Description": "4 KG PRESSURE ABC",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "Audi  / Dept. Passage",
+        "Location": "GF / FF / SF / TF"
+    },
+    "9f00c092-0d88-403c-848e-864cc755d2b4": {
+        "S.No": "144",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "114",
+        "Description": "CO2  4.5KG",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "E.B Room",
+        "Location": "GF"
+    },
+    "bab77461-9494-4bba-aead-4df25fa3116d": {
+        "S.No": "145",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "114",
+        "Description": "CO2  2KG",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "FF Lab - 2 Nos. / SF Lab - 2 Nos. /                 TF Lab - 2 Nos.",
+        "Location": "FF / SF / TF"
+    },
+    "9078e9da-d602-4e37-a3f5-c21f945364e8": {
+        "S.No": "146",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "114",
+        "Description": "ALL SIGNAGES",
+        "Book Figure Quantity": "17",
+        "Issed to / Remarks": "Full Dept.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "0ec56777-66c8-409e-9094-d28e97af47ad": {
+        "S.No": "147",
+        "Stock Register Page No.": "56",
+        "Stock Register Sl.No": "114",
+        "Description": "FIRST AID KIT",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office room",
+        "Location": "FF"
+    },
+    "0a63784e-237f-4bf1-b654-69eb972c3790": {
+        "S.No": "148",
+        "Stock Register Page No.": "57",
+        "Stock Register Sl.No": "115",
+        "Description": "AIR CONDITIONER-DAIKIN WITH STABLIZER",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "TF Cabin - 3 Nos. / RS Cabin (1) - 3 Nos. / Library - 1 No. / Conferene Room - 1 No.",
+        "Location": "GF / SF / TF"
+    },
+    "22b21aa9-1043-4800-9491-cee5029fdeee": {
+        "S.No": "149",
+        "Stock Register Page No.": "57",
+        "Stock Register Sl.No": "116",
+        "Description": "SINGLE PHASE BOREWELL COMPRASOR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dept. Common use",
+        "Location": "GF"
+    },
+    "fcc76949-3737-4359-9402-153df90bda68": {
+        "S.No": "150",
+        "Stock Register Page No.": "58",
+        "Stock Register Sl.No": "117",
+        "Description": "SIM 900A GSM MODEM",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "972870e0-bba1-46e7-847b-997232192759": {
+        "S.No": "151",
+        "Stock Register Page No.": "58",
+        "Stock Register Sl.No": "118",
+        "Description": "HEAVY DUTY TABLE MIC",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "1870ae24-f966-4c9e-a081-284faf107d45": {
+        "S.No": "152",
+        "Stock Register Page No.": "58",
+        "Stock Register Sl.No": "119",
+        "Description": "SERVER TYPE - II",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "SF Spl. Lab",
+        "Location": "SF"
+    },
+    "9277e3fe-7ab2-4bbe-b9b4-73e827d400c1": {
+        "S.No": "153",
+        "Stock Register Page No.": "59",
+        "Stock Register Sl.No": "120",
+        "Description": "BLADE CLASSIS WITH 4 Nos. BLADE SERVER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF Spl. Lab",
+        "Location": "SF"
+    },
+    "863bfe72-d924-426b-a0e6-7d684c28032e": {
+        "S.No": "154",
+        "Stock Register Page No.": "60",
+        "Stock Register Sl.No": "121-1",
+        "Description": "WALL SUPPORTED LADDER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office room",
+        "Location": "FF"
+    },
+    "3b24f44f-2f81-4f03-bbfb-b10212376a5d": {
+        "S.No": "155",
+        "Stock Register Page No.": "60",
+        "Stock Register Sl.No": "121-2",
+        "Description": "DOUBLE SIDE LADDER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office room",
+        "Location": "FF"
+    },
+    "3674ac3c-9a40-4459-9ded-b3bc62638a74": {
+        "S.No": "156",
+        "Stock Register Page No.": "60",
+        "Stock Register Sl.No": "121-1",
+        "Description": "42V SERVER RACK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF Spl. Lab",
+        "Location": "SF"
+    },
+    "9bd81d38-a608-45df-91cb-4c742524cf7c": {
+        "S.No": "157",
+        "Stock Register Page No.": "60",
+        "Stock Register Sl.No": "122-2",
+        "Description": "KVM SWITCH",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF Spl. Lab",
+        "Location": "SF"
+    },
+    "9bc347d5-1761-438a-8d4c-11ca725c1335": {
+        "S.No": "158",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "123-1",
+        "Description": "LOGITECH PRESENTATION R400 WIRELESS  LASER PRESENTER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "173c81a3-1a05-46d1-842f-4945a4e67e0b": {
+        "S.No": "159",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "123-2",
+        "Description": "FRONTECH JIL 3400 MULTIMEDIA SPEAKERS",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "Condomination Room - 5 Nos. /                        Staff Room - 15 Nos.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "db4e4af4-e254-43a5-8803-6bdb24c81593": {
+        "S.No": "160",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "123-3",
+        "Description": "VGA CABLES  2 MTRS",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "8f8579fd-48cb-42e9-ae86-6a751f859090": {
+        "S.No": "161",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "124-1",
+        "Description": "DIGITAL IC  TRAINER KIT(JAYAM)",
+        "Book Figure Quantity": "40",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "3d474765-8394-4f86-b6be-b1d455609dfb": {
+        "S.No": "162",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "124-2",
+        "Description": "MICRO CONTROLLER KIT(JAYAM)",
+        "Book Figure Quantity": "35",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "94760a30-ad98-4e29-8ad7-4c73c364ccf8": {
+        "S.No": "163",
+        "Stock Register Page No.": "61",
+        "Stock Register Sl.No": "124-3",
+        "Description": "ARM CONTROLLER KIT(JAYAM)",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "dcd06549-faeb-46ac-8a44-d0b9ab0ac802": {
+        "S.No": "164",
+        "Stock Register Page No.": "62",
+        "Stock Register Sl.No": "125-1",
+        "Description": "HP PAVILLION 15 ACO53X LAPTOP",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "77d265bd-3ff7-4a6e-8bcc-a0ecfe7e7865": {
+        "S.No": "165",
+        "Stock Register Page No.": "62",
+        "Stock Register Sl.No": "125-2",
+        "Description": "HP BACK PACK(E6Q97QA)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.S.Abirami",
+        "Location": "TF"
+    },
+    "c5acdb00-6c81-47ec-8aa9-bb9dbdae21b8": {
+        "S.No": "166",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "126-1",
+        "Description": "DC MOTOR INTERFACE BOARD(JAYAM)",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "f885bdc3-8056-4959-b29f-79f43ee9f6c3": {
+        "S.No": "167",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "126-2",
+        "Description": "STEPPER MOTOR INTERFACE BOARD(JAYAM)",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "a0ebcb49-82d3-4d3c-bc3c-434a5e260da2": {
+        "S.No": "168",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "126-3",
+        "Description": "TRAFFIC LIGHT CONTROLLER(JAYAM)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "f4f764ab-4f61-4b5b-8e60-391e32c177a2": {
+        "S.No": "169",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "127-1",
+        "Description": "DC MOTOR INTERFACE BOARD(JAYAM)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "bab55940-2a71-47f9-a0c8-f8996fafa45a": {
+        "S.No": "170",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "127-2",
+        "Description": "STEPPER MOTOR INTERFACE BOARD(JAYAM)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "8ee72466-ff6d-41ac-8ea7-8f4e27d3469a": {
+        "S.No": "171",
+        "Stock Register Page No.": "63",
+        "Stock Register Sl.No": "127-3",
+        "Description": "TRAFFIC LIGHT CONTROLLER(JAYAM)",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "TF Lab",
+        "Location": "TF"
+    },
+    "d92821c1-16b7-445d-9920-4d3942a8849c": {
+        "S.No": "172",
+        "Stock Register Page No.": "64",
+        "Stock Register Sl.No": "128",
+        "Description": "HITACHI PROJECTOR CPX40 30WN",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Audi -1 No. / SF Lab - 1 No. / TF Lab - 1 No.",
+        "Location": "GF /SF /TF"
+    },
+    "da4ea8eb-c379-45c3-972a-6fa67f44f51e": {
+        "S.No": "173",
+        "Stock Register Page No.": "65",
+        "Stock Register Sl.No": "129-1",
+        "Description": "10 KVA ONLINE UPS SYSTEM",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS Room",
+        "Location": "SF / TF"
+    },
+    "620e0da1-02d9-4cf0-9369-43798d64ee27": {
+        "S.No": "174",
+        "Stock Register Page No.": "65",
+        "Stock Register Sl.No": "129-2",
+        "Description": "BACKUP BATTERIES",
+        "Book Figure Quantity": "60",
+        "Issed to / Remarks": "UPS Room",
+        "Location": "SF / TF"
+    },
+    "000d275f-4845-49fb-aac5-9f26e831bd19": {
+        "S.No": "175",
+        "Stock Register Page No.": "65",
+        "Stock Register Sl.No": "130",
+        "Description": "EPSON MULTIMEDIA PROJECTORS",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "FF Lab / Technical Store Room",
+        "Location": "GF / FF"
+    },
+    "95220c10-4d88-4e55-a9f5-e309b8532e46": {
+        "S.No": "176",
+        "Stock Register Page No.": "67",
+        "Stock Register Sl.No": "131",
+        "Description": "EXTREME NETWORK SWITCH",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Technical Store Room - 1 No. / Library - 1 No. / IOT Server Rack -1 No. / FF Server Room",
+        "Location": "GF / SF"
+    },
+    "cb2cad7a-6ac9-46c5-b716-5ca510cb6a79": {
+        "S.No": "177",
+        "Stock Register Page No.": "68",
+        "Stock Register Sl.No": "132",
+        "Description": "SHARP MFD PRINTER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "P.A to HOD room",
+        "Location": "FF"
+    },
+    "c56c0482-8e35-4c01-afc0-6dd1228177ee": {
+        "S.No": "178",
+        "Stock Register Page No.": "68",
+        "Stock Register Sl.No": "133",
+        "Description": "SAMSUNG M2071 LASERJET PRINTER",
+        "Book Figure Quantity": "11",
+        "Issed to / Remarks": "P.G Exam Cell / Dr.P.Geetha /                      Dr.Ranjani Parthasary / Dr.Kuluthungan / Dr.S.Sendhilkuamr / Dr.G.V.Uma / Dr.Vani /   Dr. J. Indumati /    Item Condominated in 2020  - 3 Nos.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "23b130e1-aa4b-40bd-9922-a636fa89205e": {
+        "S.No": "179",
+        "Stock Register Page No.": "69",
+        "Stock Register Sl.No": "134-A",
+        "Description": "WELCOME NOTICE BOARD&240 GOLPEN FRAME LETTERS WITH 3'X2' SIZE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Auditorium",
+        "Location": "GF"
+    },
+    "a4a9d6d5-ed4d-490a-8382-ea8e9e889024": {
+        "S.No": "180",
+        "Stock Register Page No.": "69",
+        "Stock Register Sl.No": "134-B",
+        "Description": "TRIPOD STANT WITH BLACK COLOUR 5'",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Auditorium",
+        "Location": "GF"
+    },
+    "bd8a9a86-3364-4851-a56e-9d3625961abb": {
+        "S.No": "181",
+        "Stock Register Page No.": "69",
+        "Stock Register Sl.No": "135",
+        "Description": "LED DISPLAY TV -   32\"",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Conference Room",
+        "Location": "GF"
+    },
+    "461cc280-e318-4a28-8272-e9411f72ab19": {
+        "S.No": "182",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "136-1",
+        "Description": "CABLE LAYING CHARGES  WITH  1300 MTRS",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Department use",
+        "Location": "nan"
+    },
+    "06cea82a-4e75-4e76-97c4-b8bf8f375a90": {
+        "S.No": "183",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "136-2",
+        "Description": "2TB SATA HDD FOR CCTV RECORDING",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "9b410c8e-fc08-4bf0-85c4-57ca80bde38c": {
+        "S.No": "184",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "136-3",
+        "Description": "4U RACK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Missing Item",
+        "Location": "nan"
+    },
+    "2d515bd6-33fe-4670-b53f-9b6523115576": {
+        "S.No": "185",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "136-4",
+        "Description": "SUPPLY OF 12  AMPS(16PTS)",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Department use",
+        "Location": "nan"
+    },
+    "60a0b651-1bc0-4d9d-834d-f4357478fa4a": {
+        "S.No": "186",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "136-5",
+        "Description": "CAMERA FIXING CHARGES",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Department use",
+        "Location": "nan"
+    },
+    "2f551997-d3d7-4197-ade1-7d2d0b5a70cf": {
+        "S.No": "187",
+        "Stock Register Page No.": "70",
+        "Stock Register Sl.No": "137",
+        "Description": "DELL OPTIPLEX 9020MT SYSTEM",
+        "Book Figure Quantity": "30",
+        "Issed to / Remarks": "SF Spl. Lab - 23 Nos. / Office Room -1 No. /  FF Server Room - 1 No. / CPDE - 2 Nos. /              RS Cabin (1) - 1 No. /                                               Dr. Kulothunga Room - 1 No. / Item Condominated in 2020  - 1 No.",
+        "Location": "GF / FF / SF / TF / CPDE"
+    },
+    "3592e4f8-1435-4a08-96c4-2e1d634b5c14": {
+        "S.No": "188",
+        "Stock Register Page No.": "71",
+        "Stock Register Sl.No": "138-1",
+        "Description": "EVEREST - SKVA DOUBLE BOOSTING WALL MOUNT STABILIZER",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "Location": "FF / SF /TF"
+    },
+    "4b77177f-0d24-430d-bfdb-078e30ddcc73": {
+        "S.No": "189",
+        "Stock Register Page No.": "71",
+        "Stock Register Sl.No": "138-2",
+        "Description": "OUT DOOR ANGLE",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "Location": "FF / SF /TF"
+    },
+    "537296bf-813b-44a2-a7f2-d663c2c4562e": {
+        "S.No": "190",
+        "Stock Register Page No.": "71",
+        "Stock Register Sl.No": "139",
+        "Description": "CANCELLED",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "Location": "FF / SF /TF"
+    },
+    "d3220f3c-7068-4bb2-9169-b78ec83c76a6": {
+        "S.No": "191",
+        "Stock Register Page No.": "72",
+        "Stock Register Sl.No": "140",
+        "Description": "EXTREME NETWORK SWITCH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "80fdcdd6-d783-482c-8011-23155aa539b2": {
+        "S.No": "192",
+        "Stock Register Page No.": "72",
+        "Stock Register Sl.No": "141",
+        "Description": "CANCELLED",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "fc4596c5-3f5e-4937-8ac6-7318b72b8163": {
+        "S.No": "193",
+        "Stock Register Page No.": "73",
+        "Stock Register Sl.No": "142",
+        "Description": "HITACHI 2 TON SPLIT AC",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "Location": "TF / FF"
+    },
+    "11969ba6-e9a2-4521-a623-6a5b17bbd390": {
+        "S.No": "194",
+        "Stock Register Page No.": "74",
+        "Stock Register Sl.No": "143",
+        "Description": "HITACHI 2 TON SPLIT AC",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "UPS Room - 4 Nos. / TF Spl. Lab - 2 Nos. / RS Cabin (1) - 1 No.",
+        "Location": "FF / SF / TF"
+    },
+    "098a5452-6dd3-4220-aca7-db2137d63398": {
+        "S.No": "195",
+        "Stock Register Page No.": "75",
+        "Stock Register Sl.No": "144",
+        "Description": "SUMSUNG M2071 LASERJET PRINTER",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Dr.Yogesh / Dr.Geetha Ramani / Dr.T.Mala, Dr.Vijayalakshmi",
+        "Location": "GF /FF /SF"
+    },
+    "b07fc088-e49d-417b-819d-52c735442051": {
+        "S.No": "196",
+        "Stock Register Page No.": "75",
+        "Stock Register Sl.No": "145-1",
+        "Description": "EVEREST - SKVA DOUBLE BOOSTING WALL MOUNT STABILIZER",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "Location": "TF / FF"
+    },
+    "65c8e701-a085-4061-a865-4dc08ac5ba70": {
+        "S.No": "197",
+        "Stock Register Page No.": "75",
+        "Stock Register Sl.No": "145-2",
+        "Description": "OUT DOOR ANGLE",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "Location": "TF / FF"
+    },
+    "16b9c4cb-7041-4c7c-ad8d-c80567d1e47a": {
+        "S.No": "198",
+        "Stock Register Page No.": "76",
+        "Stock Register Sl.No": "146",
+        "Description": "DOUBLE BOOSTING STABILIZER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "8af13471-8d77-47f8-b3c0-ac307f91422d": {
+        "S.No": "199",
+        "Stock Register Page No.": "76",
+        "Stock Register Sl.No": "147",
+        "Description": "DLINK KVM SWITCH 8 PORT",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "2cb3e488-64f4-4894-b39c-937f4813e492": {
+        "S.No": "200",
+        "Stock Register Page No.": "77",
+        "Stock Register Sl.No": "148",
+        "Description": "10 KVA ONLINE UPS SYSTEM",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UPS room",
+        "Location": "GF / FF"
+    },
+    "3e8af21d-1627-4a5e-9dcb-634e54bfeb45": {
+        "S.No": "201",
+        "Stock Register Page No.": "77",
+        "Stock Register Sl.No": "149",
+        "Description": "TIMER",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "UPS room",
+        "Location": "FF / SF / TF"
+    },
+    "e24972f8-2759-49f2-a1a3-64d4cc1ac3f4": {
+        "S.No": "202",
+        "Stock Register Page No.": "78",
+        "Stock Register Sl.No": "150",
+        "Description": "optical mouse",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "SF Lab",
+        "Location": "SF"
+    },
+    "bd6ef382-24aa-42ec-9add-ba37572e9ce1": {
+        "S.No": "203",
+        "Stock Register Page No.": "79",
+        "Stock Register Sl.No": "151",
+        "Description": "optical mouse",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Item Condominated in 2020",
+        "Location": "TF"
+    },
+    "bd172836-3257-4aea-a905-d91a0cac2194": {
+        "S.No": "204",
+        "Stock Register Page No.": "79",
+        "Stock Register Sl.No": "152",
+        "Description": "75 AH battery",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "UPS room",
+        "Location": "TF"
+    },
+    "1e2ad024-34af-406d-88a5-8c4569e14de1": {
+        "S.No": "205",
+        "Stock Register Page No.": "80",
+        "Stock Register Sl.No": "153",
+        "Description": "75 AH battery",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF"
+    },
+    "52ece465-3648-4fb7-a35b-bf45a8cd5980": {
+        "S.No": "206",
+        "Stock Register Page No.": "80",
+        "Stock Register Sl.No": "154",
+        "Description": "Epson Ultra portable projector",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "HOD -1 No. / Conference room - 1 No.",
+        "Location": "FF / GF"
+    },
+    "2c033b4e-b246-4691-b855-8c446f7a5218": {
+        "S.No": "207",
+        "Stock Register Page No.": "81",
+        "Stock Register Sl.No": "155",
+        "Description": "I7 Laptop",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Dr.Yogesh / Dr.Geetha Ramani / Dr.T.Mala, Technical Store Room",
+        "Location": "GF / SF / FF"
+    },
+    "2b9ca940-ef82-41c2-940c-82e925afe288": {
+        "S.No": "208",
+        "Stock Register Page No.": "82",
+        "Stock Register Sl.No": "156",
+        "Description": "CANCELLED",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "Dr.Yogesh / Dr.Geetha Ramani / Dr.T.Mala, Technical Store Room",
+        "Location": "GF / SF / FF"
+    },
+    "016c190b-e4f1-4ce5-a79f-37cbeff029fa": {
+        "S.No": "209",
+        "Stock Register Page No.": "82",
+        "Stock Register Sl.No": "157",
+        "Description": "Dell Power Server T430",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "e71d7409-8a9c-4116-a00f-8d1db33ea930": {
+        "S.No": "210",
+        "Stock Register Page No.": "83",
+        "Stock Register Sl.No": "158",
+        "Description": "Sky audio portable speaker with MIC",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "6880ac5e-68a7-49a6-aa2d-3f6aa2d3bd72": {
+        "S.No": "211",
+        "Stock Register Page No.": "83",
+        "Stock Register Sl.No": "159",
+        "Description": "KEYBOARD",
+        "Book Figure Quantity": "30",
+        "Issed to / Remarks": "SF Lab - 16 Nos. TF Lab - 12 Nos. /                                                            Technical Store Room - 02 Nos.",
+        "Location": "SF / TF / GF"
+    },
+    "d8baa7f0-6cf9-4889-b6cf-bc2407506695": {
+        "S.No": "212",
+        "Stock Register Page No.": "84",
+        "Stock Register Sl.No": "160",
+        "Description": "Acer 1 Tablet",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Ranjani Parthasarathy",
+        "Location": "SF"
+    },
+    "b9557266-d882-4739-963b-fa0523654781": {
+        "S.No": "213",
+        "Stock Register Page No.": "85",
+        "Stock Register Sl.No": "161",
+        "Description": "DELL OPTIPLEX 5040 DESKTOP",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Library - 1 No. / HOD room - 1 No. /   SF Lab -  2 No.",
+        "Location": "FF / SF"
+    },
+    "8875a9a5-3369-4b32-b5c0-c34700535ba6": {
+        "S.No": "214",
+        "Stock Register Page No.": "85",
+        "Stock Register Sl.No": "162",
+        "Description": "Ricoh Multifunction printer",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Dr.Indra Gandhi / Dr.N.Thangaraj / Dr.E.Uma / TF Cabin",
+        "Location": "FF / CPDE/ SF"
+    },
+    "31b7ad04-bb09-489e-93f5-ce256e9a9e78": {
+        "S.No": "215",
+        "Stock Register Page No.": "86",
+        "Stock Register Sl.No": "163",
+        "Description": "75Ah battery",
+        "Book Figure Quantity": "36",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF"
+    },
+    "826d4eeb-cfa4-472c-a8de-5fe66d32e802": {
+        "S.No": "216",
+        "Stock Register Page No.": "86",
+        "Stock Register Sl.No": "164-1",
+        "Description": "Dlink 9 u Rack",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "RS Cabin",
+        "Location": "TF"
+    },
+    "2f2498f1-3686-4c27-a9a4-a787f85acf33": {
+        "S.No": "217",
+        "Stock Register Page No.": "86",
+        "Stock Register Sl.No": "164-2",
+        "Description": "Dlink 48 port patch panel",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "RS Cabin",
+        "Location": "TF"
+    },
+    "ac4daf26-fb55-425a-8bc4-f89fa6f438c9": {
+        "S.No": "218",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-A",
+        "Description": "Layer 3 24 Port switch",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "07b03b8c-b129-4c3c-b3c1-8ce709c96672": {
+        "S.No": "219",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-B",
+        "Description": "Layer 2 24 Port Switch",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "356ec5f5-e93e-4ae1-b002-76b8d366c93f": {
+        "S.No": "220",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-c",
+        "Description": "36u Rack",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "fac69391-9518-41dc-81ff-97e0cff5c86b": {
+        "S.No": "221",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-D",
+        "Description": "Wireless access point",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Audi",
+        "Location": "GF"
+    },
+    "2ba6f859-44ae-42ec-85a0-315e7de5cec9": {
+        "S.No": "222",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-E",
+        "Description": "IP camera",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "2d637ec9-56ad-4b3a-9e54-f3e88a2705ba": {
+        "S.No": "223",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-F",
+        "Description": "Ethernet patch card 2 mts.",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "891344ae-de2f-4eff-8f97-24d1fb2db99b": {
+        "S.No": "224",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-G",
+        "Description": "Ethernet patch card   mts",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "c54d4436-923d-450b-baab-e4c747acdbf8": {
+        "S.No": "225",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-H",
+        "Description": "PERSONAL COMPUTERS",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "96b8a8a6-4939-4a8f-bd30-f7da663da261": {
+        "S.No": "226",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-I",
+        "Description": "Laptop Computer",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Vidya",
+        "Location": "FF"
+    },
+    "104f6b08-cbc9-4c03-9fe6-d24c09f50658": {
+        "S.No": "227",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-J",
+        "Description": "Server",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "6bd3ee3f-5446-437c-a811-ddffd56f0324": {
+        "S.No": "228",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-K",
+        "Description": "D Link 8 port switch",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.Sai Ramesh / HOD Room",
+        "Location": "FF / SF"
+    },
+    "531ee563-9a8d-4255-a20e-44205942ad6a": {
+        "S.No": "229",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-L",
+        "Description": "Samsung Laserjet Printer",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Vidya",
+        "Location": "FF"
+    },
+    "812f9c26-c2b2-4176-89ea-754e854a0fda": {
+        "S.No": "230",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-M",
+        "Description": "HP Android device",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.Vidya",
+        "Location": "FF"
+    },
+    "de942960-9349-4ea8-a853-7ffb8acb7d6f": {
+        "S.No": "231",
+        "Stock Register Page No.": "87",
+        "Stock Register Sl.No": "165-N",
+        "Description": "SEAGATE EXTERANAL HARD DISK",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.Vidya, Dr.Ranjani Parthasarathy",
+        "Location": "FF / SF"
+    },
+    "0e25ccaf-6b70-45bb-a264-fdc915829f51": {
+        "S.No": "232",
+        "Stock Register Page No.": "89",
+        "Stock Register Sl.No": "166",
+        "Description": "UBS keyboard",
+        "Book Figure Quantity": "30",
+        "Issed to / Remarks": "TF Lab - 2 Nos. / Technical Store Room  - 28 Nos.",
+        "Location": "TF / GF"
+    },
+    "a59d34e0-1722-4750-aeef-b178583465ab": {
+        "S.No": "233",
+        "Stock Register Page No.": "89",
+        "Stock Register Sl.No": "167",
+        "Description": "Rasberry Pi",
+        "Book Figure Quantity": "11",
+        "Issed to / Remarks": "HOD - 2 Nos. / T8 Laboratory - 9 Nos.",
+        "Location": "FF / TF"
+    },
+    "ca0762f3-f072-4e3c-b5d0-5151e5da1c91": {
+        "S.No": "234",
+        "Stock Register Page No.": "90",
+        "Stock Register Sl.No": "168",
+        "Description": "optical mouse",
+        "Book Figure Quantity": "25",
+        "Issed to / Remarks": "SF Lab - 20, TF Lab - 5",
+        "Location": "SF / TF"
+    },
+    "fb3baa47-1a9c-4db3-a497-9b61164e423f": {
+        "S.No": "235",
+        "Stock Register Page No.": "90",
+        "Stock Register Sl.No": "169",
+        "Description": "IOT trainer kit",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "1d5b6dbc-0674-4f81-b8bc-17adb43b92da": {
+        "S.No": "236",
+        "Stock Register Page No.": "91",
+        "Stock Register Sl.No": "170",
+        "Description": "HP Probook 440",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "Dr.Ranjani Parthasarthy / Office Room / Dr.G.V.Uma / Dr.Sridhar / Dr.Vani / Dr.Swamynathan / Technical Store Room - 1 Nos. / Mr. Anto",
+        "Location": "GF / FF / SF"
+    },
+    "a656573b-7313-45ea-b81c-6c94dc9d20f2": {
+        "S.No": "237",
+        "Stock Register Page No.": "92",
+        "Stock Register Sl.No": "171",
+        "Description": "75 AH battery",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "UPS room",
+        "Location": "TF"
+    },
+    "bee504bd-34c7-48e8-b184-31c2523aa89e": {
+        "S.No": "238",
+        "Stock Register Page No.": "92",
+        "Stock Register Sl.No": "172-A",
+        "Description": "WI FI access point",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Audi / FF Lab, / SF Coridor /                                 TF Coridor - 2 Nos.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "cb2cab8f-a689-439a-982f-42392a464c6c": {
+        "S.No": "239",
+        "Stock Register Page No.": "92",
+        "Stock Register Sl.No": "172-B",
+        "Description": "Power Injector",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Technical Store Room / Switch room",
+        "Location": "FF / SF / TF"
+    },
+    "abc8bcc4-72e8-4ef1-a3f0-fb6db084c488": {
+        "S.No": "240",
+        "Stock Register Page No.": "93",
+        "Stock Register Sl.No": "173-1",
+        "Description": "Steel vaccum cleaner",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "880201a4-9a9e-4ad5-b2e4-6731eeda26d8": {
+        "S.No": "241",
+        "Stock Register Page No.": "93",
+        "Stock Register Sl.No": "173-2",
+        "Description": "Handly Vaccum cleaner",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "5da665c8-023f-4a12-968c-4d3ce8ac41fa": {
+        "S.No": "242",
+        "Stock Register Page No.": "93",
+        "Stock Register Sl.No": "173-3",
+        "Description": "Handicam - Camcode Sony",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "fd55af5f-3bff-4909-a1d0-4943573feb88": {
+        "S.No": "243",
+        "Stock Register Page No.": "93",
+        "Stock Register Sl.No": "174",
+        "Description": "Hitachi 2 TON split AC",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr.Vani / Dr.Yogesh / Dr.Swamynathan",
+        "Location": "GF / SF"
+    },
+    "89ed28d4-64ec-40bb-ba26-c30aa0422575": {
+        "S.No": "244",
+        "Stock Register Page No.": "95",
+        "Stock Register Sl.No": "175",
+        "Description": "Hitachi 2 TON split AC",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.Geetha Ramani / Dr.N.Thangaraj",
+        "Location": "SF / TF"
+    },
+    "f8a95b67-677f-4ee5-a8fd-83daa2c48093": {
+        "S.No": "245",
+        "Stock Register Page No.": "96",
+        "Stock Register Sl.No": "176",
+        "Description": "HP Laserjet Pro M227 Printer",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.Abirami / Library",
+        "Location": "GF / TF"
+    },
+    "ac1cb99f-e237-4bab-a6ef-a065b4275224": {
+        "S.No": "246",
+        "Stock Register Page No.": "96",
+        "Stock Register Sl.No": "177-1",
+        "Description": "Biometric Finger Print attendence",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "c7c92f20-f706-4e51-a3d9-1160e940d8bd": {
+        "S.No": "247",
+        "Stock Register Page No.": "96",
+        "Stock Register Sl.No": "177-2",
+        "Description": "EM Lock",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS Lab",
+        "Location": "FF"
+    },
+    "c8822abc-b059-41b3-b029-55f0659ef7e8": {
+        "S.No": "248",
+        "Stock Register Page No.": "97",
+        "Stock Register Sl.No": "178",
+        "Description": "HP Desktop 600",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "HOD / Office / Library",
+        "Location": "FF / GF"
+    },
+    "07e74e7d-5c88-422c-9d23-6fb77726fe3b": {
+        "S.No": "249",
+        "Stock Register Page No.": "98",
+        "Stock Register Sl.No": "179",
+        "Description": "HP Desktop 600",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr.Deivamani / CPDE - 2 Nos. /                      RS Cabin (1) - 2 No. /                                        RS Cabin (2) - 1 No.",
+        "Location": "FF / CPDE / TF"
+    },
+    "33b8a8c0-fafe-4c63-89eb-47e7a8fd2fa9": {
+        "S.No": "250",
+        "Stock Register Page No.": "98",
+        "Stock Register Sl.No": "180",
+        "Description": "Blue Star Water Dispenser with accessories",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Conference Room",
+        "Location": "GF"
+    },
+    "197f4e4d-be1e-41ff-ba2c-4c99c167b79c": {
+        "S.No": "251",
+        "Stock Register Page No.": "99",
+        "Stock Register Sl.No": "181",
+        "Description": "Cruise 1 Ton portable A/C",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.N.Thangaraj / CPDE Scholar Room",
+        "Location": "CPDE"
+    },
+    "67764fc2-8133-4e6e-8524-966fa0f4dcf9": {
+        "S.No": "252",
+        "Stock Register Page No.": "99",
+        "Stock Register Sl.No": "182",
+        "Description": "Orient fan",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "PG Exam Cell / Item Condominated in 2020",
+        "Location": "FF / TF"
+    },
+    "cf1671c4-b466-4dad-8e3a-8fdd5b11f130": {
+        "S.No": "253",
+        "Stock Register Page No.": "100",
+        "Stock Register Sl.No": "183",
+        "Description": "Raptor Interactive white board",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "G3 Class room",
+        "Location": "GF"
+    },
+    "de9f5607-b849-478a-884f-d0e0b7d6344d": {
+        "S.No": "254",
+        "Stock Register Page No.": "100",
+        "Stock Register Sl.No": "184",
+        "Description": "MAC PRO 15 Laptop",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "HOD",
+        "Location": "FF"
+    },
+    "b8d59d16-d3ae-4429-aafd-b104b19cf683": {
+        "S.No": "255",
+        "Stock Register Page No.": "101",
+        "Stock Register Sl.No": "185",
+        "Description": "VESTAR 2.0 TON SPLIT AC",
+        "Book Figure Quantity": "9",
+        "Issed to / Remarks": "Office Room 2 Nos. / Audi - 3 Nos. / Conference Room - 1 No. / Dr.K.Kulothungan / Dr.M.vijalakshmi / Condomination Room",
+        "Location": "GF / FF / SF / TF"
+    },
+    "ce618087-eef4-420c-9501-eb0bca72e254": {
+        "S.No": "256",
+        "Stock Register Page No.": "102",
+        "Stock Register Sl.No": "186",
+        "Description": "VESTAR 1.0 TON SPLIT AC",
+        "Book Figure Quantity": "14",
+        "Issed to / Remarks": "P.A to HOD room / Dr.K.Indra Gandhi / Dr.P.Geetha / Dr.K.Vidya / Dr.E.Uma / Dr.Selvi Ravindran / Vacant (1) / Vacant (2) / Dr.L.Sai Ramesh / Dr. S.Bama / Dr.M.Deivamani /  Dr.S.Abirami / Dr.Arul Deepa  / UAV Room",
+        "Location": "FF / SF / TF"
+    },
+    "583e7f78-8d5d-4f9a-8e3e-8e028be27543": {
+        "S.No": "257",
+        "Stock Register Page No.": "104",
+        "Stock Register Sl.No": "187-1",
+        "Description": "IP DOME CAMERA - HIKVISION",
+        "Book Figure Quantity": "29",
+        "Issed to / Remarks": "Dept. all floor / Lab / Class Room",
+        "Location": "GF /FF /SF /TF"
+    },
+    "2175706c-8b82-46df-aa21-94fe7243f0e2": {
+        "S.No": "258",
+        "Stock Register Page No.": "104",
+        "Stock Register Sl.No": "187-2",
+        "Description": "IP BULLET CAMERA 4MM LENS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Main Entrance",
+        "Location": "GF"
+    },
+    "76094917-53e5-4c96-9d34-83a6f9849514": {
+        "S.No": "259",
+        "Stock Register Page No.": "104",
+        "Stock Register Sl.No": "187-3",
+        "Description": "IP BULLET CAMERA 6MM LENS",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "All floor corridor both side",
+        "Location": "GF /FF /SF /TF"
+    },
+    "7a800e9c-4956-47a3-bc30-c2b4c62fb3ed": {
+        "S.No": "260",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-4",
+        "Description": "16 CHANNEL NVR",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "HOD room",
+        "Location": "FF"
+    },
+    "4ed6c4ee-378b-4786-83d3-d35f96ff43e6": {
+        "S.No": "261",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-5",
+        "Description": "SURVEILLANCE HARD DISK",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "HOD room",
+        "Location": "FF"
+    },
+    "6fdba870-bf6e-42dd-8e7f-394e5a14e1c5": {
+        "S.No": "262",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-6",
+        "Description": "ADAPTER FOR CAMERA",
+        "Book Figure Quantity": "38",
+        "Issed to / Remarks": "Fixed along with the camera in the box",
+        "Location": "GF /FF /SF /TF"
+    },
+    "461f2b48-0ef2-4fa8-b83d-19d3fcf4e008": {
+        "S.No": "263",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-7",
+        "Description": "16 PORT SWITCH - DLINK",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Switch room",
+        "Location": "FF /SF /TF"
+    },
+    "58bc93b4-90b8-4f9f-adfb-36819e0720ff": {
+        "S.No": "264",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-8",
+        "Description": "CONFIGURATION AND INSTALLATION",
+        "Book Figure Quantity": "nan",
+        "Issed to / Remarks": "nan",
+        "Location": "nan"
+    },
+    "259beab2-0d04-430c-a17b-702a707f9901": {
+        "S.No": "265",
+        "Stock Register Page No.": "105",
+        "Stock Register Sl.No": "187-9",
+        "Description": "DATA CABLE ALONG WITH PIPE AND FIXING",
+        "Book Figure Quantity": "1500 MT.",
+        "Issed to / Remarks": "nan",
+        "Location": "nan"
+    },
+    "d71d5491-79fb-4a96-afe3-49189fbbfdb7": {
+        "S.No": "266",
+        "Stock Register Page No.": "106",
+        "Stock Register Sl.No": "188",
+        "Description": "MF COLOUR PRINTER - HP M477FDW",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "HOD room",
+        "Location": "FF"
+    },
+    "b32a8efe-e634-4a0a-91e9-022ea682c30a": {
+        "S.No": "267",
+        "Stock Register Page No.": "107",
+        "Stock Register Sl.No": "189",
+        "Description": "FUJITSU CELSIUS W570",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "43f62be5-60ce-48b3-bab3-0cb41c48094c": {
+        "S.No": "268",
+        "Stock Register Page No.": "107",
+        "Stock Register Sl.No": "190",
+        "Description": "HP PRODESK 600 G3",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "RS Cabin (1) , (2) & CPDE RS Cabin - 19 Nos. / TF Spl. Lab",
+        "Location": "FF / TF / CPDE"
+    },
+    "f17599a7-d318-4e2a-bbef-7156085cc94e": {
+        "S.No": "269",
+        "Stock Register Page No.": "108",
+        "Stock Register Sl.No": "191-1",
+        "Description": "The WBE with standard carrier board (pixhawk for quadcopier)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "56243d0e-8f8d-499c-8a1a-9f11daf3a191": {
+        "S.No": "270",
+        "Stock Register Page No.": "108",
+        "Stock Register Sl.No": "191-2",
+        "Description": "Pixhawk 2.1 cable set FPV camera kit",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "54f145d2-3a81-4f6c-968a-c1e59d45a01a": {
+        "S.No": "271",
+        "Stock Register Page No.": "108",
+        "Stock Register Sl.No": "191-3",
+        "Description": "System kit 48 channel",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "0aa56294-4aa8-4267-90f1-aeee43412bef": {
+        "S.No": "272",
+        "Stock Register Page No.": "108",
+        "Stock Register Sl.No": "191-4",
+        "Description": "fiysky quadcoper remote 6 channel transmitter & receiver for quadcoper",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "043e7044-92ba-4d0c-8d22-720373db14d6": {
+        "S.No": "273",
+        "Stock Register Page No.": "108",
+        "Stock Register Sl.No": "1915",
+        "Description": "procus pro 3D VR Head set",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "ede9cc4a-cca6-400a-b7f7-901ebfdb3340": {
+        "S.No": "274",
+        "Stock Register Page No.": "109",
+        "Stock Register Sl.No": "192",
+        "Description": "HP MODEL 280 G3MT DESTOP COMPUTER",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "AUCTS Lab - 5 Nos. /                                          Transfer to DCSE - 5 Nos.",
+        "Location": "FF / DCSE"
+    },
+    "94d26e1a-34b4-4027-9d11-18b73fdbd8ec": {
+        "S.No": "275",
+        "Stock Register Page No.": "110",
+        "Stock Register Sl.No": "193",
+        "Description": "HP WORKSTATION 600 G3 MT DESTOP WORKSTATION",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "T8 Laboratory /  Library - 2 Nos. /                        SF Spl. Lab - 5 Nos. / Office Room - 1 No. / RS Cabin (2) - 1 No.",
+        "Location": "GF / FF / SF / TF"
+    },
+    "a04fb7ee-ab2d-47e8-bd18-284e115ceb7d": {
+        "S.No": "276",
+        "Stock Register Page No.": "111",
+        "Stock Register Sl.No": "194",
+        "Description": "HP HEAD PHONE WITH MIC",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr.Saswathi Muherje / Dr.R.Geetha Ramani / Dr.Ranjani Parthasarathi / Dr.Vani / Dr.Swamynathan / Dr.yogesh",
+        "Location": "FF / SF / GF"
+    },
+    "209ae797-54c6-4e20-aa1f-4631924741a6": {
+        "S.No": "277",
+        "Stock Register Page No.": "111",
+        "Stock Register Sl.No": "195",
+        "Description": "RAPTOR IR BOARD INFRARED",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "FF Class -1 No. / SF class -1 No. /                   TF Class -1 No. / Audi - 2 Nos.",
+        "Location": "GF /FF /SF /TF"
+    },
+    "2b6eb254-80cc-409f-bfa5-5c1916ad8da3": {
+        "S.No": "278",
+        "Stock Register Page No.": "112",
+        "Stock Register Sl.No": "196",
+        "Description": "12V, 75Ah Quanta SMF battery",
+        "Book Figure Quantity": "60",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF / TF"
+    },
+    "9d6f294d-300e-47ff-bc26-ddf09c5361a4": {
+        "S.No": "279",
+        "Stock Register Page No.": "112",
+        "Stock Register Sl.No": "197",
+        "Description": "Metal stand",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF / TF"
+    },
+    "cfecd750-51ac-41f4-8469-ce7a2eb0dd06": {
+        "S.No": "280",
+        "Stock Register Page No.": "113",
+        "Stock Register Sl.No": "198",
+        "Description": "HP LASERJET PRO MF PRINTER",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.Saswati Mukherjee / Office room",
+        "Location": "GF / FF"
+    },
+    "e8c65330-21d3-4aa4-8675-d05bafad11d7": {
+        "S.No": "281",
+        "Stock Register Page No.": "114",
+        "Stock Register Sl.No": "199",
+        "Description": "FAP - U 321 EY -S WIRELESS ACCESS POINT",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "FF Corridor",
+        "Location": "FF"
+    },
+    "c7007cc2-3248-4acb-93c9-67f0c6048c30": {
+        "S.No": "282",
+        "Stock Register Page No.": "114",
+        "Stock Register Sl.No": "200",
+        "Description": "15 KVA ESOTIC ONLINE UPS WITH 20 BATTERY",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UPS room",
+        "Location": "GF"
+    },
+    "1ca293a8-b152-4c5b-92da-64db90b8746f": {
+        "S.No": "283",
+        "Stock Register Page No.": "115",
+        "Stock Register Sl.No": "201",
+        "Description": "PROFESSIONAL VIDEO CAMERA - SONY PXW-X70",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technicla Store Room",
+        "Location": "GF"
+    },
+    "f5ce81a6-1cde-4ff5-a494-dbf0d1a7773e": {
+        "S.No": "284",
+        "Stock Register Page No.": "115",
+        "Stock Register Sl.No": "202",
+        "Description": "ASSCORIES FOR PROFESSIONAL VIDEO CAMERA - SONY",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technicla Store Room",
+        "Location": "GF"
+    },
+    "24afa49b-3027-4383-91ad-e428bf8455e4": {
+        "S.No": "285",
+        "Stock Register Page No.": "116",
+        "Stock Register Sl.No": "203",
+        "Description": "15 KVA ESOTIC ONLINE UPS WITH 20 BATTERY",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "UPS room",
+        "Location": "SF"
+    },
+    "46709fab-d9f7-4533-9f7b-86dcc629f81b": {
+        "S.No": "286",
+        "Stock Register Page No.": "118",
+        "Stock Register Sl.No": "206",
+        "Description": "CANNON IR ADV 65551 MULTIFUNCTION XEROX",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "OFFICE ROOM",
+        "Location": "FF"
+    },
+    "e6273f47-853e-4180-913c-f93080a410dd": {
+        "S.No": "287",
+        "Stock Register Page No.": "119",
+        "Stock Register Sl.No": "207",
+        "Description": "PA VHF WIRELESS DESKTOP MIC &                PA VHF WIRELESS COLLAR MIC",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "AUDI",
+        "Location": "GF"
+    },
+    "7b67c66a-cd1c-45ea-8006-ab8127c8952d": {
+        "S.No": "288",
+        "Stock Register Page No.": "123",
+        "Stock Register Sl.No": "208",
+        "Description": "HP MODEL DL 380 GEN SERVER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUCTS",
+        "Location": "FF"
+    },
+    "9484a619-c4f2-4ce6-8646-281c4ce20a10": {
+        "S.No": "289",
+        "Stock Register Page No.": "120",
+        "Stock Register Sl.No": "209",
+        "Description": "12V, 75 AH QUANTA SMF BATTERY",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "UPS room",
+        "Location": "FF"
+    },
+    "5dc48e31-0a0c-4293-8943-6d94a2bd937a": {
+        "S.No": "290",
+        "Stock Register Page No.": "120",
+        "Stock Register Sl.No": "210",
+        "Description": "120 LT., WATER COOLER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "FF Corridor",
+        "Location": "FF"
+    },
+    "b353b664-e999-46b4-8f5d-d1f63711154d": {
+        "S.No": "291",
+        "Stock Register Page No.": "121",
+        "Stock Register Sl.No": "211",
+        "Description": "DELL LATTITUDE 3590 CTO",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "Dr.J.Indumathi / Dr.S.Sendhilkumar / Dr.M.vijayalakshmi / Dr.N.Thangaraj / Dr.K.Indra Gandhi / Dr.E.Uma /                              Dr. S.Abirami",
+        "Location": "GF /FF /SF /TF"
+    },
+    "783f8957-c89e-41cd-9c3f-516ee8983843": {
+        "S.No": "292",
+        "Stock Register Page No.": "121",
+        "Stock Register Sl.No": "212",
+        "Description": "HTC VIVE VR SYSTEM",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "T8 Laboratory",
+        "Location": "TF"
+    },
+    "53969142-255d-4de9-8220-1dbd281a5e40": {
+        "S.No": "293",
+        "Stock Register Page No.": "122",
+        "Stock Register Sl.No": "213",
+        "Description": "SMART TV - SAMSUNG NU7100",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "HOD room",
+        "Location": "FF"
+    },
+    "c6bae276-e602-460e-b91c-66995ad99d34": {
+        "S.No": "294",
+        "Stock Register Page No.": "122",
+        "Stock Register Sl.No": "214",
+        "Description": "1.5 TON INDOOR UNIT SPLIT AC",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "SF Main lab / UPS Room",
+        "Location": "SF"
+    },
+    "bce72f31-11bc-445c-9efb-a0e00351074b": {
+        "S.No": "295",
+        "Stock Register Page No.": "124",
+        "Stock Register Sl.No": "215",
+        "Description": "BYBASS SWITCH WITH ACCESSORIES",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "AUCTS",
+        "Location": "FF"
+    },
+    "406ed38c-c483-410b-acc7-76f7aacd61e8": {
+        "S.No": "296",
+        "Stock Register Page No.": "125",
+        "Stock Register Sl.No": "216",
+        "Description": "E PODIUM WITH INTERACTIVE PANNEL",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "AUDI",
+        "Location": "GF"
+    },
+    "6aa1886b-e543-44cc-8fa7-4a6ef4d9011c": {
+        "S.No": "297",
+        "Stock Register Page No.": "125",
+        "Stock Register Sl.No": "217",
+        "Description": "AIR CIRCULATOR PEDESTAN FAN",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "RS Cabin",
+        "Location": "CPDE"
+    },
+    "67c8d344-636c-4700-a962-aeeac3c65df2": {
+        "S.No": "298",
+        "Stock Register Page No.": "126",
+        "Stock Register Sl.No": "218",
+        "Description": "12v - 75AH Exide SMF battries",
+        "Book Figure Quantity": "18",
+        "Issed to / Remarks": "UPS room",
+        "Location": "FF"
+    },
+    "faedd9c9-c3e0-4afc-9586-97f36c229a49": {
+        "S.No": "299",
+        "Stock Register Page No.": "126",
+        "Stock Register Sl.No": "219",
+        "Description": "SAMSUNG CURVED DISPLAY MONITOR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "649f1fb6-bc32-408d-8b1c-97ca76982737": {
+        "S.No": "300",
+        "Stock Register Page No.": "127",
+        "Stock Register Sl.No": "220",
+        "Description": "AMARON BATTRIES",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dept. HOD Car",
+        "Location": "nan"
+    },
+    "52b23829-0df2-4543-942f-d19c31ac7a3a": {
+        "S.No": "301",
+        "Stock Register Page No.": "127",
+        "Stock Register Sl.No": "221",
+        "Description": "I MAC DESKTOP - APPLE",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "HOD room",
+        "Location": "FF"
+    },
+    "61400227-9efa-4f50-b996-83ceeb85e594": {
+        "S.No": "302",
+        "Stock Register Page No.": "128",
+        "Stock Register Sl.No": "222",
+        "Description": "24U RACK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SERVER ROOM",
+        "Location": "FF"
+    },
+    "fc687f20-0c45-40b3-84d0-f3bcb2fab9f8": {
+        "S.No": "303",
+        "Stock Register Page No.": "129",
+        "Stock Register Sl.No": "223",
+        "Description": "SPANCERSET (1) , CUTTING PLAYER (2)",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "58227beb-e33d-4240-9098-8eb17bfbd865": {
+        "S.No": "304",
+        "Stock Register Page No.": "129",
+        "Stock Register Sl.No": "224 (A), (B), (C), (D)",
+        "Description": "GOOGLE HOME, GOOGLE Home (Mini), Amazon Echo Dot, Amazon Echo Spot",
+        "Book Figure Quantity": "2, 1, 1, 1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "GF"
+    },
+    "7ec54856-1d17-45c0-8235-64efd6c9f780": {
+        "S.No": "305",
+        "Stock Register Page No.": "130",
+        "Stock Register Sl.No": "225",
+        "Description": "LOCK",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "OFFICE ROOM",
+        "Location": "FF"
+    },
+    "5656bd29-bbf3-4aa8-b1c7-88685763bb12": {
+        "S.No": "306",
+        "Stock Register Page No.": "130",
+        "Stock Register Sl.No": "226",
+        "Description": "120 LT., WATER COOLER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF COORIDOR",
+        "Location": "SF"
+    },
+    "0bebc55c-8efa-4acf-9981-23f697715b28": {
+        "S.No": "307",
+        "Stock Register Page No.": "131",
+        "Stock Register Sl.No": "227",
+        "Description": "120 LT., WATER COOLER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "TF COORIDOR",
+        "Location": "TF"
+    },
+    "c8b676ce-1653-492b-88d8-3f441628e7fc": {
+        "S.No": "308",
+        "Stock Register Page No.": "131",
+        "Stock Register Sl.No": "228",
+        "Description": "GODREJ SS LOCK",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technical Store Room",
+        "Location": "FF"
+    },
+    "a70cf7ca-f1e3-436f-95b1-90f4a1b3024d": {
+        "S.No": "309",
+        "Stock Register Page No.": "132",
+        "Stock Register Sl.No": "229",
+        "Description": "SOAP DISPENSER",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "GF Gents Staff Toilet / Office Room",
+        "Location": "GF / FF"
+    },
+    "f02f6cd7-0d46-4187-b92a-40c723a8a8df": {
+        "S.No": "310",
+        "Stock Register Page No.": "132",
+        "Stock Register Sl.No": "230",
+        "Description": "HAMER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "OFFICE ROOM",
+        "Location": "FF"
+    },
+    "fa4c9151-759f-4217-b921-9d0506698dc9": {
+        "S.No": "311",
+        "Stock Register Page No.": "133",
+        "Stock Register Sl.No": "231",
+        "Description": "DELL LATTITUDE 3590 LAPTOP",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "Dr.P.Geetha / Dr.K.Vidhya /                             Dr.Selvi Ravindaran / Dr.S.Bama /  Dept. Common usage",
+        "Location": "GF / FF / SF"
+    },
+    "b97938a5-6a6d-4322-8336-e23f497cedf4": {
+        "S.No": "312",
+        "Stock Register Page No.": "133",
+        "Stock Register Sl.No": "232",
+        "Description": "DELL LATTITUDE 3590 LAPTOP",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr.Saswati Mukherjee / Dr.Arul Deepa / Technical Store room",
+        "Location": "GF / FF / SF"
+    },
+    "0123e446-d890-4d29-a137-4c62ad9c0e86": {
+        "S.No": "313",
+        "Stock Register Page No.": "134",
+        "Stock Register Sl.No": "233",
+        "Description": "TELEPHONE INSTRUMENT (CORDLESS) WITH CALLER ID PANASONIC",
+        "Book Figure Quantity": "21",
+        "Issed to / Remarks": "HOD Room / Dr.Saswati Mukerhjee / Dr.Ranjani parthasarathi / Dr. J.Indumathi / Dr.S.Sridhar / Dr.N.Thangaraj / Dr.K.Vidhya / Dr.Selvi Ravindaran / Dr.P.Yogesh / Server Room / TF Annex Lab / Library / Office Room - 2 Nos. / Technical Store Room - 7 Nos.",
+        "Location": "GF / FF / SF / FF"
+    },
+    "0ba4e34c-43e4-4a08-b245-f95da5fcb761": {
+        "S.No": "314",
+        "Stock Register Page No.": "135",
+        "Stock Register Sl.No": "234",
+        "Description": "CERAMIC STEEL WHITE BOARD WITH MOVABLE STAND",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Auditorium",
+        "Location": "GF"
+    },
+    "05568c79-6c81-44f3-9200-074747541f6f": {
+        "S.No": "315",
+        "Stock Register Page No.": "135",
+        "Stock Register Sl.No": "235",
+        "Description": "MOBILE POCKET PROJECTOR - SONY",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "HOD Room",
+        "Location": "FF"
+    },
+    "5f278363-acb1-4d0b-9475-e58c938399fb": {
+        "S.No": "316",
+        "Stock Register Page No.": "136",
+        "Stock Register Sl.No": "236 - A",
+        "Description": "NEW LINE 75 INCH INTERACTIVE TOUCH PANEL FLAT DISPLAY - I75",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Conference Room",
+        "Location": "GF"
+    },
+    "2b37224b-b177-480d-815e-25eeb4272fca": {
+        "S.No": "317",
+        "Stock Register Page No.": "136",
+        "Stock Register Sl.No": "236 - B",
+        "Description": "BUILT IN CPU WITH AMD 4500 4 CORE 1.96 GHZ PROCESSOR",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Conference Room",
+        "Location": "GF"
+    },
+    "373e5be0-d5e2-427e-a134-b5f22bdf2771": {
+        "S.No": "318",
+        "Stock Register Page No.": "136",
+        "Stock Register Sl.No": "237",
+        "Description": "HP DL 560 10TH GENERATION SERVER",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "53fcbca8-c4ba-4927-859a-cb2e6da90b4b": {
+        "S.No": "319",
+        "Stock Register Page No.": "137",
+        "Stock Register Sl.No": "238",
+        "Description": "FLAT BED COLOUR SCANNER HP",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "0747ae66-a9e4-4820-9faf-e088d56144b8": {
+        "S.No": "320",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239 - 1",
+        "Description": "8 PORT POE SWITCH - ARUBA 2930F",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF Swithc Room",
+        "Location": "SF"
+    },
+    "fc0acad3-c91c-4b2a-a9ca-03d7327ef547": {
+        "S.No": "321",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239 -2",
+        "Description": "AP 325 INDOOR WIRELESS ACCESS POINT (ARUBA)",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "739ce229-910f-4df3-b075-152b25d5c43c": {
+        "S.No": "322",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-3",
+        "Description": "CAT 6 IO with Dust Cover",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "16b88d49-a8c6-4b0a-9a06-affdecfd1e84": {
+        "S.No": "323",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-4",
+        "Description": "SMB Box and Face Plate",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "b73a40f8-b339-4719-a129-da92bdee4bb2": {
+        "S.No": "324",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-5",
+        "Description": "SYNERGY WALL PLATE 1 PORT",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "0bb24391-1e3f-4ede-87b7-71b351c3c3da": {
+        "S.No": "325",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-6",
+        "Description": "CAT 6 2 MTS PATCH CORD",
+        "Book Figure Quantity": "8",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "00998578-9650-4ca9-b3f9-756f79277e7a": {
+        "S.No": "326",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-7",
+        "Description": "RJ45 CONNECTOR CAT 6",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "GF Corridor - 2 Nos. / FF Corridor / SF Corridor / SF Main Lab  / SF Annex Lab  / TF Main Lab / TF Annex Lab",
+        "Location": "GF / FF / SF / TT"
+    },
+    "e2127591-bcfd-4e3a-bb20-da228cd12924": {
+        "S.No": "327",
+        "Stock Register Page No.": "138",
+        "Stock Register Sl.No": "239-8",
+        "Description": "6U RACK WITH ACCESSORIES",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "SF Switch Room",
+        "Location": "SF"
+    },
+    "acd21ecf-e70e-4e8c-bceb-b4b89666843f": {
+        "S.No": "328",
+        "Stock Register Page No.": "139",
+        "Stock Register Sl.No": "240",
+        "Description": "DSLR CAMERA - CANNON EOS 7D MARK II",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Technicla Store Room",
+        "Location": "GF"
+    },
+    "aa715299-5570-4962-bf3b-a886264bacba": {
+        "S.No": "329",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-1",
+        "Description": "TYPE II 24 PORT ACCESS SWITCH",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "2a307a5f-169d-4866-b4ee-3a97a9d09bbd": {
+        "S.No": "330",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-2",
+        "Description": "CAT 6 IO with Dust Cover to cover RJ 45 Interface",
+        "Book Figure Quantity": "80",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "56c079a1-64e6-474f-8692-c587302b5f1c": {
+        "S.No": "331",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-3",
+        "Description": "SMB Box and Face Plate",
+        "Book Figure Quantity": "80",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "1047e72f-5107-47d9-acf9-f0091b2f66cc": {
+        "S.No": "332",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-4",
+        "Description": "SYNERGY WALL PLATE 1 PORT",
+        "Book Figure Quantity": "80",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "663c5b67-c50e-455d-a3d5-a3f1a7bf125b": {
+        "S.No": "333",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-5",
+        "Description": "24 PORT Straight Jack Pannel",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "40690ff2-be8a-4a09-84bc-07ccbfdf99eb": {
+        "S.No": "334",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-6",
+        "Description": "CAT 6 2 MTS PATCH CORD",
+        "Book Figure Quantity": "80",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "ff7db9d5-eb06-4951-9b7d-66063fc91132": {
+        "S.No": "335",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-7",
+        "Description": "Cat 6 1 MTS PATCH CORD",
+        "Book Figure Quantity": "80",
+        "Issed to / Remarks": "FF Main Lab - 2 Nos. / Server Room - 2 Nos.",
+        "Location": "FF"
+    },
+    "f7addefa-5f9a-4e76-abd3-4cb7a1904d9b": {
+        "S.No": "336",
+        "Stock Register Page No.": "140",
+        "Stock Register Sl.No": "241-8",
+        "Description": "12 U Rack with Fan and Accessories",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "FF Main Lab / Networking Store Room",
+        "Location": "FF"
+    },
+    "98d53fec-e941-4932-a090-9420f1873963": {
+        "S.No": "337",
+        "Stock Register Page No.": "141",
+        "Stock Register Sl.No": "242",
+        "Description": "Industrial Emergency Light with necessary electrical wiring",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "GF Corridor / FF Corridor / SF Corridor / TF Corridor",
+        "Location": "GF / FF / SF / TF"
+    },
+    "bc1793d4-f9c2-4e3d-883c-adca6f8d638a": {
+        "S.No": "338",
+        "Stock Register Page No.": "141",
+        "Stock Register Sl.No": "243",
+        "Description": "1.5 HP Borewell motor - Suguna",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Motor Room",
+        "Location": "GF"
+    },
+    "fbf43e31-e63b-4f9a-8989-72812f3921a6": {
+        "S.No": "339",
+        "Stock Register Page No.": "142",
+        "Stock Register Sl.No": "244",
+        "Description": "TYPE II 24 PORT ACCESS SWITCH",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Technicla Store Room",
+        "Location": "GF"
+    },
+    "f173472b-7a38-4c6a-b6d1-8f5573f5c9ae": {
+        "S.No": "340",
+        "Stock Register Page No.": "142",
+        "Stock Register Sl.No": "245 -1",
+        "Description": "Wireless smart IP Camera",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "dc78a677-91c0-4f2d-b9f2-c3a7a221cd71": {
+        "S.No": "341",
+        "Stock Register Page No.": "142",
+        "Stock Register Sl.No": "245-2",
+        "Description": "HD Web Camera C270",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "UAV Lab",
+        "Location": "TF"
+    },
+    "dfd83e78-a0bb-41f1-9b67-ebd2209ec39e": {
+        "S.No": "342",
+        "Stock Register Page No.": "143",
+        "Stock Register Sl.No": "246",
+        "Description": "Emotive Insight 5 Channel Mobile Brain Ware",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr.T.Mala",
+        "Location": "FF"
+    },
+    "51bcdcdf-8099-4885-9cd1-323006b810e7": {
+        "S.No": "343",
+        "Stock Register Page No.": "143",
+        "Stock Register Sl.No": "247",
+        "Description": "75 AH 12 Watts SMF batteries",
+        "Book Figure Quantity": "16",
+        "Issed to / Remarks": "UPS Room",
+        "Location": "TF"
+    },
+    "f6f4d570-6ed5-4247-9f75-27fb00ff3117": {
+        "S.No": "344",
+        "Stock Register Page No.": "145",
+        "Stock Register Sl.No": "248-1",
+        "Description": "HP Server Model DL380",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "938ffd6a-e2ed-4555-b45d-035e65da9fb1": {
+        "S.No": "345",
+        "Stock Register Page No.": "145",
+        "Stock Register Sl.No": "248-2",
+        "Description": "12 TB Hot Plug HDD",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "e596261f-ea13-4577-b320-d1f1bad0cf39": {
+        "S.No": "346",
+        "Stock Register Page No.": "145",
+        "Stock Register Sl.No": "248-3",
+        "Description": "64 GB ECC RAM",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "19408b36-457d-414d-8183-d28dbdfb297f": {
+        "S.No": "347",
+        "Stock Register Page No.": "147",
+        "Stock Register Sl.No": "249-1",
+        "Description": "I7 Desktop Acer Veriton M4660G",
+        "Book Figure Quantity": "70",
+        "Issed to / Remarks": "FF Main Lab",
+        "Location": "FF"
+    },
+    "cf1b9016-b540-4fec-afc0-2bac2d5bc791": {
+        "S.No": "348",
+        "Stock Register Page No.": "147",
+        "Stock Register Sl.No": "249-2",
+        "Description": "8 GB DDR 4 RAM",
+        "Book Figure Quantity": "210",
+        "Issed to / Remarks": "FF Main Lab",
+        "Location": "FF"
+    },
+    "dc22a62a-a85a-4a89-bd45-7c74a4fa206d": {
+        "S.No": "349",
+        "Stock Register Page No.": "147",
+        "Stock Register Sl.No": "249-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "70",
+        "Issed to / Remarks": "FF Main Lab",
+        "Location": "FF"
+    },
+    "44817042-321c-4056-806e-1491e64b917e": {
+        "S.No": "350",
+        "Stock Register Page No.": "147",
+        "Stock Register Sl.No": "249-4",
+        "Description": "4 TB HDD In Lieu of 2 TB HDD",
+        "Book Figure Quantity": "70",
+        "Issed to / Remarks": "FF Main Lab",
+        "Location": "FF"
+    },
+    "3a6f3c5f-1170-40c9-9293-7d338f20f704": {
+        "S.No": "351",
+        "Stock Register Page No.": "149",
+        "Stock Register Sl.No": "250-1",
+        "Description": "I7 Desktop Acer Veriton M4660G",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "Dr.Saswati Mukherjee / Dr.Ranjani Parthasarathi / Dr.K.Vani / Dr.S.Swamynathan / Dr.P.Yogesh / Dr.R.Geetha Ramani / Dr.J.Indumathi / Dr.S.Sridhar / Dr.T.Mala / Dr.S.Sendhilkumar / Dr.M.Vijayalakshmi / Dr.N.Thangaraj / Dr.K.Indragandhi / Dr.E.Uma / Dr.S.Abirami",
+        "Location": "GF / FF / SF / TF"
+    },
+    "bbb32dfc-b210-48b5-b546-2504637f3199": {
+        "S.No": "352",
+        "Stock Register Page No.": "149",
+        "Stock Register Sl.No": "250-2",
+        "Description": "8 GB DDR 4 RAM",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "Dr.Saswati Mukherjee / Dr.Ranjani Parthasarathi / Dr.K.Vani / Dr.S.Swamynathan / Dr.P.Yogesh / Dr.R.Geetha Ramani / Dr.J.Indumathi / Dr.S.Sridhar / Dr.T.Mala / Dr.S.Sendhilkumar / Dr.M.Vijayalakshmi / Dr.N.Thangaraj / Dr.K.Indragandhi / Dr.E.Uma / Dr.S.Abirami",
+        "Location": "GF / FF / SF / TF"
+    },
+    "f5a68086-43f5-4090-871a-ddcc13d71a03": {
+        "S.No": "353",
+        "Stock Register Page No.": "149",
+        "Stock Register Sl.No": "250-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "Dr.Saswati Mukherjee / Dr.Ranjani Parthasarathi / Dr.K.Vani / Dr.S.Swamynathan / Dr.P.Yogesh / Dr.R.Geetha Ramani / Dr.J.Indumathi / Dr.S.Sridhar / Dr.T.Mala / Dr.S.Sendhilkumar / Dr.M.Vijayalakshmi / Dr.N.Thangaraj / Dr.K.Indragandhi / Dr.E.Uma / Dr.S.Abirami",
+        "Location": "GF / FF / SF / TF"
+    },
+    "159df6a5-c1d9-4954-9e58-909e3f3b365f": {
+        "S.No": "354",
+        "Stock Register Page No.": "150",
+        "Stock Register Sl.No": "251-1",
+        "Description": "I7 Desktop Acer Veriton M4660G",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr.P.Geetha / Dr.K.Vidhya /                            Dr.Selvi Ravindran",
+        "Location": "SF"
+    },
+    "9f3de5d4-202e-4b2c-a553-742b711fb060": {
+        "S.No": "355",
+        "Stock Register Page No.": "150",
+        "Stock Register Sl.No": "251-2",
+        "Description": "8 GB DDR 4 RAM",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr.P.Geetha / Dr.K.Vidhya /                            Dr.Selvi Ravindran",
+        "Location": "SF"
+    },
+    "fe15359f-caae-415e-a6ee-a5c772ba8dbf": {
+        "S.No": "356",
+        "Stock Register Page No.": "150",
+        "Stock Register Sl.No": "251-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr.P.Geetha / Dr.K.Vidhya /                            Dr.Selvi Ravindran",
+        "Location": "SF"
+    },
+    "504674a3-662c-4ba4-b37e-fd5e25d8b7a5": {
+        "S.No": "357",
+        "Stock Register Page No.": "151",
+        "Stock Register Sl.No": "252-1",
+        "Description": "I7 Desktop Acer Veriton M4660G",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.S.Bama / Dr.Arul Deepa",
+        "Location": "SF"
+    },
+    "4f1a0ada-be39-4d4e-a497-60968e07aa5a": {
+        "S.No": "358",
+        "Stock Register Page No.": "151",
+        "Stock Register Sl.No": "252-2",
+        "Description": "8 GB DDR 4 RAM",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.S.Bama / Dr.Arul Deepa",
+        "Location": "SF"
+    },
+    "96f8b1f2-275f-4d48-81ed-077ac3736654": {
+        "S.No": "359",
+        "Stock Register Page No.": "151",
+        "Stock Register Sl.No": "252-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr.S.Bama / Dr.Arul Deepa",
+        "Location": "SF"
+    },
+    "98387c00-3ba8-4d95-ad88-f5a8e8d97c00": {
+        "S.No": "360",
+        "Stock Register Page No.": "152",
+        "Stock Register Sl.No": "253-1",
+        "Description": "I7 Desktop Acer Veriton M4660G",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "6bb835fe-dcbc-4ced-9bdb-3e7886be0980": {
+        "S.No": "361",
+        "Stock Register Page No.": "152",
+        "Stock Register Sl.No": "253-2",
+        "Description": "8 GB DDR 4 RAM",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "f86fcb44-036e-4f47-816f-1189439e9083": {
+        "S.No": "362",
+        "Stock Register Page No.": "152",
+        "Stock Register Sl.No": "253-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "f60d8a8f-23df-4f19-b6a5-4fe8b40532cb": {
+        "S.No": "363",
+        "Stock Register Page No.": "153",
+        "Stock Register Sl.No": "254",
+        "Description": "HP Workstation Z4/G4",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. S. Senthilkumar",
+        "Location": "FF"
+    },
+    "846abec1-fe9a-41aa-9071-54f14786315b": {
+        "S.No": "364",
+        "Stock Register Page No.": "154",
+        "Stock Register Sl.No": "255",
+        "Description": "DRDO Automatic Mist Based Sanitizer Dispenser (5 Liter)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office Room",
+        "Location": "FF"
+    },
+    "ea71e385-46af-4b91-8a9a-dd5b11a56b81": {
+        "S.No": "365",
+        "Stock Register Page No.": "154",
+        "Stock Register Sl.No": "256-1",
+        "Description": "Logitech Camera with built in Microphone (B525)",
+        "Book Figure Quantity": "16",
+        "Issed to / Remarks": "Dr. M. Deivamani / Dr. L. Sai Ramesh / Dr. V. Pandiyaraju / Dr. T.J. Vijayakumar / Dr. D. Narashiman / Ms. V. Ezhilarasi / Ms. S. Kanimozhi / Dr. B. Senthilnayaki / Ms. G. Mahalakshmi / Ms. R. L. Jasmine / Mr. H. Riasudheen / Ms. T. Sindhu / Ms. K. Mohanabindhu / Ms. B. Sivasankari / Stores (2 Nos.)",
+        "Location": "GF / FF / SF / TF"
+    },
+    "8ef1ac82-cabe-4d02-81b9-be4fb9a376b2": {
+        "S.No": "366",
+        "Stock Register Page No.": "154",
+        "Stock Register Sl.No": "256-2",
+        "Description": "Zebronics Speakers (5310)",
+        "Book Figure Quantity": "16",
+        "Issed to / Remarks": "Computing Lab - I , II , III / Department Library / Dr. P. Yogesh / Dr. B. Senthilnayaki / Dr. M. Vijayalakshmi / AR & VR Lab (6 Nos.) / Dr. L. Sai Ramesh / Condemnaton Room (2 Nos.)",
+        "Location": "GF / FF / SF / TF"
+    },
+    "a8fccff0-9066-4354-9e3f-3084342ca5ec": {
+        "S.No": "367",
+        "Stock Register Page No.": "155",
+        "Stock Register Sl.No": "257",
+        "Description": "APT Flat Television with Control Unit & UPS",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Condomination Room",
+        "Location": "TF"
+    },
+    "ca27290b-5460-4196-9fdf-deba9b4e5bc7": {
+        "S.No": "368",
+        "Stock Register Page No.": "155",
+        "Stock Register Sl.No": "258",
+        "Description": "Cannon Printer MF 445 DW - Type 6 MFP",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Dr. S. Swamynathan / Office Room",
+        "Location": "GF / FF"
+    },
+    "7afb9535-6030-4393-bdb3-3fc695ad06dc": {
+        "S.No": "369",
+        "Stock Register Page No.": "156",
+        "Stock Register Sl.No": "259 -1",
+        "Description": "Acer i7 Desktop Type 3 Veriton M4660G",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr. L. Sairamesh / Ms. Kamatchi (RS) / Dr. T.J. Vijayakumar / Dr. D. Narashiman / Ms. Bindhya (RS) / Ms. V. Ezhilarasi",
+        "Location": "SF / TF"
+    },
+    "8c8ac03b-9e99-4aef-80fa-3ed1dbd7e204": {
+        "S.No": "369",
+        "Stock Register Page No.": "156",
+        "Stock Register Sl.No": "259-2",
+        "Description": "8 GB DDR 4 Memory",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr. L. Sairamesh / Ms. Kamatchi (RS) / Dr. T.J. Vijayakumar / Dr. D. Narashiman / Ms. Bindhya (RS) / Ms. V. Ezhilarasi",
+        "Location": "SF / TF"
+    },
+    "b7079a56-6757-45d4-ad29-361f41948a6f": {
+        "S.No": "370",
+        "Stock Register Page No.": "156",
+        "Stock Register Sl.No": "259-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr. L. Sairamesh / Ms. Kamatchi (RS) / Dr. T.J. Vijayakumar / Dr. D. Narashiman / Ms. Bindhya (RS) / Ms. V. Ezhilarasi",
+        "Location": "SF / TF"
+    },
+    "ad1b2487-89ac-422f-a09d-75254838138b": {
+        "S.No": "371",
+        "Stock Register Page No.": "156",
+        "Stock Register Sl.No": "259 - 3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Dr. L. Sairamesh / Ms. Kamatchi (RS) / Dr. T.J. Vijayakumar / Dr. D. Narashiman / Ms. Bindhya (RS) / Ms. V. Ezhilarasi",
+        "Location": "SF / TF"
+    },
+    "dae2d9b0-b957-41c8-a3c6-ae854b9a7798": {
+        "S.No": "372",
+        "Stock Register Page No.": "158",
+        "Stock Register Sl.No": "260-1",
+        "Description": "Acer i7 Desktop Type 3 Veriton M4660G",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "Ms. S. Kanimozhi / Dr. B. Senthilnayaki / Ms. G. Mahalakshmi / Ms. R.L. Jasmine / Mr. H. Riasudheen / Ms. T. Sindhu / Ms. K. Mohanabindhu",
+        "Location": "SF / TF"
+    },
+    "1c043794-52ba-4236-a3fc-29b1dbd63391": {
+        "S.No": "373",
+        "Stock Register Page No.": "158",
+        "Stock Register Sl.No": "260-2",
+        "Description": "8 GB DDR 4 Memory",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "Ms. S. Kanimozhi / Dr. B. Senthilnayaki / Ms. G. Mahalakshmi / Ms. R.L. Jasmine / Mr. H. Riasudheen / Ms. T. Sindhu / Ms. K. Mohanabindhu",
+        "Location": "SF / TF"
+    },
+    "efbffcee-e80d-4cef-98ff-4ad65974720c": {
+        "S.No": "374",
+        "Stock Register Page No.": "158",
+        "Stock Register Sl.No": "260-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "7",
+        "Issed to / Remarks": "Ms. S. Kanimozhi / Dr. B. Senthilnayaki / Ms. G. Mahalakshmi / Ms. R.L. Jasmine / Mr. H. Riasudheen / Ms. T. Sindhu / Ms. K. Mohanabindhu",
+        "Location": "SF / TF"
+    },
+    "a1e87f16-8760-4ddc-b3f7-a3fa386f9faa": {
+        "S.No": "375",
+        "Stock Register Page No.": "160",
+        "Stock Register Sl.No": "261-1",
+        "Description": "Acer i7 Desktop Type 3 Veriton M4660G",
+        "Book Figure Quantity": "9",
+        "Issed to / Remarks": "Specialized Lab - II (2 Nos.) / Ms. B. Sivasankari / Mr. J. Duraimurugan / Ms. N. Anbarasi / Ms. P. S. Apirajatha / Ms. C. M. Sowmya / Office Room / Dr. Saswathi Mukherjee",
+        "Location": "GF/ FF / SF / TF"
+    },
+    "c1769fdd-1d62-4daa-a404-7c072c4bb5e1": {
+        "S.No": "376",
+        "Stock Register Page No.": "160",
+        "Stock Register Sl.No": "261-2",
+        "Description": "8 GB DDR 4 Memory",
+        "Book Figure Quantity": "9",
+        "Issed to / Remarks": "Specialized Lab - II (2 Nos.) / Ms. B. Sivasankari / Mr. J. Duraimurugan / Ms. N. Anbarasi / Ms. P. S. Apirajatha / Ms. C. M. Sowmya / Office Room / Dr. Saswathi Mukherjee",
+        "Location": "GF/ FF / SF / TF"
+    },
+    "17bd0f59-5d5e-4fbb-aa34-1dd752f257a3": {
+        "S.No": "377",
+        "Stock Register Page No.": "160",
+        "Stock Register Sl.No": "261-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "9",
+        "Issed to / Remarks": "Specialized Lab - II (2 Nos.) / Ms. B. Sivasankari / Mr. J. Duraimurugan / Ms. N. Anbarasi / Ms. P. S. Apirajatha / Ms. C. M. Sowmya / Office Room / Dr. Saswathi Mukherjee",
+        "Location": "GF/ FF / SF / TF"
+    },
+    "a8fc1537-6955-4086-a5a4-9a9685faf4d2": {
+        "S.No": "378",
+        "Stock Register Page No.": "162",
+        "Stock Register Sl.No": "262-1",
+        "Description": "Acer i7 Desktop Type 3 Veriton M4660G",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Specialized Lab - II",
+        "Location": "SF"
+    },
+    "c537c758-23e8-43bf-bfcf-15fb4a0c0ed3": {
+        "S.No": "379",
+        "Stock Register Page No.": "162",
+        "Stock Register Sl.No": "262-2",
+        "Description": "8 GB DDR 4 Memory",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Specialized Lab - II",
+        "Location": "SF"
+    },
+    "486cd2fd-0faf-4400-bac4-f5e8269c5951": {
+        "S.No": "380",
+        "Stock Register Page No.": "162",
+        "Stock Register Sl.No": "262-3",
+        "Description": "2 GB NIVIDEA Graphic Card",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Specialized Lab - II",
+        "Location": "SF"
+    },
+    "f41ce545-64b4-4dc8-bbef-471236a23b06": {
+        "S.No": "381",
+        "Stock Register Page No.": "164",
+        "Stock Register Sl.No": "263",
+        "Description": "ONE by WACOM Tablet (Model : CTL-672)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. K. Vidhya",
+        "Location": "FF"
+    },
+    "c626de5e-2912-483c-a187-877b94ed94ec": {
+        "S.No": "382",
+        "Stock Register Page No.": "164",
+        "Stock Register Sl.No": "264",
+        "Description": "Zebronics SM600 Stand Mike",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Computing Lab - III / Dr. Arul Deepa",
+        "Location": "SF/ TF"
+    },
+    "dd870a16-05ea-472c-9f45-ef03b50f92cb": {
+        "S.No": "383",
+        "Stock Register Page No.": "165",
+        "Stock Register Sl.No": "265",
+        "Description": "Sanitizer Stand",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Ground Floor Coridor",
+        "Location": "GF"
+    },
+    "8c6a3cdd-c89d-4f85-b794-f3869f2e14ce": {
+        "S.No": "384",
+        "Stock Register Page No.": "165",
+        "Stock Register Sl.No": "266-1",
+        "Description": "Ultra Laptop / Type IV Acer SF314",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. S. Senthilkumar",
+        "Location": "FF"
+    },
+    "ea6508c2-597a-4090-ac02-ff73db7ff10f": {
+        "S.No": "385",
+        "Stock Register Page No.": "165",
+        "Stock Register Sl.No": "266-2",
+        "Description": "8 GB DDR4 Memoey",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. S. Senthilkumar",
+        "Location": "FF"
+    },
+    "ac7f71db-7a61-4e4f-ac1d-369b3132b0f3": {
+        "S.No": "386",
+        "Stock Register Page No.": "165",
+        "Stock Register Sl.No": "266-3",
+        "Description": "512 GB SSD HDD",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. S. Senthilkumar",
+        "Location": "FF"
+    },
+    "2cfed996-55da-4fbb-8094-4e98afab9d97": {
+        "S.No": "387",
+        "Stock Register Page No.": "167",
+        "Stock Register Sl.No": "267",
+        "Description": "HP Server Model ML 350",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. S. Senthilkumar",
+        "Location": "FF"
+    },
+    "31724436-5b0f-4a52-8ada-1af4778db118": {
+        "S.No": "388",
+        "Stock Register Page No.": "169",
+        "Stock Register Sl.No": "268",
+        "Description": "Projector MC - EX 4551 / Type - 2 Hitachi MCEX 4551",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Ada Lovelace Auditorium / G3 Class Room",
+        "Location": "GF"
+    },
+    "1b391ec4-c2b2-47ed-a106-2d7defd5efa7": {
+        "S.No": "389",
+        "Stock Register Page No.": "171",
+        "Stock Register Sl.No": "269",
+        "Description": "Ahuja PA Wireless Mic ABW - 400 UL",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Ada Lovelace Auditorium / Store",
+        "Location": "GF / FF"
+    },
+    "5a5bc9ee-1774-4bc0-b0e8-1e91243ac30a": {
+        "S.No": "390",
+        "Stock Register Page No.": "171",
+        "Stock Register Sl.No": "270-1",
+        "Description": "TVS Web Camera HD WC-103",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "Computing Lab - I / II / III / Dr. P Geetha",
+        "Location": "FF / SF / TF"
+    },
+    "07459318-4316-4959-9141-7cceef3fb99e": {
+        "S.No": "391",
+        "Stock Register Page No.": "171",
+        "Stock Register Sl.No": "270-2",
+        "Description": "WaCom 10.1 Inch FHD Tab",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Store",
+        "Location": "FF"
+    },
+    "e39ec19a-ac5f-4e32-9bbb-7a16d323b582": {
+        "S.No": "392",
+        "Stock Register Page No.": "172",
+        "Stock Register Sl.No": "271-1",
+        "Description": "Timer Unit",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "FF UPS Room / SF UPS Room",
+        "Location": "FF / SF"
+    },
+    "5670ef31-14d0-4c10-abe7-ac8990848695": {
+        "S.No": "393",
+        "Stock Register Page No.": "172",
+        "Stock Register Sl.No": "271-2",
+        "Description": "Electrical Cabling with PVC Pipe",
+        "Book Figure Quantity": "3 Lot",
+        "Issed to / Remarks": "FF UPS Room / SF UPS Room",
+        "Location": "FF / SF"
+    },
+    "34c00824-8467-4d5c-acf3-01daa5e89bd4": {
+        "S.No": "394",
+        "Stock Register Page No.": "172",
+        "Stock Register Sl.No": "272-1",
+        "Description": "Wired Telephone Instrument with Caller ID",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Office  Room",
+        "Location": "FF"
+    },
+    "958593cd-78b9-4629-8b5f-b43eda046a5c": {
+        "S.No": "395",
+        "Stock Register Page No.": "172",
+        "Stock Register Sl.No": "272-2",
+        "Description": "Wireless Telephone Instrument with Caller ID",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Mr. H. Raja / Store (2 Nos.) / Dr. D. Narashiman / AR & VR Lab / Analytics Lan",
+        "Location": "FF"
+    },
+    "fd9ca6e7-32b6-4d5b-8b39-8ba465ad82e3": {
+        "S.No": "396",
+        "Stock Register Page No.": "173",
+        "Stock Register Sl.No": "273",
+        "Description": "All items transferred to Consumable Stock Register",
+        "Book Figure Quantity": "6",
+        "Issed to / Remarks": "Mr. H. Raja / Store (2 Nos.) / Dr. D. Narashiman / AR & VR Lab / Analytics Lan",
+        "Location": "FF"
+    },
+    "6b45eb5e-afb0-483f-9802-c1eb326793d3": {
+        "S.No": "397",
+        "Stock Register Page No.": "174",
+        "Stock Register Sl.No": "274-1",
+        "Description": "Fire Alarm Unit with necessary Accessories",
+        "Book Figure Quantity": "1 Full Set",
+        "Issed to / Remarks": "All the Floor of the Department",
+        "Location": "GF / FF / SF / TF"
+    },
+    "cc183c1d-232c-4b9a-8c49-59b2a0b6a9af": {
+        "S.No": "398",
+        "Stock Register Page No.": "175",
+        "Stock Register Sl.No": "274-2 (A)",
+        "Description": "Clean Agent Fire Extinguisher IS:15683 - 4 KG",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Server Room / Department Library",
+        "Location": "GF / FF"
+    },
+    "8866ae09-cbd5-4bb9-88c4-72025e141cf4": {
+        "S.No": "399",
+        "Stock Register Page No.": "175",
+        "Stock Register Sl.No": "274-3 (B)",
+        "Description": "ABC Automatic Fire Extinguisher - 10 KG",
+        "Book Figure Quantity": "4",
+        "Issed to / Remarks": "EB Room / UPS Room 1, 2, 3",
+        "Location": "GF / FF / SF / TF"
+    },
+    "bf26830b-843d-4d6d-b437-f48dea56f2a6": {
+        "S.No": "400",
+        "Stock Register Page No.": "175",
+        "Stock Register Sl.No": "274-3",
+        "Description": "2 Core Flexible Red Cable & Its Eriction Charges",
+        "Book Figure Quantity": "1 Full Set",
+        "Issed to / Remarks": "All the Floor of the Department",
+        "Location": "GF / FF / SF / TF"
+    },
+    "1aedb39a-0c8d-41e4-b8dc-cc310d3e2d31": {
+        "S.No": "401",
+        "Stock Register Page No.": "176",
+        "Stock Register Sl.No": "275",
+        "Description": "Sanitizer Dispenser Stand",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Dr. Ranjani Parthasarathi",
+        "Location": "SF"
+    },
+    "a0c511a8-e0dd-46f1-9d7d-3d09e475bb60": {
+        "S.No": "402",
+        "Stock Register Page No.": "177",
+        "Stock Register Sl.No": "276-1",
+        "Description": "2.0 Ton Highwall Split AC (Panasonic)",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Computing Laboratory - III",
+        "Location": "TF"
+    },
+    "544a61a8-62d2-4f8f-845a-18ecd7a6943d": {
+        "S.No": "403",
+        "Stock Register Page No.": "177",
+        "Stock Register Sl.No": "276-2",
+        "Description": "5 KVA Volatage Stablizer",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Computing Laboratory - III",
+        "Location": "TF"
+    },
+    "76d0b065-0b1d-4ea2-ba07-56d13013861f": {
+        "S.No": "404",
+        "Stock Register Page No.": "177",
+        "Stock Register Sl.No": "276-3",
+        "Description": "Outdooe Unit Stand",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "Computing Laboratory - III",
+        "Location": "TF"
+    },
+    "10b2eb47-7393-41f9-80ce-a822d5a47b15": {
+        "S.No": "405",
+        "Stock Register Page No.": "178",
+        "Stock Register Sl.No": "277",
+        "Description": "Network I/o Box",
+        "Book Figure Quantity": "32",
+        "Issed to / Remarks": "IoT Lab (2) / AR & VR Lab",
+        "Location": "TF"
+    },
+    "73889f0d-a974-47fd-b3c7-58d6869ed038": {
+        "S.No": "406",
+        "Stock Register Page No.": "178",
+        "Stock Register Sl.No": "278",
+        "Description": "65 AH / 12 V Exide SMF Batteries",
+        "Book Figure Quantity": "40",
+        "Issed to / Remarks": "EB Room / UPS Room 2",
+        "Location": "GF / SF"
+    },
+    "cd698de3-bf2c-4670-95ba-47cc0b9e78b6": {
+        "S.No": "407",
+        "Stock Register Page No.": "179",
+        "Stock Register Sl.No": "279",
+        "Description": "Black Rollup Stand (3x6)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "NBA Room",
+        "Location": "SF"
+    },
+    "c23f9b52-146b-4701-b24e-7a64e651ff20": {
+        "S.No": "408",
+        "Stock Register Page No.": "179",
+        "Stock Register Sl.No": "280",
+        "Description": "Removing and Reinstallation Charges of AC with other related items",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "AR & VR Lab / Studio",
+        "Location": "TF"
+    },
+    "a7a4b620-f959-446b-a976-54b3d7f83652": {
+        "S.No": "409",
+        "Stock Register Page No.": "180",
+        "Stock Register Sl.No": "281",
+        "Description": "Ahuja Portable PA Neckband System",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Computing Lab 1, 2, 3",
+        "Location": "FF / SF / TF"
+    },
+    "2eebee7f-5ec9-4586-a82d-a130b1fa6c9f": {
+        "S.No": "410",
+        "Stock Register Page No.": "180",
+        "Stock Register Sl.No": "282",
+        "Description": "Dell Server Motherboard for Dell R510 Server (Replacement)",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Server Room",
+        "Location": "FF"
+    },
+    "929ccb24-33bb-4c89-9f3f-5f0d0a641e2f": {
+        "S.No": "411",
+        "Stock Register Page No.": "181",
+        "Stock Register Sl.No": "283",
+        "Description": "2 HP Suguna SH202 Motor",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "Ground Floor outside Department",
+        "Location": "GF"
+    },
+    "e8a2e8d3-80e0-4737-92f4-c4bf808de14b": {
+        "S.No": "412",
+        "Stock Register Page No.": "181",
+        "Stock Register Sl.No": "284",
+        "Description": "75 AH / 12 V Exide SMF Battery",
+        "Book Figure Quantity": "54",
+        "Issed to / Remarks": "UPS Room 1 & 2",
+        "Location": "FF / SF"
+    },
+    "2ba3c5c2-45c1-434e-aab0-66d3ab5e044a": {
+        "S.No": "413",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "285",
+        "Description": "75 AH / 12 V Exide SMF Battery",
+        "Book Figure Quantity": "30",
+        "Issed to / Remarks": "UPS Room 2",
+        "Location": "SF"
+    },
+    "c450feae-8608-4927-92d2-937fbf07dcfc": {
+        "S.No": "414",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-1",
+        "Description": "Rasberry Pi 4 GB RAM + Power Card",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "f8361e71-4576-4df5-aec2-3d2d3b1d94c9": {
+        "S.No": "415",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-2",
+        "Description": "Micro SD Card (16 / 32 GB)",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "59d03c28-1ceb-4618-91d3-74f044529f66": {
+        "S.No": "416",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-3",
+        "Description": "Motion Sensor",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "685a99b5-ead4-469a-a6cc-8b2972276fa9": {
+        "S.No": "417",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-4",
+        "Description": "Analog to Digital Converrtor",
+        "Book Figure Quantity": "20",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "0054d400-bf45-45c4-b438-f7cdad8e4d07": {
+        "S.No": "418",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-5",
+        "Description": "Bread Board",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "f8ffb8c6-894b-4efa-b67a-7bb841fa86ea": {
+        "S.No": "419",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-6",
+        "Description": "Photo Resistor",
+        "Book Figure Quantity": "22",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "e26ac6a3-a782-4f6f-8722-144fa0305a9f": {
+        "S.No": "420",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-7",
+        "Description": "Potentio Meter 10 Kilohms",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "f47acb90-cfb9-4702-9d34-4a5d6dcc8cc4": {
+        "S.No": "421",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-8",
+        "Description": "Push Button",
+        "Book Figure Quantity": "5",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "5a08b119-7291-45e4-8692-4cd8c339b617": {
+        "S.No": "422",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-9",
+        "Description": "Temperature Sensor",
+        "Book Figure Quantity": "25",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "af2913a0-114d-4b66-b696-52945e00cbb1": {
+        "S.No": "423",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-10",
+        "Description": "LED (Bright White)",
+        "Book Figure Quantity": "35",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "c8c39dbf-a4df-4fc8-910c-a3d6cee8c14a": {
+        "S.No": "424",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-11",
+        "Description": "Seroo Motor",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "d13c0c8f-6cb6-4e28-9607-4d9aebe9c5a6": {
+        "S.No": "425",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-12",
+        "Description": "DC MOTOR",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "2cdde5dd-de5b-4bcb-9c8c-36f823ca82ad": {
+        "S.No": "426",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-13",
+        "Description": "LED Display",
+        "Book Figure Quantity": "15",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "c8911e51-307a-469d-b4c4-9a74fea60236": {
+        "S.No": "427",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-14",
+        "Description": "Ultra Sonic Sensor",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "d0fb59c1-8fe5-4c4e-b37f-d3c358b3f97f": {
+        "S.No": "428",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-15",
+        "Description": "Transistor",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "1c79fd59-8dc4-4541-9679-d1111ec80ab7": {
+        "S.No": "429",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-16",
+        "Description": "Capacitor 10",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "6053c799-0b75-4b2a-8ba5-a05cd240b586": {
+        "S.No": "430",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-17",
+        "Description": "Capacitor 100",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "05d73fee-e53f-4866-a25f-c66b55094d9f": {
+        "S.No": "431",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-18",
+        "Description": "Capacitor 100",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "1f3b2bed-c84a-4493-9c1f-f1f7287db61c": {
+        "S.No": "432",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-19",
+        "Description": "Diodes",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "aecc390a-ec7c-4897-b205-90e637ed7596": {
+        "S.No": "433",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-20",
+        "Description": "Resistor 50",
+        "Book Figure Quantity": "115",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "5b341a7d-d206-4bb6-abae-2301169f7329": {
+        "S.No": "434",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-21",
+        "Description": "Resistor 1 Kilo",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "333e5464-3a8d-4144-ae28-e8b14b4fc7fc": {
+        "S.No": "435",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-22",
+        "Description": "Resistor 4.5 Kilo",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "56bbecc9-7b65-4003-b4c3-896628adb59a": {
+        "S.No": "436",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-23",
+        "Description": "Resistor 10 Kilo",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "d895ee0d-5c4a-4278-b8fd-2723f67dfad6": {
+        "S.No": "437",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-24",
+        "Description": "Resistor 1 Mega",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "b28f7b83-adbb-4e19-98de-6be988c154b4": {
+        "S.No": "438",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-25",
+        "Description": "Resistir 10 Mega",
+        "Book Figure Quantity": "50",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "055d9b3a-76ac-4909-a76c-0446a92172ff": {
+        "S.No": "439",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-26",
+        "Description": "DVI to HDMI Cable",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "a6c56a8a-dc06-4d2c-90cf-501e46c2099a": {
+        "S.No": "440",
+        "Stock Register Page No.": "182",
+        "Stock Register Sl.No": "286-27",
+        "Description": "Piezo Capsule",
+        "Book Figure Quantity": "10",
+        "Issed to / Remarks": "IoT Lab (2)",
+        "Location": "TF"
+    },
+    "217efb73-673c-40ef-8cb3-020f37f605fe": {
+        "S.No": "441",
+        "Stock Register Page No.": "184",
+        "Stock Register Sl.No": "287-1",
+        "Description": "1.5 Ton Hi Wall Split AC - VOLTAS",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "DATA CENTER",
+        "Location": "FF"
+    },
+    "dd99dfbc-2a7d-4f84-aa0c-20b4d8a9b3f6": {
+        "S.No": "442",
+        "Stock Register Page No.": "184",
+        "Stock Register Sl.No": "287-2",
+        "Description": "4 KVA Wall Mount Stablizer",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "DATA CENTER",
+        "Location": "FF"
+    },
+    "b0f87a50-e9ca-4cba-b184-cd12539b1ebe": {
+        "S.No": "443",
+        "Stock Register Page No.": "184",
+        "Stock Register Sl.No": "287-3 to 7",
+        "Description": "Installation Related Items along with its Charges",
+        "Book Figure Quantity": "2 Set",
+        "Issed to / Remarks": "DATA CENTER",
+        "Location": "FF"
+    },
+    "e44d7ad3-c632-4039-933f-50cc2a41db5f": {
+        "S.No": "444",
+        "Stock Register Page No.": "185",
+        "Stock Register Sl.No": "288",
+        "Description": "12 V / 75 AH Exide SMF Battery",
+        "Book Figure Quantity": "84",
+        "Issed to / Remarks": "UPS ROOM (G) / (I) / (III)",
+        "Location": "GF / FF / TF"
+    },
+    "9d3041d4-1ec6-4d15-bc15-efee78987170": {
+        "S.No": "445",
+        "Stock Register Page No.": "186",
+        "Stock Register Sl.No": "289",
+        "Description": "HP Laserjet Tank MFP 2606 SDW Printer",
+        "Book Figure Quantity": "2",
+        "Issed to / Remarks": "DATA CENTER / RS CABIN",
+        "Location": "FF / TF"
+    },
+    "ae41aad4-6aae-427c-acc5-31d6fe9d3897": {
+        "S.No": "446",
+        "Stock Register Page No.": "186",
+        "Stock Register Sl.No": "290",
+        "Description": "A/C Stablizer (Double Booster) Premer Brand",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "COMPUTING LAN I / SERVER ROOM / Dr. P. VARALAKSHMI",
+        "Location": "FF / SF"
+    },
+    "0393359b-18d3-4b21-9946-156c32660fb1": {
+        "S.No": "447",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "291-1",
+        "Description": "Ahuja AWM - 495 V1 Cordless MIC",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "ADA LOVELACE AUDI",
+        "Location": "GF"
+    },
+    "e8c4be94-a2ba-4f06-9d61-e380bb3ffe29": {
+        "S.No": "448",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "291-2",
+        "Description": "Ahuja Cordless Gooseneck MIC AWM 630 VG",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "ADA LOVELACE AUDI",
+        "Location": "GF"
+    },
+    "c065dce6-f227-4d32-9e06-94379bf444aa": {
+        "S.No": "449",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "291-3",
+        "Description": "TP-Link Router AC1200 Archer C6",
+        "Book Figure Quantity": "1",
+        "Issed to / Remarks": "ADA LOVELACE AUDI",
+        "Location": "GF"
+    },
+    "616b910e-0244-4320-9389-7ba581859d06": {
+        "S.No": "450",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "292",
+        "Description": "Logitech Web Camera",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr. P. VARALAKSHMI / Dr. MANIMALA",
+        "Location": "SF / TF"
+    },
+    "40f22064-c8cd-497d-aaa0-5147bb61c2f6": {
+        "S.No": "450",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "292",
+        "Description": "Logitech Web Camera",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr. P. VARALAKSHMI / Dr. MANIMALA",
+        "Location": "SF / TF"
+    },
+    "97f1b5c6-63c1-42b0-8568-14211a2a9202": {
+        "S.No": "450",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "292",
+        "Description": "Logitech Web Camera",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr. P. VARALAKSHMI / Dr. MANIMALA",
+        "Location": "SF / TF"
+    },
+    "fc78f216-5975-4b32-9d64-7992b9b8dd42": {
+        "S.No": "450",
+        "Stock Register Page No.": "187",
+        "Stock Register Sl.No": "292",
+        "Description": "Logitech Web Camera",
+        "Book Figure Quantity": "3",
+        "Issed to / Remarks": "Dr. P. VARALAKSHMI / Dr. MANIMALA",
+        "Location": "SF / TF"
+    }
+}

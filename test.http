@@ -71,7 +71,7 @@ Content-Type: application/json
 {
     
    "staffid": "S000",
-    "staffname": "Test C SIr",
+    "staffname": " SIr",
     //"distid": "D003",
     "stock_type": "Type A"
     
@@ -91,7 +91,6 @@ Content-Type: application/json
     "timings": "9:00 AM - 11:00 AM",
     "subject_teacher": "S000"
 }
-
 
 ### Research Scholar
 
@@ -117,11 +116,10 @@ Content-Type: application/json
         "labid": "CL1",
         "sysseat": "SF1",
         "distid": "D020",
-        "username": "Gogilarasaaaaaaan div",
-        "rollno": "2021115037",
+        "username": "Adithya",
+        "rollno": "2021115001",
         "entry_time": "09:00:00",
-        "exit_time": "17:00:00",
-        "date": "2024-03-24",
+        "date": "2024-03-30",
         "timetable_id": "vFN3tIi1y"
 }
 
@@ -137,7 +135,7 @@ Content-Type: application/json
     "name": "Onlyyy log",
     "rollno": "2021115037",
     "entry_time": "09:00:00",
-    "date": "2024-03-24"
+    "date": "2024-03-29"
 }
 ###
 
@@ -173,8 +171,8 @@ POST http://localhost:3000/admin/delete_userlogs_within_date_range HTTP/1.1
 Content-Type: application/json
 
 {
-    "startDate": "2024-03-22",
-    "endDate": "2024-03-24"
+    "startDate": "2024-03-20",
+    "endDate": "2024-03-30"
 }
 
 
@@ -201,8 +199,8 @@ Content-Type: application/json
 {
     
   "complainer_name": "REP",
-  "dist_id": "D003",
-  "lab_id": "F1"
+  "dist_id": "D020",
+  "lab_id": "CL1"
 
 
 }
@@ -222,7 +220,7 @@ POST http://localhost:3000/admin/get_lab_by_id  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "labId": "F1"
+    "labId": "CL1"
 }
 
 ###

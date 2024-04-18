@@ -1,0 +1,47 @@
+[
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-87-150/14-15",
+    "seat_number": "TF80",
+    "cpu": "UXVJSSI739E3849452"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-88-150/14-15",
+    "seat_number": "TF90",
+    "cpu": "UXVJSSI739E3849518"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-89-150/14-15",
+    "seat_number": "TF91",
+    "cpu": "UXVJSSI739E3849521"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-90-150/14-15",
+    "seat_number": "MS KANIMOZHI",
+    "cpu": "UXVJSSI739E3849455"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-91-150/14-15",
+    "seat_number": "DR. E UMA",
+    "cpu": "UXVJSSI739E3849406"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-92-150/14-15",
+    "seat_number": "MS. SUMATHI",
+    "cpu": "UXVJSSI739E3849421"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-93-150/14-15",
+    "seat_number": "MR VIJAYKUMAR",
+    "cpu": "UXVJSSI739E3849413"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-94-150/14-15",
+    "seat_number": "TF50",
+    "cpu": "UXVJSSI739E3849378"
+  },
+  {
+    "dist_id": "DIST/CIA/ESR-I/49-95-150/14-15",
+    "seat_number": "DR T MALA",
+    "cpu": "UXVJSSI739E3849450"
+  }
+]

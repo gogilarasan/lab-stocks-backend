@@ -1,4 +1,5 @@
 const db = require('../models/database');
+const XLSX = require('xlsx');
 
 class StockDeptController {
     static async createStockDept(stockDeptData) {
@@ -58,6 +59,41 @@ class StockDeptController {
             console.error('Error deleting stock department:', error);
             throw error;
         }
+    }
+
+    static async parseCSV(filePath) {
+        return new Promise((resolve, reject) => {
+            const records = [];
+            fs.createReadStream(filePath)
+                .pipe(csv())
+                .on('data', (row) => {
+                    records.push(row);
+                })
+                .on('end', () => {
+                    resolve(records);
+                })
+                .on('error', (error) => {
+                    reject(error);
+                });
+        });
+    }
+
+    static async parseExcel(filePath) {
+        return new Promise((resolve, reject) => {
+            const records = [];
+            const workbook = XLSX.readFile(filePath);
+            const sheetName = workbook.SheetNames[0];
+            const sheet = workbook.Sheets[sheetName];
+            const data = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+            data.forEach((row) => {
+                const record = {};
+                for (let i = 0; i < row.length; i++) {
+                    record[`col${i + 1}`] = row[i];
+                }
+                records.push(record);
+            });
+            resolve(records);
+        });
     }
 }
 

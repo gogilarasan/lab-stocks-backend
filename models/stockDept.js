@@ -8,11 +8,11 @@ module.exports = (sequelize, Sequelize) => {
             autoIncrement: true
         },
         stockRegisterPageNo: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false
         },
         stockRegisterSlNo: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false
         },
         description: {
@@ -20,15 +20,15 @@ module.exports = (sequelize, Sequelize) => {
             allowNull: false
         },
         bookFigureQuantity: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: false
         },
         bookStockValueRs: {
-            type: DataTypes.INTEGER,
-            allowNull: false
+            type: DataTypes.STRING,
+            allowNull: true
         },
         issuedToRemarks: {
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(500),
             allowNull: true
         },
         location: {

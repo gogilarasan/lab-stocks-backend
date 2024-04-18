@@ -2,6 +2,11 @@ const express = require("express");
 const db = require('../models/database');
 const obj = require("../controllers/obj");
 
+const multer = require('multer');
+const upload = multer({ dest: 'uploads/' });
+const fs = require('fs');
+const shortid = require('shortid');
+
 const router = express.Router();
 
 router.use(express.json());
@@ -45,9 +50,74 @@ router.post('/create_stock_dept', async (req, res) => {
     }
 });
 
+router.post('/bulk-import', upload.single('file'), async (req, res) => {
+    try {
+        if (!req.file) {
+            return res.status(400).json({ message: 'No file uploaded' });
+        }
+
+        const filePath = req.file.path;
+        let records = [];
+
+        if (req.file.mimetype === 'application/json') {
+            records = JSON.parse(fs.readFileSync(filePath));
+        } else if (req.file.mimetype === 'text/csv') {
+            records = await obj.stockdept.parseCSV(filePath);
+        } else if (req.file.mimetype === 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet') {
+            records = await obj.stockdept.parseExcel(filePath);
+        } else {
+            return res.status(400).json({ message: 'Unsupported file type' });
+        }
+
+        await db.StockDept.bulkCreate(records);
+        res.status(200).json({ message: 'Bulk import successful' });
+    } catch (error) {
+        console.error('Error bulk importing stock departments:', error);
+        res.status(500).json({ message: 'Failed to import stock departments' });
+    }
+});
+
+router.post('/bulk-import-dept', upload.single('file'), async (req, res) => {
+    try {
+        if (!req.file) {
+            return res.status(400).json({ message: 'No file uploaded' });
+        }
+
+        const { lab_id } = req.body; // Assuming lab_id is sent as a parameter in the request body
+
+        const filePath = req.file.path;
+        let records = [];
+
+        if (req.file.mimetype === 'application/json') {
+            console.log('JSON data:', fs.readFileSync(filePath, 'utf-8'));
+            records = JSON.parse(fs.readFileSync(filePath));
+        } else if (req.file.mimetype === 'text/csv') {
+            records = await obj.stock.parseCSV(filePath);
+        } else if (req.file.mimetype === 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet') {
+            records = await obj.stock.parseExcel(filePath);
+        } else {
+            return res.status(400).json({ message: 'Unsupported file type' });
+        }
+
+        // Generate random stock_id using shortid and append lab_id
+        records = records.map(record => ({
+            ...record,
+            stock_id: shortid.generate(),
+            lab_id: lab_id
+        }));
+
+        await db.Stock.bulkCreate(records);
+        res.status(200).json({ message: 'Bulk import successful' });
+    } catch (error) {
+        console.error('Error bulk importing department stocks:', error);
+        res.status(500).json({ message: 'Failed to import department stocks' });
+    }
+});
+
+
 router.post('/create_staff', async (req, res) => {
     try {
-        const result = await obj.staff.createStaff(db ,req.body);
+        const result = await obj.staff.createStaff(db, req.body);
         res.status(200).json({ "message": "Staff created successfully", "data": result });
     } catch (error) {
         console.error('Error creating staff:', error);
@@ -67,8 +137,8 @@ router.post('/create_timetable', async (req, res) => {
 
 router.post('/create_research_scholar', async (req, res) => {
     try {
-        
-        const result = await obj.rs.createResearchScholar(db,req.body);
+
+        const result = await obj.rs.createResearchScholar(db, req.body);
         res.status(200).json({ "message": "Research scholar created successfully", "data": result });
     } catch (error) {
         console.error('Error creating research scholar:', error);
@@ -78,8 +148,8 @@ router.post('/create_research_scholar', async (req, res) => {
 
 router.post('/create_user_log', async (req, res) => {
     try {
-        
-        const result = await obj.Userlog.createUserLog(db,req.body);
+
+        const result = await obj.Userlog.createUserLog(db, req.body);
         res.status(200).json({ "message": "User log created successfully", "data": result });
     } catch (error) {
         console.error('Error Entry of USer:', error);
@@ -108,8 +178,8 @@ router.post('/create_user_log1', async (req, res) => {
 
 router.post('/create_complaint', async (req, res) => {
     try {
-        
-        const result = await obj.complaint.createComplaint(db,req.body);
+
+        const result = await obj.complaint.createComplaint(db, req.body);
         res.status(200).json({ "message": "Complaint created successfully", "data": result });
     } catch (error) {
         console.error('Error Entry of Complaint:', error);

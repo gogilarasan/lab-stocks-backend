@@ -1,0 +1,38 @@
+[
+    {
+        "stockRegisterPageNo": 1,
+        "stockRegisterSlNo": 1,
+        "description": "NAME BORAD",
+        "bookFigureQuantity": 2,
+        "bookStockValueRs": 0,
+        "issuedToRemarks": "Transferred to FSR",
+        "location": "OFFICE"
+    },
+    {
+        "stockRegisterPageNo": 1,
+        "stockRegisterSlNo": 2,
+        "description": "500GB SATA LAPTOP HDD",
+        "bookFigureQuantity": 1,
+        "bookStockValueRs": 0,
+        "issuedToRemarks": "USEAGE OF LAPTOP FOR HOD LAPTOP HANDOVER TO DCSE",
+        "location": "DCSE"
+    },
+    {
+        "stockRegisterPageNo": 1,
+        "stockRegisterSlNo": 3,
+        "description": "XEROX 5225 DIGITAL COPIER",
+        "bookFigureQuantity": 1,
+        "bookStockValueRs": 0,
+        "issuedToRemarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": 1,
+        "stockRegisterSlNo": 3,
+        "description": "STABILIZER",
+        "bookFigureQuantity": 1,
+        "bookStockValueRs": 0,
+        "issuedToRemarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "location": "nan"
+    }
+]

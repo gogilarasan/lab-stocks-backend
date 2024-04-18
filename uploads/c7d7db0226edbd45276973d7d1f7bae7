@@ -1,0 +1,667 @@
+﻿[
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-01-150/14-15",
+        "seat_number": "TF01",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849367"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-02-150/14-15",
+        "seat_number": "TF02",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849483"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-03-150/14-15",
+        "seat_number": "TF03",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849412"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-04-150/14-15",
+        "seat_number": "TF04",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849519"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-05-150/14-15",
+        "seat_number": "TF05",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849438"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-06-150/14-15",
+        "seat_number": "TF06",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849426"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-07-150/14-15",
+        "seat_number": "TF07",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849426"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-08-150/14-15",
+        "seat_number": "TF08",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849382"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-09-150/14-15",
+        "seat_number": "TF09",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849546"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-10-150/14-15",
+        "seat_number": "TF10",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849457"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-11-150/14-15",
+        "seat_number": "TF11",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849434"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-12-150/14-15",
+        "seat_number": "TF12",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849474"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-13-150/14-15",
+        "seat_number": "TF13",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849389"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-14-150/14-15",
+        "seat_number": "TF14",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849451"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-15-150/14-15",
+        "seat_number": "TF15",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849502"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-16-150/14-15",
+        "seat_number": "TF16",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849462"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-17-150/14-15",
+        "seat_number": "TF17",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849544"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-18-150/14-15",
+        "seat_number": "TF18",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849425"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-19-150/14-15",
+        "seat_number": "TF79",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849522"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-20-150/14-15",
+        "seat_number": "TF81",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849395"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-21-150/14-15",
+        "seat_number": "TF21",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849516"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-22-150/14-15",
+        "seat_number": "TF22",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849489"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-23-150/14-15",
+        "seat_number": "TF78",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849520"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-24-150/14-15",
+        "seat_number": "TF24",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849500"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-25-150/14-15",
+        "seat_number": "TF25",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849429"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-26-150/14-15",
+        "seat_number": "TF26",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849524"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-27-150/14-15",
+        "seat_number": "TF27",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849488"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-28-150/14-15",
+        "seat_number": "TF28",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849370"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-29-150/14-15",
+        "seat_number": "TF29",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849543"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-30-150/14-15",
+        "seat_number": "TF30",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849505"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-31-150/14-15",
+        "seat_number": "TF31",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849441"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-32-150/14-15",
+        "seat_number": "TF32",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849366"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-33-150/14-15",
+        "seat_number": "TF33",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849400"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-34-150/14-15",
+        "seat_number": "TF34",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849365"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-35-150/14-15",
+        "seat_number": "TF35",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849481"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-36-150/14-15",
+        "seat_number": "TF36",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849514"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-37-150/14-15",
+        "seat_number": "TF37",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849542"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-38-150/14-15",
+        "seat_number": "TF38",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849422"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-39-150/14-15",
+        "seat_number": "TF39",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849467"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-40-150/14-15",
+        "seat_number": "TF40",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849446"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-41-150/14-15",
+        "seat_number": "TF41",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849487"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-42-150/14-15",
+        "seat_number": "TF42",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849407"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-43-150/14-15",
+        "seat_number": "TF43",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849384"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-44-150/14-15",
+        "seat_number": "TF44",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849475"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-45-150/14-15",
+        "seat_number": "TF45",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849525"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-46-150/14-15",
+        "seat_number": "TF46",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849463"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-47-150/14-15",
+        "seat_number": "TF47",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849476"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-48-150/14-15",
+        "seat_number": "TF48",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849456"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-49-150/14-15",
+        "seat_number": "TF49",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849402"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-50-150/14-15",
+        "seat_number": "TF85",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849392"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-51-150/14-15",
+        "seat_number": "TF51",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849447"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-52-150/14-15",
+        "seat_number": "TF52",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849449"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-53-150/14-15",
+        "seat_number": "TF53",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849549"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-54-150/14-15",
+        "seat_number": "TF54",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849444"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-55-150/14-15",
+        "seat_number": "TF87",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849541"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-56-150/14-15",
+        "seat_number": "TF84",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849465"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-57-150/14-15",
+        "seat_number": "TF83",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849380"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-58-150/14-15",
+        "seat_number": "TF58",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849464"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-59-150/14-15",
+        "seat_number": "TF59",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849482"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-60-150/14-15",
+        "seat_number": "TF60",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849527"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-61-150/14-15",
+        "seat_number": "TF61",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849468"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-62-150/14-15",
+        "seat_number": "TF62",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849510"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-63-150/14-15",
+        "seat_number": "TF63",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849470"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-64-150/14-15",
+        "seat_number": "TF64",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849515"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-65-150/14-15",
+        "seat_number": "TF65",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849405"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-66-150/14-15",
+        "seat_number": "TF66",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E38"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-67-150/14-15",
+        "seat_number": "TF67",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849419"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-68-150/14-15",
+        "seat_number": "TF68",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849408"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-69-150/14-15",
+        "seat_number": "TF69",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849388"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-70-150/14-15",
+        "seat_number": "TF70",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849437"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-71-150/14-15",
+        "seat_number": "TF71",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849536"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-72-150/14-15",
+        "seat_number": "TF72",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849532"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-73-150/14-15",
+        "seat_number": "TF73",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849394"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-74-150/14-15",
+        "seat_number": "TF74",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849430"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-75-150/14-15",
+        "seat_number": "TF75",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849529"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-76-150/14-15",
+        "seat_number": "TF76",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849513"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-77-150/14-15",
+        "seat_number": "TF92",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849537"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-78-150/14-15",
+        "seat_number": "TF19",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849491"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-79-150/14-15",
+        "seat_number": "TF82",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849497"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-80-150/14-15",
+        "seat_number": "TF20",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849538"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-81-150/14-15",
+        "seat_number": "TF23",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849396"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-82-150/14-15",
+        "seat_number": "TF55",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849477"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-83-150/14-15",
+        "seat_number": "TF08",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849459"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-84-150/14-15",
+        "seat_number": "DR. K.A VITHYA",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849461"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-85-150/14-15",
+        "seat_number": "TF86",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849508"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-86-150/14-15",
+        "seat_number": "TF57",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849548"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-87-150/14-15",
+        "seat_number": "TF80",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849452"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-88-150/14-15",
+        "seat_number": "TF90",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849518"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-89-150/14-15",
+        "seat_number": "TF91",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849521"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-90-150/14-15",
+        "seat_number": "MS KANIMOZHI",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849455"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-91-150/14-15",
+        "seat_number": "DR. E UMA",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849406"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-92-150/14-15",
+        "seat_number": "MS. SUMATHI",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849421"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-93-150/14-15",
+        "seat_number": "MR VIJAYKUMAR",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849413"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-94-150/14-15",
+        "seat_number": "TF50",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849378"
+    },
+    {
+        "dist_id": "DIST/CIA/ESR-I/49-95-150/14-15",
+        "seat_number": "DR T MALA",
+        "remarks": "",
+        "stock_type": "",
+        "cpu": "UXVJSSI739E3849450"
+    }
+]

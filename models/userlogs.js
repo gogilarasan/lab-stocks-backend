@@ -2,8 +2,6 @@ const { DataTypes } = require('sequelize');
 const { Op } = require('sequelize');
 
 
-
-
 module.exports = (sequelize, Sequelize) => {
     const userlogs = sequelize.define('Userlog', {
         id: {
@@ -45,10 +43,10 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.TIME,
             allowNull: false
         },
-        exit_time: {
+    /*exit_time: {
             type: DataTypes.TIME,
             allowNull: true
-        },
+        },*/
         date: {
             type: DataTypes.DATEONLY,
             allowNull: false

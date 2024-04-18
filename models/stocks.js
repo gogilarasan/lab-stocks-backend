@@ -22,7 +22,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         stock_type: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true
         },
         lab_id: {
             type: DataTypes.STRING,
@@ -31,6 +31,10 @@ module.exports = (sequelize, Sequelize) => {
                 model: 'Labs', 
                 key: 'lab_id'
             }
+        },
+        cpu: {
+            type:DataTypes.STRING,
+            allowNull:true
         }
     });
 
