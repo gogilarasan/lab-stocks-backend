@@ -127,22 +127,23 @@ router.post('/delete_userlogs_within_date_range', async (req, res) => {
 });
 
 
-router.delete('/delete_complaint', async (req, res) => {
+router.delete('/delete_todo', async (req, res) => {
     try {
-        const complaintId = req.body.complaint_id;
-        const deleted = await obj.complaint.deleteComplaint(db, complaintId);
+        const taskId = req.body.task_id;
+        const deleted = await obj.complaint.deleteTodo(db, taskId);
         
         if (deleted) {
-            res.status(200).json({ message: "Complaint deleted successfully" });
+            res.status(200).json({ message: "Todo deleted successfully" });
         } else {
-            console.error('Complaint not found with ID:', complaintId);
-            res.status(404).json({ error: "Complaint not found" });
+            console.error('Todo not found with ID:', taskId);
+            res.status(404).json({ error: "Todo not found" });
         }
     } catch (error) {
-        console.error('Error deleting complaint:', error);
+        console.error('Error deleting todo:', error);
         res.status(500).json({ error: "Internal server error" });
     }
 });
+
 
 
 module.exports = router;

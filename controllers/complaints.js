@@ -1,67 +1,80 @@
 const id = require('shortid');
-const db = require('../models/database');
 
-class ComplaintController {
-    static async createComplaint(db, obj) {
+class TodoController {
+    static async createTodo(db, obj) {
         try {
-            const c_id = id.generate();
-            obj.complaint_id = c_id;
-            const complaint = await db.Complaint.create(obj);
-            return complaint;
+            const task_id = id.generate();
+            obj.task_id = task_id;
+            const todo = await db.Todo.create(obj);
+            return todo;
         } catch (error) {
-            console.error('Error creating complaint:', error);
+            console.error('Error creating todo:', error);
             throw error;
         }
     }
 
-    static async getComplaintById(db, complaintId) {
+    static async getTodoById(db, taskId) {
         try {
-            const complaint = await db.Complaint.findByPk(complaintId);
-            return complaint;
+            const todo = await db.Todo.findByPk(taskId);
+            return todo;
         } catch (error) {
-            console.error('Error getting complaint by ID:', error);
+            console.error('Error getting todo by ID:', error);
             throw error;
         }
     }
 
-    static async getAllComplaints(db) {
+    static async getAllTodos(db) {
         try {
-            const complaints = await db.Complaint.findAll();
-            return complaints;
+            const todos = await db.Todo.findAll();
+            return todos;
         } catch (error) {
-            console.error('Error getting all complaints:', error);
+            console.error('Error getting all todos:', error);
             throw error;
         }
     }
 
-    static async updateComplaint(db, complaintId, complaintData) {
+    static async updateTodo(db, taskId, todoData) {
         try {
-            await db.Complaint.update(complaintData, {
-                where: { complaint_id: complaintId }
+            await db.Todo.update(todoData, {
+                where: { task_id: taskId }
             });
-            const updatedComplaint = await db.Complaint.findByPk(complaintId);
-            return updatedComplaint;
+            const updatedTodo = await db.Todo.findByPk(taskId);
+            return updatedTodo;
         } catch (error) {
-            console.error('Error updating complaint:', error);
+            console.error('Error updating todo:', error);
             throw error;
         }
     }
 
-    static async deleteComplaint(db, complaintId) {
+    static async updateTodoStatus(db, taskId, status) {
         try {
-            const complaint = await db.Complaint.findByPk(complaintId);
-            if (complaint) {
-                await complaint.destroy();
+            await db.Todo.update({ status }, {
+                where: { task_id: taskId }
+            });
+            const updatedTodo = await db.Todo.findByPk(taskId);
+            return updatedTodo;
+        } catch (error) {
+            console.error('Error updating todo status:', error);
+            throw error;
+        }
+    }
+    
+
+    static async deleteTodo(db, taskId) {
+        try {
+            const todo = await db.Todo.findByPk(taskId);
+            if (todo) {
+                await todo.destroy();
                 return true;
             } else {
-                console.error('Complaint not found with ID:', complaintId);
+                console.error('Todo not found with ID:', taskId);
                 return false;
             }
         } catch (error) {
-            console.error('Error deleting complaint:', error);
+            console.error('Error deleting todo:', error);
             throw error;
         }
     }
 }
 
-module.exports = ComplaintController;
+module.exports = TodoController;

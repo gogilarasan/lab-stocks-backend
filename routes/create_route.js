@@ -176,16 +176,16 @@ router.post('/create_user_log1', async (req, res) => {
 });
 
 
-router.post('/create_complaint', async (req, res) => {
+router.post('/create_todo', async (req, res) => {
     try {
-
-        const result = await obj.complaint.createComplaint(db, req.body);
-        res.status(200).json({ "message": "Complaint created successfully", "data": result });
+        const result = await obj.complaint.createTodo(db, req.body);
+        res.status(200).json({ "message": "Todo created successfully", "data": result });
     } catch (error) {
-        console.error('Error Entry of Complaint:', error);
+        console.error('Error creating todo:', error);
         res.status(500).json({ "error": "Internal server error" });
     }
 });
+
 
 
 

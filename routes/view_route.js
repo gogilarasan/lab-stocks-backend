@@ -208,25 +208,26 @@ router.post('/get_user_logs_by_lab_id', async (req, res) => {
     }
 });
 
-router.post('/get_complaint_by_id', async (req, res) => {
+router.post('/get_todo_by_id', async (req, res) => {
     try {
-        const complaintId = req.body.complaintId; // Corrected key name
-        const complaint = await obj.complaint.getComplaintById(db, complaintId);
-        res.status(200).json({ message: "Complaint retrieved successfully", data: complaint });
+        const taskId = req.body.task_id; 
+        const todo = await obj.complaint.getTodoById(db, taskId);
+        res.status(200).json({ message: "Todo retrieved successfully", data: todo });
     } catch (error) {
-        console.error('Error getting complaint by ID:', error);
+        console.error('Error getting todo by ID:', error);
         res.status(500).json({ error: "Internal server error" });
     }
 });
 
-router.get('/get_all_complaints', async (req, res) => {
+router.get('/get_all_todos', async (req, res) => {
     try {
-        const complaints = await obj.complaint.getAllComplaints(db);
-        res.status(200).json({ message: "All complaints retrieved successfully", data: complaints });
+        const todos = await obj.complaint.getAllTodos(db);
+        res.status(200).json({ message: "All todos retrieved successfully", data: todos });
     } catch (error) {
-        console.error('Error getting all complaints:', error);
+        console.error('Error getting all todos:', error);
         res.status(500).json({ error: "Internal server error" });
     }
 });
+
 
 module.exports = router;

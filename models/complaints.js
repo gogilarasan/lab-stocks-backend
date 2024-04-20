@@ -1,14 +1,28 @@
 const { DataTypes } = require('sequelize');
 
-
 module.exports = (sequelize, Sequelize) => {
-    const Complaint = sequelize.define('Complaint', {
-        complaint_id: {
+    const Todo = sequelize.define('Todo', {
+        task_id: {
             type: DataTypes.STRING,
             primaryKey: true,
-            
         },
-        
+        task_name: {
+            type: DataTypes.STRING,
+            allowNull: false
+        },
+        description: {
+            type: DataTypes.TEXT,
+            allowNull: true
+        },
+        status: {
+            type: DataTypes.ENUM('pending', 'completed'),
+            allowNull: false,
+            defaultValue: 'pending'
+        },
+        due_date: {
+            type: DataTypes.DATE,
+            allowNull: true
+        },
         complainer_name: {
             type: DataTypes.STRING,
             allowNull: false
@@ -31,5 +45,5 @@ module.exports = (sequelize, Sequelize) => {
         }
     });
 
-    return Complaint;
+    return Todo;
 };
