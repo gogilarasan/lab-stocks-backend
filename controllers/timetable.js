@@ -14,7 +14,7 @@ class TimetableController {
             throw error;
         }
     }
-    
+
 
     static async getTimetableById(db, timetableId) {
         try {
@@ -22,6 +22,20 @@ class TimetableController {
             return timetable;
         } catch (error) {
             console.error('Error getting timetable by ID:', error);
+            throw error;
+        }
+    }
+
+    static async getTimetableByLabId(db, lab_id) {
+        try {
+            const timetables = await db.Timetable.findAll({
+                where: {
+                    lab_id: lab_id
+                }
+            });
+            return timetables;
+        } catch (error) {
+            console.error('Error getting timetable by lab ID:', error);
             throw error;
         }
     }
@@ -38,25 +52,24 @@ class TimetableController {
 
     static async updateTimetableById(timetableId, updatedData) {
         try {
-          const [updatedRows] = await db.Timetable.update(updatedData, {
-            where: { timetable_id: timetableId },
-            returning: true // This ensures that the updated record is returned
-          });
-          
-          if (updatedRows > 0) {
-            // If at least one row was updated
-            const updatedTimetable = await db.Timetable.findByPk(timetableId);
-            return updatedTimetable;
-          } else {
-            // If no rows were updated (timetable not found)
-            return null;
-          }
+            const [updatedRows] = await db.Timetable.update(updatedData, {
+                where: { timetable_id: timetableId },
+                returning: true // This ensures that the updated record is returned
+            });
+
+            if (updatedRows > 0) {
+                // If at least one row was updated
+                const updatedTimetable = await db.Timetable.findByPk(timetableId);
+                return updatedTimetable;
+            } else {
+                // If no rows were updated (timetable not found)
+                return null;
+            }
         } catch (error) {
-          console.error('Error updating timetable:', error);
-          throw error;
+            console.error('Error updating timetable:', error);
+            throw error;
         }
-      }
-    
+    }
 
     static async deleteTimetable(db, timetableId) {
         try {
