@@ -123,6 +123,22 @@ Content-Type: application/json
         "timetable_id": "vFN3tIi1y"
 }
 
+### Userlogs TimeTable
+
+POST http://localhost:3000/admin/create_user_log_timetable HTTP/1.1
+Content-Type: application/json
+
+{
+        
+        "labid": "CL3",
+        "sysseat": "SF1",
+        "distid": "D019",
+        "username": "Adithya",
+        "rollno": "2021115001",
+        "entry_time": "13:30:00",
+        "date": "2024-04-24"
+}
+
 ###
 
 POST http://localhost:3000/admin/create_user_log1 HTTP/1.1
