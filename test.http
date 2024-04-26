@@ -3,8 +3,8 @@ POST http://localhost:3000/admin/create_lab  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "lab_id": "CL9",
-    "lab_name": "firstfloor",
+    "lab_id": "NewID",
+    "lab_name": "fifth floor",
     "lab_incharge": "yashoda",
     "lab_description":"Name"
    
@@ -15,8 +15,6 @@ POST http://localhost:3000/admin/create_stock  HTTP/1.1
 Content-Type: application/json 
 
 {
-    
-    
     "dist_id": "D019",
     "seat_number": "A104",
     "incharge": "yashoda",
