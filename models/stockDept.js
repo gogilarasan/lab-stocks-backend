@@ -31,6 +31,14 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.STRING(500),
             allowNull: true
         },
+        issued: {
+            type: DataTypes.STRING(500),
+            allowNull: true,
+            references: {
+                model: 'Staffs',
+                key: 'staffid'
+            }
+        },
         location: {
             type: DataTypes.STRING,
             allowNull: true

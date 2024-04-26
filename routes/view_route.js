@@ -138,6 +138,21 @@ router.post('/get_timetable_by_id', async (req, res) => {
     }
 });
 
+router.post('/get_timetable_by_Lab_id', async (req, res) => {
+    const lab_id = req.body.lab_id;
+    try {
+        const timetable = await obj.timetable.getTimetableByLabId(db, lab_id);
+        if (timetable) {
+            res.status(200).json(timetable);
+        } else {
+            res.status(404).json({ "error": "Timetable not found" });
+        }
+    } catch (error) {
+        console.error('Error getting timetable by ID:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
 router.post('/get_all_timetables', async (req, res) => {
     try {
         const timetables = await obj.timetable.getAllTimetables(db);

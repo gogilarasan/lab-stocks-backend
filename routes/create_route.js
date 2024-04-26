@@ -175,6 +175,64 @@ router.post('/create_user_log1', async (req, res) => {
     }
 });
 
+// Define the getDayOfWeek function
+function getDayOfWeek(dateString) {
+    const date = new Date(dateString);
+    const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const dayIndex = date.getDay();
+    return daysOfWeek[dayIndex];
+}
+
+// Define the route handler
+router.post('/create_user_log_timetable', async (req, res) => {
+    try {
+        const { labid, date, entry_time } = req.body;
+
+        const dayOfWeek = getDayOfWeek(date);
+
+        const timetables = await db.Timetable.findAll({
+            where: {
+                lab_id: labid,
+                day: dayOfWeek,
+            }
+        });
+
+        if (!timetables || timetables.length === 0) {
+            throw new Error('Timetable not found for the desired day');
+        }
+
+        // Find the timetable slot that matches the entry time
+        const matchingSlot = timetables.find(slot => {
+            const [startTimeStr, endTimeStr] = slot.timings.split('-');
+            const startTime = new Date(`${date} ${startTimeStr}`);
+            const endTime = new Date(`${date} ${endTimeStr}`);
+            const entryTime = new Date(`${date} ${entry_time}`);
+            return entryTime >= startTime && entryTime <= endTime;
+        });
+
+        if (!matchingSlot) {
+            throw new Error('Timetable slot not found for the entry time');
+        }
+
+        const { timetable_id } = matchingSlot;
+
+        // Create user log entry with the retrieved timetable ID
+        const userLogData = {
+            ...req.body,
+            timetable_id: timetable_id,
+        };
+
+        const result = await obj.Userlog.createUserLog(db, userLogData);
+        res.status(200).json({ "message": "User log created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating user log:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
+
+
+
 
 router.post('/create_todo', async (req, res) => {
     try {

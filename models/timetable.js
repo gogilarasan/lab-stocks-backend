@@ -5,7 +5,6 @@ module.exports = (sequelize, Sequelize) => {
         timetable_id: {
             type: DataTypes.STRING,
             primaryKey: true,
-            
         },
         lab_id: {
             type: DataTypes.STRING,
@@ -42,6 +41,14 @@ module.exports = (sequelize, Sequelize) => {
                 model: 'Staffs',
                 key: 'staffid'
             }
+        },
+        sem: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        batch: { 
+            type: DataTypes.STRING, 
+            allowNull: false
         }
     });
 

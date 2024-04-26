@@ -72,10 +72,10 @@ router.post('/update_staff', async (req, res) => {
 });
 
 router.post('/update_timetable', async (req, res) => {
-    const { timetable_id, lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher } = req.body;
+    const { timetable_id, lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher,sem,batch } = req.body;
 
     try {
-        const updatedTimetable = await obj.timetable.updateTimetableById(timetable_id, { lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher });
+        const updatedTimetable = await obj.timetable.updateTimetableById(timetable_id, { lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher,sem,batch });
 
         if (updatedTimetable) {
             res.status(200).json({ message: 'Timetable updated successfully', data: updatedTimetable });
