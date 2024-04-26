@@ -7,4 +7,5 @@ obj.timetable = require("./timetable");
 obj.Userlog = require("./userlogs");
 obj.stockdept = require("./stockdept");
 obj.complaint = require("./complaints");
+obj.login = require("./login");
 module.exports = obj

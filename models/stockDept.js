@@ -2,10 +2,10 @@ const { DataTypes } = require('sequelize');
 
 module.exports = (sequelize, Sequelize) => {
     const StockDept = sequelize.define('StockDept', {
-        id: {
-            type: DataTypes.INTEGER,
+        stockd_id: {
+            type: DataTypes.STRING,
+            allowNull: false,
             primaryKey: true,
-            autoIncrement: true
         },
         stockRegisterPageNo: {
             type: DataTypes.STRING,
@@ -33,11 +33,12 @@ module.exports = (sequelize, Sequelize) => {
         },
         issued: {
             type: DataTypes.STRING(500),
-            allowNull: true,
-            references: {
-                model: 'Staffs',
-                key: 'staffid'
-            }
+            allowNull: false,
+            references: 
+                {
+                    model: 'Staffs',
+                    key: 'staffid'
+                }
         },
         location: {
             type: DataTypes.STRING,

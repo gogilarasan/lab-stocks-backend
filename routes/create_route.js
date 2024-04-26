@@ -245,7 +245,25 @@ router.post('/create_todo', async (req, res) => {
 });
 
 
+router.post('/create_login', async (req, res) => {
+    try {
+        const result = await obj.login.createLogin(db, req.body);
+        res.status(201).json(result);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
 
+// // Route for signing in
+// router.post('/signin', async (req, res) => {
+//     try {
+//         const { email, password } = req.body;
+//         const result = await obj.login.signin(db, email, password);
+//         res.status(200).json(result);
+//     } catch (error) {
+//         res.status(401).json({ error: error.message });
+//     }
+// });
 
 
 

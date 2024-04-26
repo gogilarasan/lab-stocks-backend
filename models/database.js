@@ -26,7 +26,7 @@ db.Todo = require("./complaints")(sequelize, Sequelize);
 db.Userlog = require("./userlogs")(sequelize, Sequelize);
 db.Timetable = require("./timetable")(sequelize, Sequelize);
 db.StockDept = require("./stockDept")(sequelize, Sequelize);
-
+db.Login = require("./login")(sequelize, Sequelize);
 
 sequelize.sync({ force: false, alter: true })
   .then(() => {

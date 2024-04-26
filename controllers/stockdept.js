@@ -1,9 +1,13 @@
 const db = require('../models/database');
 const XLSX = require('xlsx');
+const id = require("shortid");
 
 class StockDeptController {
     static async createStockDept(stockDeptData) {
         try {
+            const s_id = id.generate();
+
+            stockDeptData.stockd_id = s_id;
             const stockDept = await db.StockDept.create(stockDeptData);
             return stockDept;
         } catch (error) {

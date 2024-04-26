@@ -72,10 +72,10 @@ router.post('/update_staff', async (req, res) => {
 });
 
 router.post('/update_timetable', async (req, res) => {
-    const { timetable_id, lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher,sem,batch } = req.body;
+    const { timetable_id, lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher, sem, batch } = req.body;
 
     try {
-        const updatedTimetable = await obj.timetable.updateTimetableById(timetable_id, { lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher,sem,batch });
+        const updatedTimetable = await obj.timetable.updateTimetableById(timetable_id, { lab_id, subject_id, subject_name, day, session_type, timings, subject_teacher, sem, batch });
 
         if (updatedTimetable) {
             res.status(200).json({ message: 'Timetable updated successfully', data: updatedTimetable });
@@ -136,6 +136,29 @@ router.put('/update_todo_status', async (req, res) => {
     }
 });
 
+router.post('/forgot_password', async (req, res) => {
+    try {
+        const { email, username } = req.body;
+
+        // Check if the email is provided
+        if (!email && !username) {
+            return res.status(400).json({ error: 'Email is required' });
+        }
+
+        // Call the forgotPassword function from the Login model
+        const success = await obj.Login.forgotPassword(db, email, username);
+
+        // Check if the password reset was successful
+        if (success) {
+            return res.status(200).json({ message: 'Password reset successful' });
+        } else {
+            return res.status(404).json({ error: 'User not found with the provided email' });
+        }
+    } catch (error) {
+        console.error('Error resetting password:', error);
+        return res.status(500).json({ error: 'Internal server error' });
+    }
+});
 
 
 module.exports = router;

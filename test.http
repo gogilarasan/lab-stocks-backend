@@ -203,6 +203,7 @@ Content-Type: application/json
     "bookFigureQuantity": 10,
     "bookStockValueRs": 100,
     "issuedToRemarks": "Issued to Remarks",
+    "issued": "S003",
     "location": "Location"
 }
 ###
@@ -482,6 +483,51 @@ Content-Type: application/json
 }
 ###
 
+POST http://localhost:3000/admin/create_login  HTTP/1.1
+Content-Type: application/json 
+
+{
+  "loginid": "user123",
+  "email": "user@example.com",
+  "username": "user123",
+  "password": "password123"
+   
+}
+
+###
+
+POST http://localhost:3000/admin/create_login  HTTP/1.1
+Content-Type: application/json 
+
+{
+  
+  "email": "user@example.com",
+  "username": "user123",
+  "password": "password123"
+   
+}
+###
+
+POST http://localhost:3000/admin/signin  HTTP/1.1
+Content-Type: application/json 
+
+{
+  "username": "user123",
+  "password": "password123"
+}
+
+###
+
+
+POST http://localhost:3000/admin/forgot_password  HTTP/1.1
+Content-Type: application/json 
+
+{
+   "email": "user@example.com",
+   "username": "user123"
+}
+
+###
 
 
 

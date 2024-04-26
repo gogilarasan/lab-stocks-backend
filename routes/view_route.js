@@ -244,5 +244,16 @@ router.get('/get_all_todos', async (req, res) => {
     }
 });
 
+// Route for signing in
+router.post('/signin', async (req, res) => {
+    try {
+        const { username, password } = req.body;
+        const result = await obj.login.signin(db, username, password);
+        res.status(200).json(result);
+    } catch (error) {
+        res.status(401).json({ error: error.message });
+    }
+});
+
 
 module.exports = router;
