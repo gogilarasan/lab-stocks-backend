@@ -72,7 +72,6 @@ class Login {
 
     static async forgotPassword(db, email, username) {
         try {
-            // Find the user by email or username
             const user = await db.Login.findOne({ where: { email: email, username: username } });
             if (!user) {
                 throw new Error('User not found with the provided email and username');
@@ -87,5 +86,19 @@ class Login {
             throw error;
         }
     }
+
+    static async userView(db, username) {
+        try {
+            const user = await db.Login.findOne({ where: { username: username } });
+            if (!user) {
+                throw new Error('User not found');
+            }
+            return user;
+        } catch (error) {
+            console.error('Error in userView function:', error); // Log the error
+            throw error;
+        }
+    }
+
 }
 module.exports = Login;

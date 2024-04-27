@@ -19,17 +19,6 @@ module.exports = (sequelize, Sequelize) => {
                 key: 'dist_id'
             }
         },
-        stock_type: {
-            type: DataTypes.STRING,
-            allowNull: true
-
-        },
-        /*
-        researchscholarcount: {
-            type: DataTypes.INTEGER,
-            allowNull: false
-        },*/
-        
     });
 
     return Staff;

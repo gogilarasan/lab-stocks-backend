@@ -29,7 +29,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         dist_id: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
             references: {
                 model: 'Stocks',
                 key: 'dist_id'
@@ -37,7 +37,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         lab_id: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
             references: {
                 model: 'Labs',
                 key: 'lab_id'

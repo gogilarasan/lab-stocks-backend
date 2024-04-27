@@ -33,7 +33,7 @@ module.exports = (sequelize, Sequelize) => {
         },
         issued: {
             type: DataTypes.STRING(500),
-            allowNull: false,
+            allowNull: true,
             references: 
                 {
                     model: 'Staffs',

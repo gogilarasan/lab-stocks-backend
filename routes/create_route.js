@@ -69,6 +69,12 @@ router.post('/bulk-import', upload.single('file'), async (req, res) => {
             return res.status(400).json({ message: 'Unsupported file type' });
         }
 
+        // Generate unique ID for each record
+        records.forEach((stockDeptData) => {
+            const s_id = shortid.generate();
+            stockDeptData.stockd_id = s_id;
+        });
+
         await db.StockDept.bulkCreate(records);
         res.status(200).json({ message: 'Bulk import successful' });
     } catch (error) {
@@ -77,13 +83,14 @@ router.post('/bulk-import', upload.single('file'), async (req, res) => {
     }
 });
 
-router.post('/bulk-import-dept', upload.single('file'), async (req, res) => {
+
+router.post('/bulk-import-deptsystem', upload.single('file'), async (req, res) => {
     try {
         if (!req.file) {
             return res.status(400).json({ message: 'No file uploaded' });
         }
 
-        const { lab_id } = req.body; // Assuming lab_id is sent as a parameter in the request body
+        const { lab_id } = req.body; 
 
         const filePath = req.file.path;
         let records = [];
@@ -230,10 +237,6 @@ router.post('/create_user_log_timetable', async (req, res) => {
     }
 });
 
-
-
-
-
 router.post('/create_todo', async (req, res) => {
     try {
         const result = await obj.complaint.createTodo(db, req.body);
@@ -244,27 +247,23 @@ router.post('/create_todo', async (req, res) => {
     }
 });
 
-
 router.post('/create_login', async (req, res) => {
     try {
-        const result = await obj.login.createLogin(db, req.body);
-        res.status(201).json(result);
+        const { username, email, password } = req.body;
+        const existingUsername = await db.Login.findOne({ where: { username } });
+        if (existingUsername) {
+            return res.status(400).json({ error: 'Username already exists' });
+        }
+        const existingEmail = await db.Login.findOne({ where: { email } });
+        if (existingEmail) {
+            return res.status(400).json({ error: 'Email already exists' });
+        }
+        const result = await obj.login.createLogin(db, { username, email, password });
+        res.status(201).json({ message: 'Account created successfully', user: result });
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
 });
-
-// // Route for signing in
-// router.post('/signin', async (req, res) => {
-//     try {
-//         const { email, password } = req.body;
-//         const result = await obj.login.signin(db, email, password);
-//         res.status(200).json(result);
-//     } catch (error) {
-//         res.status(401).json({ error: error.message });
-//     }
-// });
-
 
 
 module.exports = router;

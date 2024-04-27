@@ -12,10 +12,6 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.STRING,
             allowNull: false
         },
-        seat_no: {
-            type: DataTypes.STRING,
-            allowNull: false
-        },
         tenure: {
             type: DataTypes.DATE,
             allowNull: false
@@ -27,8 +23,7 @@ module.exports = (sequelize, Sequelize) => {
                 model: 'Stocks',
                 key: 'dist_id'
             }
-        },
-        
+        },      
         staff_id: {
             type: DataTypes.STRING,
             allowNull: false,

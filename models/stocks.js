@@ -35,6 +35,18 @@ module.exports = (sequelize, Sequelize) => {
         cpu: {
             type:DataTypes.STRING,
             allowNull:true
+        },
+        keyboard: {
+            type:DataTypes.STRING,
+            allowNull:true
+        },
+        mouse: {
+            type:DataTypes.STRING,
+            allowNull:true
+        },
+        monitor: {
+            type:DataTypes.STRING,
+            allowNull:true
         }
     });
 

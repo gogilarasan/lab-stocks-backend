@@ -101,7 +101,7 @@ router.post('/get_all_stock_depts', async (req, res) => {
 router.post('/get_staff_by_id', async (req, res) => {
     const staffId = req.body.staffId;
     try {
-        const staff = await obj.staff.getStaffById(db , staffId);
+        const staff = await obj.staff.getStaffById(db, staffId);
         if (staff) {
             res.status(200).json(staff);
         } else {
@@ -166,7 +166,7 @@ router.post('/get_all_timetables', async (req, res) => {
 router.post('/get_research_scholar_by_id', async (req, res) => {
     const scholarId = req.body.rs_id;
     try {
-        const scholar = await obj.rs.getResearchScholarById(db,scholarId);
+        const scholar = await obj.rs.getResearchScholarById(db, scholarId);
         if (scholar) {
             res.status(200).json(scholar);
         } else {
@@ -225,7 +225,7 @@ router.post('/get_user_logs_by_lab_id', async (req, res) => {
 
 router.post('/get_todo_by_id', async (req, res) => {
     try {
-        const taskId = req.body.task_id; 
+        const taskId = req.body.task_id;
         const todo = await obj.complaint.getTodoById(db, taskId);
         res.status(200).json({ message: "Todo retrieved successfully", data: todo });
     } catch (error) {
@@ -244,7 +244,6 @@ router.get('/get_all_todos', async (req, res) => {
     }
 });
 
-// Route for signing in
 router.post('/signin', async (req, res) => {
     try {
         const { username, password } = req.body;
@@ -255,5 +254,15 @@ router.post('/signin', async (req, res) => {
     }
 });
 
+router.post('/userDetails', async (req, res) => {
+    try {
+        const { username } = req.body;
+        const user = await obj.login.userView(db, username);
+        res.status(200).json(user);
+    } catch (error) {
+        console.error('Error in /userDetails endpoint:', error); // Log the error
+        res.status(404).json({ error: error.message });
+    }
+});
 
 module.exports = router;

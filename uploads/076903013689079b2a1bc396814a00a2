@@ -1,0 +1,1829 @@
+[
+    {
+        "stockRegisterPageNo": "1",
+        "stockRegisterSlNo": "1",
+        "description": "NAME BORAD",
+        "bookStockValueRs": "32625.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Transferred to FSR",
+        "location": "OFFICE"
+    },
+    {
+        "stockRegisterPageNo": "1",
+        "stockRegisterSlNo": "2",
+        "description": "500GB SATA LAPTOP HDD",
+        "bookStockValueRs": "3100.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "USEAGE OF LAPTOP FOR HOD LAPTOP HANDOVER TO DCSE",
+        "location": "DCSE"
+    },
+    {
+        "stockRegisterPageNo": "1",
+        "stockRegisterSlNo": "3",
+        "description": "XEROX 5225   DIGITAL COPIER",
+        "bookStockValueRs": "1,42,272.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "1",
+        "stockRegisterSlNo": "3",
+        "description": "STABILIZER",
+        "bookStockValueRs": "1,42,272.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Disposed under buyback for new Cannon Xerox Machine",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "1",
+        "stockRegisterSlNo": "3",
+        "description": "XEROX LASER PRINTER 3117",
+        "bookStockValueRs": "1,42,272.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "2",
+        "stockRegisterSlNo": "4",
+        "description": "HP LASERJET 2035 PRINTER",
+        "bookStockValueRs": "16500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr. L. Sairamesh",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "2",
+        "stockRegisterSlNo": "5",
+        "description": "HP LASERJET PRINTER 3015 DN",
+        "bookStockValueRs": "40,810.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "2",
+        "stockRegisterSlNo": "6",
+        "description": "HP LASEJET PRINTER 3015DN",
+        "bookStockValueRs": "81,620.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "RS Cabin (1) / Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "3",
+        "stockRegisterSlNo": "7",
+        "description": "ACER DESKTOP COMPUTERS",
+        "bookStockValueRs": "1,68,055.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "4",
+        "stockRegisterSlNo": "8",
+        "description": "LAPTOP -DELL VOSTRO 3500 BT",
+        "bookStockValueRs": "1,37,696.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "5",
+        "stockRegisterSlNo": "9",
+        "description": "SERVER - HP PROLIANT DL180",
+        "bookStockValueRs": "4,59,680.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "6",
+        "stockRegisterSlNo": "10",
+        "description": "HP LASERJET PRINTER - M1536 DNF",
+        "bookStockValueRs": "18,740.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "RS Cabin (1)",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "11",
+        "description": "DESKTOP COMPUTERS - INTELCORE (i5)",
+        "bookStockValueRs": "66,222.50",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "12-A",
+        "description": "CREATIVE HEADSET HS510",
+        "bookStockValueRs": "11,154.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "Missing Item - 4 Nos. / Item Condominated in 2020",
+        "location": "NA / TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "12-B",
+        "description": "DIGITAL NOTE BOOK - iBALL MAKE",
+        "bookStockValueRs": "11,154.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "12-C",
+        "description": "PHONE",
+        "bookStockValueRs": "11,154.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "13-A",
+        "description": "8 PORT SWITCH",
+        "bookStockValueRs": "10,896.25",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "13-B",
+        "description": "SCREW DRIVER SET",
+        "bookStockValueRs": "10,896.25",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "Missing Item  - 3 No.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "7",
+        "stockRegisterSlNo": "13-C",
+        "description": "SEAGATE 1TB EXTERNAL HARD DISK",
+        "bookStockValueRs": "10,896.25",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Missing Item  - 1 No. / Dr.V.Pandiyaraju",
+        "location": "NA / SF"
+    },
+    {
+        "stockRegisterPageNo": "8",
+        "stockRegisterSlNo": "14",
+        "description": "EMERGENCY LIGHT CFL-12V",
+        "bookStockValueRs": "7280.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "Item Condominated in 2020   - 4 Nos.   Dr.G.V.Uma - 1 No.",
+        "location": "TF / GF"
+    },
+    {
+        "stockRegisterPageNo": "8",
+        "stockRegisterSlNo": "15",
+        "description": "HP LASERJET M2727 NF  ALL IN ONE  MULTIFUNCTION PRINTER",
+        "bookStockValueRs": "34,999.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "9",
+        "stockRegisterSlNo": "16",
+        "description": "SEAGATE 1TB EXTERNAL HARD DISK USB TYPE",
+        "bookStockValueRs": "4650.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Third Floor Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "9",
+        "stockRegisterSlNo": "17 & 18",
+        "description": "BICYCLE  & BASKET",
+        "bookStockValueRs": "4056.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office - OA",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "9",
+        "stockRegisterSlNo": "18 - A",
+        "description": "IR 48 CAMERA",
+        "bookStockValueRs": "6298.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "10",
+        "stockRegisterSlNo": "19",
+        "description": "1 KVA LINE INTERACTIVE  UPS",
+        "bookStockValueRs": "4940.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "10",
+        "stockRegisterSlNo": "20",
+        "description": "1 KVA LINE INTERACTIVE  UPS",
+        "bookStockValueRs": "4988.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "10",
+        "stockRegisterSlNo": "21",
+        "description": "1 KVA LINE INTERACTIVE  UPS",
+        "bookStockValueRs": "4988.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "10",
+        "stockRegisterSlNo": "22",
+        "description": "500 GB EXTERNAL HARD DISK - ACCER MAKE",
+        "bookStockValueRs": "3150.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "11",
+        "stockRegisterSlNo": "23",
+        "description": "1 KVA LINE INTERACTIVE  UPS",
+        "bookStockValueRs": "4988.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "11",
+        "stockRegisterSlNo": "24",
+        "description": "CREATIVE HEADSET HS 150  WITH MIC",
+        "bookStockValueRs": "12,936.00",
+        "bookFigureQuantity": "28",
+        "issuedToRemarks": "SF Lab - 21 Nos. / Dr. S. Bama - 1 No. /                       Dr. Pandiyaraju - 1 Nos. /                              Mr. Ashok (RS) - 1 No. /                                      Item Condominated in 2020  - 4 Nos.",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "11",
+        "stockRegisterSlNo": "25",
+        "description": "RFID-MF KIT",
+        "bookStockValueRs": "4725.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.N.Thangaraj",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "11",
+        "stockRegisterSlNo": "26",
+        "description": "BAFO 810 CABLE",
+        "bookStockValueRs": "551.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.N.Thangaraj",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "12",
+        "stockRegisterSlNo": "27",
+        "description": "DELL POWER EDGE R510 RACK  MOUNT SERVER",
+        "bookStockValueRs": "3,80,000.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "13",
+        "stockRegisterSlNo": "28",
+        "description": "PAPER SHREDDER DOPPLER",
+        "bookStockValueRs": "9113.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "13",
+        "stockRegisterSlNo": "29",
+        "description": "HP LASER COLOR PRINTER",
+        "bookStockValueRs": "55,627.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "13",
+        "stockRegisterSlNo": "30",
+        "description": "EXTERNAL HD 500 GB",
+        "bookStockValueRs": "3258.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.Mala",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "14",
+        "stockRegisterSlNo": "31",
+        "description": "RICHO GESTETNER COPY PRINTER - DX2430",
+        "bookStockValueRs": "1,44,667.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "14",
+        "stockRegisterSlNo": "32",
+        "description": "DEKTOP COMPUTER DELL VOSTRO MINI DOOR 460",
+        "bookStockValueRs": "9,80,752.50",
+        "bookFigureQuantity": "25",
+        "issuedToRemarks": "CICSO Lab - 20 Nos. /                         Dr. Narasiman - 1 No.  /                                                         Item Condominated in 2020  - 4 Nos.",
+        "location": "CPDE / TF"
+    },
+    {
+        "stockRegisterPageNo": "15",
+        "stockRegisterSlNo": "33",
+        "description": "4 - PORT USB KVM SWITCH KIT",
+        "bookStockValueRs": "5093.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "15",
+        "stockRegisterSlNo": "34",
+        "description": "HP  SCANNER N6350",
+        "bookStockValueRs": "41,100.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "15",
+        "stockRegisterSlNo": "35-1",
+        "description": "TECH COM 2.5 SATA LASING",
+        "bookStockValueRs": "6720.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "15",
+        "stockRegisterSlNo": "35-2",
+        "description": "LOGITECH USB OPTICAL MOUSE",
+        "bookStockValueRs": "6720.00",
+        "bookFigureQuantity": "15",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "15",
+        "stockRegisterSlNo": "36",
+        "description": "CISCO SF 100-24 PORT 10/100 SWITCH",
+        "bookStockValueRs": "8820.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "CPDE -1 No. / Item Condominated in 2020  - 1 No.",
+        "location": "CPDE / TF"
+    },
+    {
+        "stockRegisterPageNo": "16",
+        "stockRegisterSlNo": "37-1",
+        "description": "SEAGATE 500GB EX HARD DISK",
+        "bookStockValueRs": "4890.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "16",
+        "stockRegisterSlNo": "37-2",
+        "description": "MEDIA CARD READER",
+        "bookStockValueRs": "4890.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "16",
+        "stockRegisterSlNo": "38",
+        "description": "SEAGATE 1 TB EXTERNAL HARD DISK",
+        "bookStockValueRs": "6667.50",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item - 1 No.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "16",
+        "stockRegisterSlNo": "39",
+        "description": "HP OFFICE JET 6000 PRINTER",
+        "bookStockValueRs": "9900.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "16",
+        "stockRegisterSlNo": "40",
+        "description": "SONY VPL EX145 PROJECTOR",
+        "bookStockValueRs": "37304.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "CICSO Lab",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "17",
+        "stockRegisterSlNo": "41",
+        "description": "CANAN SLR EOS 6000 CAMERA WITH LENS",
+        "bookStockValueRs": "49,784.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Technical Store Room",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "17",
+        "stockRegisterSlNo": "42",
+        "description": "HP MINI LAPTOP MODEL 210",
+        "bookStockValueRs": "20600.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Technical Store Room",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "17",
+        "stockRegisterSlNo": "43",
+        "description": "NOKIA LUMIA 800 WITH HEADPHONE, USP CHARGER",
+        "bookStockValueRs": "30324.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "18",
+        "stockRegisterSlNo": "44",
+        "description": "36 U NET RACK FOR SERVER",
+        "bookStockValueRs": "30915.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "18",
+        "stockRegisterSlNo": "45",
+        "description": "1 TB HARD DISK EXTERNAL",
+        "bookStockValueRs": "26,640.00",
+        "bookFigureQuantity": "4",
+        "issuedToRemarks": "Dr.Kulothungan, Dr.Swamynathan, Dr.Indumathi, Dr.Ranjani Parthasarathy",
+        "location": "GF/SF"
+    },
+    {
+        "stockRegisterPageNo": "19",
+        "stockRegisterSlNo": "46",
+        "description": "SEAGATE 1 TB TOPLEX 2.5 USB 3.0",
+        "bookStockValueRs": "6750.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.Kulothungan, Dr.Swamynathan, Dr.Indumathi, Dr.Ranjani Parthasarathy",
+        "location": "GF/SF"
+    },
+    {
+        "stockRegisterPageNo": "19",
+        "stockRegisterSlNo": "47",
+        "description": "HP OFFICE JET 6000 PRINTER",
+        "bookStockValueRs": "4950.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "19",
+        "stockRegisterSlNo": "48",
+        "description": "ORIENT 18 PF TORNADO FAN",
+        "bookStockValueRs": "26,048.00",
+        "bookFigureQuantity": "7",
+        "issuedToRemarks": "Item Condominated in 2020  - 3 Nos. /    CPDE - 4 Nos.",
+        "location": "TF / CPDE"
+    },
+    {
+        "stockRegisterPageNo": "20",
+        "stockRegisterSlNo": "49",
+        "description": "DESKTOP COMPUTERS -HP I7",
+        "bookStockValueRs": "7,81,460.19",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "Item Condominated in 2020  - 14 Nos. /                   RS Cabin (1&2) - 4 Nos. / CPDE RS Cabin - 1 No. / Missing Item - 1 No.",
+        "location": "TF / CPDE / NA"
+    },
+    {
+        "stockRegisterPageNo": "20",
+        "stockRegisterSlNo": "50",
+        "description": "HP LASERJET PRINTER M1536 DNF",
+        "bookStockValueRs": "22,556.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Sendhilkumar",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "21",
+        "stockRegisterSlNo": "51",
+        "description": "HP DESKTOP I5 WITH MONITOR",
+        "bookStockValueRs": "33,823.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Sendhilkumar",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "21",
+        "stockRegisterSlNo": "52",
+        "description": "DELL LAPTOP",
+        "bookStockValueRs": "42700.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Sendhilkumar",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "22",
+        "stockRegisterSlNo": "53",
+        "description": "SEAGATE EXTERANAL HARD DISK 1 TB",
+        "bookStockValueRs": "11600.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Missing Item - 2 Nos.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "22",
+        "stockRegisterSlNo": "54",
+        "description": "4 KVA DOUBLE BOOSTING 140-240 VOLTS STABILIZER",
+        "bookStockValueRs": "9600.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "CPDE RS Cabin",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "22",
+        "stockRegisterSlNo": "55",
+        "description": "4 KVA DOUBLE BOOSTING 140-240 VOLTS STABILIZER",
+        "bookStockValueRs": "4800.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "CPDE RS Cabin",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "23",
+        "stockRegisterSlNo": "56",
+        "description": "DESKTOP COMPUTER DELL OPTIPLEX 9010 INTEL CORE I7 3770 PROCOSS",
+        "bookStockValueRs": "7,03,314.00",
+        "bookFigureQuantity": "18",
+        "issuedToRemarks": "Item Condominated in 2020 - 12 Nos. /                 Ms. Tina Ester - 1 No. / CPDE - 1 No. /                    RS Cabin (1) - 4 Nos.",
+        "location": "SF / TF / CPDE"
+    },
+    {
+        "stockRegisterPageNo": "23",
+        "stockRegisterSlNo": "57",
+        "description": "24 PORT ANALOG EXTENSION CARD(SLAME)",
+        "bookStockValueRs": "1,68,400.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "In RCC for Telephone at New building",
+        "location": "RCC"
+    },
+    {
+        "stockRegisterPageNo": "24",
+        "stockRegisterSlNo": "58",
+        "description": "NETWORK COMPONENTS FOR TELEPHONE",
+        "bookStockValueRs": "2,80,538.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "For Using in New Building",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "25",
+        "stockRegisterSlNo": "59",
+        "description": "1 KVA LINE INTERACTIVE  UPS",
+        "bookStockValueRs": "4988.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "25",
+        "stockRegisterSlNo": "60",
+        "description": "KEYBOARD & MOUSE",
+        "bookStockValueRs": "8925.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "25",
+        "stockRegisterSlNo": "61",
+        "description": "HP LJ 1606DN PRINTER",
+        "bookStockValueRs": "1,11,775.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "Dr. S. Sridhar / Dr. K. Vidhya / Item Condominated in 2020 - 2 Nos / Mr.M.Anto Vizhoni / M. Muralikrishnan /  Dr. S. Bama / Dr. Selvi Ravindran /       Dr. Arul Deepa / Dr.P. Geetha (For TT Work)",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "26",
+        "stockRegisterSlNo": "62",
+        "description": "HITACHI PROJECTOR CP-DX300",
+        "bookStockValueRs": "48500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "26",
+        "stockRegisterSlNo": "63",
+        "description": "FUJITSU LAPTOP LH532",
+        "bookStockValueRs": "40000.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "27",
+        "stockRegisterSlNo": "64",
+        "description": "WIFI ACCESS POINTS",
+        "bookStockValueRs": "193,200.00",
+        "bookFigureQuantity": "8",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "28",
+        "stockRegisterSlNo": "65",
+        "description": "NETWORK COMPONENTS",
+        "bookStockValueRs": "15,13,800.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Network Connection for Department",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "29",
+        "stockRegisterSlNo": "66",
+        "description": "DELL SERVER",
+        "bookStockValueRs": "8,69,219.40",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Server room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "30",
+        "stockRegisterSlNo": "67-1",
+        "description": "PANASONIC ANALOG CAMERA SP CPR603",
+        "bookStockValueRs": "2,41,022.50",
+        "bookFigureQuantity": "17",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "30",
+        "stockRegisterSlNo": "67-2",
+        "description": "X-PLUS SYSTEM  SP-DR16 CHANNEL",
+        "bookStockValueRs": "2,41,022.50",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "30",
+        "stockRegisterSlNo": "68-1",
+        "description": "SAN STORAGE  EMCVNXE 5100  20TB",
+        "bookStockValueRs": "1370250.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "TF Spl. Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "30",
+        "stockRegisterSlNo": "68-2",
+        "description": "SAN SWITCH  BROCEDE MODEL 320-8",
+        "bookStockValueRs": "1370250.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "TF Spl. Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "31",
+        "stockRegisterSlNo": "69",
+        "description": "VIRTUALIZATION BLADE SERVER                                                     MAKE: DELL POWER  EDGE",
+        "bookStockValueRs": "1760000.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "TF Spl. Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "33",
+        "stockRegisterSlNo": "70",
+        "description": "NAME BOARD WITH RAILING STRIP",
+        "bookStockValueRs": null,
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "33",
+        "stockRegisterSlNo": "71-1",
+        "description": "SEAGATE  500 GB HDD SATA",
+        "bookStockValueRs": "4410.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item - 1 No.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "33",
+        "stockRegisterSlNo": "71-2",
+        "description": "DIGITAL 8 PORT SWITCH",
+        "bookStockValueRs": "4410.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.L.Sai Ramesh",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "34",
+        "stockRegisterSlNo": "72",
+        "description": "HITACHI 2 TON SPLIT AC  WITH  5 KVA  DOUBLE BOOSTER STABLIZER",
+        "bookStockValueRs": "49300.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "RS Cabin (2)",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "34",
+        "stockRegisterSlNo": "73",
+        "description": "LAPTOP HP THINK PAD",
+        "bookStockValueRs": "59990.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.E.Uma",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "34",
+        "stockRegisterSlNo": "74",
+        "description": "1 KVA UPS",
+        "bookStockValueRs": "5775.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "35",
+        "stockRegisterSlNo": "75-2",
+        "description": "SAMSUNG 1TB INTERNAL HD",
+        "bookStockValueRs": "9700.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item - 1 No. Each",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "35",
+        "stockRegisterSlNo": "75-2",
+        "description": "SEAGATE 1TB INTERNAL HD",
+        "bookStockValueRs": "9700.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item - 1 No. Each",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "35",
+        "stockRegisterSlNo": "76",
+        "description": "CALLER-ID TELEPHONE",
+        "bookStockValueRs": "2200.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "35",
+        "stockRegisterSlNo": "77",
+        "description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "bookStockValueRs": "324850.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "EB room / UPS room",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "36",
+        "stockRegisterSlNo": "78",
+        "description": "MOBILE PHONE",
+        "bookStockValueRs": "17090.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "EB room / UPS room",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "36",
+        "stockRegisterSlNo": "79",
+        "description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "bookStockValueRs": "318893.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS room",
+        "location": "FF / SF"
+    },
+    {
+        "stockRegisterPageNo": "37",
+        "stockRegisterSlNo": "80",
+        "description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "bookStockValueRs": "318893.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS room",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "37",
+        "stockRegisterSlNo": "81",
+        "description": "HITACHI  2 TON CASSET TYPE AC                             WITH 5 KVA DOUBLE BOOSTER STABILIZER",
+        "bookStockValueRs": "352383.00",
+        "bookFigureQuantity": "4",
+        "issuedToRemarks": "FF lab",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "38",
+        "stockRegisterSlNo": "82",
+        "description": "NEWMARIC 10 KVA ONLINE UPS WITH  18 AMARON QVANTA BATTERIES EACH",
+        "bookStockValueRs": "318893.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "38",
+        "stockRegisterSlNo": "83",
+        "description": "DESKTOP COMPUTER  I7",
+        "bookStockValueRs": "2285450.00",
+        "bookFigureQuantity": "50",
+        "issuedToRemarks": "SF Main Lab - 21 Nos. / Item condeminated in 2020 - 15 Nos. / Transfer to USB - 5 Nos. / Transfer to Dean CEG - 9 Nos.",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "39",
+        "stockRegisterSlNo": "84",
+        "description": "DESKTOP COMPUTERS  I7",
+        "bookStockValueRs": "2285450.00",
+        "bookFigureQuantity": "50",
+        "issuedToRemarks": "SF Main Lab - 36 Nos. / Item condeminated in 2020 - 8 Nos. /  Transfer to Dean CEG - 6 Nos.",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "39",
+        "stockRegisterSlNo": "85",
+        "description": "DESKTOP COMPUTER  I7",
+        "bookStockValueRs": "914180.00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "SF Main Lab - 19 Nos. / Item condeminated in 2020  - 1 No.",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "39",
+        "stockRegisterSlNo": "86",
+        "description": "SERVER",
+        "bookStockValueRs": "283629.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Server room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "41",
+        "stockRegisterSlNo": "87",
+        "description": "NEWMERIC  10 KVA UPS WITH  36 EXIDE POWER SAVE  BATTERIES EACH",
+        "bookStockValueRs": "318893.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS room",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "41",
+        "stockRegisterSlNo": "88",
+        "description": "EPSON PROJECTOR",
+        "bookStockValueRs": "370980.00",
+        "bookFigureQuantity": "6",
+        "issuedToRemarks": "Class room - 5 Nos. /                                Item condeminated in 2020 - 1 No.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "42",
+        "stockRegisterSlNo": "89",
+        "description": "PROJECTOR WALL MOUNTION KIT",
+        "bookStockValueRs": "38500.00",
+        "bookFigureQuantity": "6",
+        "issuedToRemarks": "Class room - 5 Nos. /                                Item condeminated in 2020 - 1 No.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "42",
+        "stockRegisterSlNo": "90",
+        "description": "NETWORK ACTIVE TYPE - I",
+        "bookStockValueRs": "217200.00",
+        "bookFigureQuantity": "6",
+        "issuedToRemarks": "Missing Item - 3 Nos.  / Item condeminated in 2020 - 3 Nos.",
+        "location": "NA / TF"
+    },
+    {
+        "stockRegisterPageNo": "43",
+        "stockRegisterSlNo": "91",
+        "description": "NETWORKING FINISHED IN ALL FLOORS",
+        "bookStockValueRs": "826650.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Dept. Networking",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "44",
+        "stockRegisterSlNo": "91-A",
+        "description": "SPLIT AC 1.5  TON MAKE - HITACHI",
+        "bookStockValueRs": "395794.00",
+        "bookFigureQuantity": "12",
+        "issuedToRemarks": "SF Lab - 10 Nos. / Dr.T.Mala / Dr.S.Sridhar",
+        "location": "FF / SF"
+    },
+    {
+        "stockRegisterPageNo": "45",
+        "stockRegisterSlNo": "92",
+        "description": "4  KVA WALL MOUNTING DOUBLE BOOSTER STABLIZER",
+        "bookStockValueRs": "79500.00",
+        "bookFigureQuantity": "12",
+        "issuedToRemarks": "SF Lab - 10 Nos. / Dr.T.Mala / Dr.S.Dridhar",
+        "location": "FF / SF"
+    },
+    {
+        "stockRegisterPageNo": "45",
+        "stockRegisterSlNo": "93-1",
+        "description": "DVD WRITER LG",
+        "bookStockValueRs": "5400.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "45",
+        "stockRegisterSlNo": "93-2",
+        "description": "SEGATE HAND DISK  1 TB",
+        "bookStockValueRs": "5400.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item - 1 No.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "46",
+        "stockRegisterSlNo": "94",
+        "description": "HITACHI CASSATTE TYPE AIR CONDITIONER",
+        "bookStockValueRs": "440978.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "FF Lab - 1 No. / Server Room -1 No. /          AUCTS - 1 No. / HOD Room - 2 Nos.",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "46",
+        "stockRegisterSlNo": "95",
+        "description": "32 U RACK WITH ACCESSORIES",
+        "bookStockValueRs": "61236.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Server room / TF Lab",
+        "location": "FF / TF"
+    },
+    {
+        "stockRegisterPageNo": "47",
+        "stockRegisterSlNo": "96",
+        "description": "PERSONAL COMPUTERS",
+        "bookStockValueRs": "00",
+        "bookFigureQuantity": "26",
+        "issuedToRemarks": "Item Condominated in 2020 - 25 Nos. /                                   Dr. S. Senthilkumar",
+        "location": "FF / TF"
+    },
+    {
+        "stockRegisterPageNo": "48",
+        "stockRegisterSlNo": "97",
+        "description": "TELEPHONE CABLING",
+        "bookStockValueRs": "7950.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Department use",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "48",
+        "stockRegisterSlNo": "98-1",
+        "description": "SEAGATE  1TB HARD DISK",
+        "bookStockValueRs": "5922.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.N.Thangaraj",
+        "location": "CPDE"
+    },
+    {
+        "stockRegisterPageNo": "48",
+        "stockRegisterSlNo": "98-2",
+        "description": "DLINK N300 WIRELESS  ROUTER DIR",
+        "bookStockValueRs": "5922.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.Swamynathan",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "48",
+        "stockRegisterSlNo": "99",
+        "description": "TELEPHONE CABLING",
+        "bookStockValueRs": "12750.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Department use",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "49",
+        "stockRegisterSlNo": "100",
+        "description": "EPSON L210 PRINTER",
+        "bookStockValueRs": "9950.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.K.Vidhya",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "49",
+        "stockRegisterSlNo": "101",
+        "description": "DESKTOP COMPUTER  ACER VERTON",
+        "bookStockValueRs": "7863897.00",
+        "bookFigureQuantity": "150",
+        "issuedToRemarks": "TF Main Lab - 76 Nos. / TF Annex Lab - 30 Nos. / Condomination Room - 26 No. /       PG Exam Cell - 1 No. / UAV Lab - 1 No.  /    RS Cabin (2) - 1 No. /                                     PA to HOD Room - 1 No. /                          Staff Cabin - 20 Nos. / TF Cabin - 12 Nos.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "50",
+        "stockRegisterSlNo": "102",
+        "description": "DESKTOP COMPUTER   ACER VERTON",
+        "bookStockValueRs": "9,43,668.00",
+        "bookFigureQuantity": "18",
+        "issuedToRemarks": "TF Main Lab - 76 Nos. / TF Annex Lab - 30 Nos. / Condomination Room - 26 No. /       PG Exam Cell - 1 No. / UAV Lab - 1 No.  /    RS Cabin (2) - 1 No. /                                     PA to HOD Room - 1 No. /                          Staff Cabin - 20 Nos. / TF Cabin - 12 Nos.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "50",
+        "stockRegisterSlNo": "103",
+        "description": "1.5 TON SPLIT AC LG",
+        "bookStockValueRs": "3,99,960.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No.",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "51",
+        "stockRegisterSlNo": "104",
+        "description": "LASER PRINTER HP",
+        "bookStockValueRs": "22404.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "51",
+        "stockRegisterSlNo": "105",
+        "description": "1.5 TON SPLIT AC LG",
+        "bookStockValueRs": "399960.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "52",
+        "stockRegisterSlNo": "106 A",
+        "description": "Outdoor fixing angle",
+        "bookStockValueRs": "148080.00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No. Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "52",
+        "stockRegisterSlNo": "106 B",
+        "description": "DOUBLE BOOSTING STABILIZER",
+        "bookStockValueRs": "148080.00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "TF Main & Spl. Lab - 9 Nos. / Audi - 1 No. Audi - 4 Nos. / UPS Room - 2 Nos. / Dr.Ranjani Parasarathy /                           Dr.Swaswathi Mukerji /Dr.G.V.Uma /          TF lab -1 No.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "52",
+        "stockRegisterSlNo": "107",
+        "description": "R.O Plant",
+        "bookStockValueRs": "357000.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Department common use",
+        "location": "Terrace"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "JBL Speaker",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "4",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "JBL Control power speaker",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Handled Mic",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Micro VHF Collar Mic",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Micro VHF Hand Mic",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Podium Mic",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Mic table stand",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Channel mixer",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "Audio Equipment Racker",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "2 Core Loudspeaker cable",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "150 mt.",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "53",
+        "stockRegisterSlNo": "108",
+        "description": "2 core mic cable",
+        "bookStockValueRs": "285473.11",
+        "bookFigureQuantity": "150 mt.",
+        "issuedToRemarks": "Audi",
+        "location": "GF / TF"
+    },
+    {
+        "stockRegisterPageNo": "54",
+        "stockRegisterSlNo": "109",
+        "description": "Crown power amplifier",
+        "bookStockValueRs": "53128.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Audi",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "54",
+        "stockRegisterSlNo": "110",
+        "description": "Motor Projector Screen",
+        "bookStockValueRs": "19969.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "54",
+        "stockRegisterSlNo": "111",
+        "description": "Fiber optic convertor",
+        "bookStockValueRs": "44100.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "MBA OFC Room - 1 No. /                        Server Room - 1 No. / Technical Store     room - 1 No.",
+        "location": "RCC OFC Room / GF / FF"
+    },
+    {
+        "stockRegisterPageNo": "55",
+        "stockRegisterSlNo": "112",
+        "description": "Intel Galilio MB",
+        "bookStockValueRs": "00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "T8 Laboratory",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "113-1",
+        "description": "D Link 8 port switch",
+        "bookStockValueRs": "11752.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020  / TF Cabin",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "113-2",
+        "description": "D Link 16 port switch",
+        "bookStockValueRs": "11752.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Missing Item - 2 No.",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "113-3",
+        "description": "D Link KVM switch",
+        "bookStockValueRs": "11752.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "113-4",
+        "description": "Net Gear Wi Fi router",
+        "bookStockValueRs": "11752.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "TF Lab / Dr. Sendhil Kumar",
+        "location": "FF / TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "114",
+        "description": "4 KG PRESSURE ABC",
+        "bookStockValueRs": "83644.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "Audi  / Dept. Passage",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "114",
+        "description": "CO2  4.5KG",
+        "bookStockValueRs": "83644.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "E.B Room",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "114",
+        "description": "CO2  2KG",
+        "bookStockValueRs": "83644.00",
+        "bookFigureQuantity": "6",
+        "issuedToRemarks": "FF Lab - 2 Nos. / SF Lab - 2 Nos. /                 TF Lab - 2 Nos.",
+        "location": "FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "114",
+        "description": "ALL SIGNAGES",
+        "bookStockValueRs": "83644.00",
+        "bookFigureQuantity": "17",
+        "issuedToRemarks": "Full Dept.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "56",
+        "stockRegisterSlNo": "114",
+        "description": "FIRST AID KIT",
+        "bookStockValueRs": "83644.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "57",
+        "stockRegisterSlNo": "115",
+        "description": "AIR CONDITIONER-DAIKIN WITH STABLIZER",
+        "bookStockValueRs": "474800.00",
+        "bookFigureQuantity": "8",
+        "issuedToRemarks": "TF Cabin - 3 Nos. / RS Cabin (1) - 3 Nos. / Library - 1 No. / Conferene Room - 1 No.",
+        "location": "GF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "57",
+        "stockRegisterSlNo": "116",
+        "description": "SINGLE PHASE BOREWELL COMPRASOR",
+        "bookStockValueRs": "8925.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dept. Common use",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "58",
+        "stockRegisterSlNo": "117",
+        "description": "SIM 900A GSM MODEM",
+        "bookStockValueRs": "2415.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "T8 Laboratory",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "58",
+        "stockRegisterSlNo": "118",
+        "description": "HEAVY DUTY TABLE MIC",
+        "bookStockValueRs": "5198.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "58",
+        "stockRegisterSlNo": "119",
+        "description": "SERVER TYPE - II",
+        "bookStockValueRs": "850282.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "SF Spl. Lab",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "59",
+        "stockRegisterSlNo": "120",
+        "description": "BLADE CLASSIS WITH 4 Nos. BLADE SERVER",
+        "bookStockValueRs": "1998000.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "SF Spl. Lab",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "60",
+        "stockRegisterSlNo": "121-1",
+        "description": "WALL SUPPORTED LADDER",
+        "bookStockValueRs": "5439.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "60",
+        "stockRegisterSlNo": "121-2",
+        "description": "DOUBLE SIDE LADDER",
+        "bookStockValueRs": "5439.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Office room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "60",
+        "stockRegisterSlNo": "121-1",
+        "description": "42V SERVER RACK",
+        "bookStockValueRs": "47500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "SF Spl. Lab",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "60",
+        "stockRegisterSlNo": "122-2",
+        "description": "KVM SWITCH",
+        "bookStockValueRs": "47500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "SF Spl. Lab",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "123-1",
+        "description": "LOGITECH PRESENTATION R400 WIRELESS  LASER PRESENTER",
+        "bookStockValueRs": "18150.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "123-2",
+        "description": "FRONTECH JIL 3400 MULTIMEDIA SPEAKERS",
+        "bookStockValueRs": "18150.00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "Condomination Room - 5 Nos. /                        Staff Room - 15 Nos.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "123-3",
+        "description": "VGA CABLES  2 MTRS",
+        "bookStockValueRs": "18150.00",
+        "bookFigureQuantity": "10",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "124-1",
+        "description": "DIGITAL IC  TRAINER KIT(JAYAM)",
+        "bookStockValueRs": "332850.00",
+        "bookFigureQuantity": "40",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "124-2",
+        "description": "MICRO CONTROLLER KIT(JAYAM)",
+        "bookStockValueRs": "332850.00",
+        "bookFigureQuantity": "35",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "61",
+        "stockRegisterSlNo": "124-3",
+        "description": "ARM CONTROLLER KIT(JAYAM)",
+        "bookStockValueRs": "332850.00",
+        "bookFigureQuantity": "20",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "62",
+        "stockRegisterSlNo": "125-1",
+        "description": "HP PAVILLION 15 ACO53X LAPTOP",
+        "bookStockValueRs": "59250.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "62",
+        "stockRegisterSlNo": "125-2",
+        "description": "HP BACK PACK(E6Q97QA)",
+        "bookStockValueRs": "59250.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Dr.S.Abirami",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "126-1",
+        "description": "DC MOTOR INTERFACE BOARD(JAYAM)",
+        "bookStockValueRs": "14175.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "126-2",
+        "description": "STEPPER MOTOR INTERFACE BOARD(JAYAM)",
+        "bookStockValueRs": "14175.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "126-3",
+        "description": "TRAFFIC LIGHT CONTROLLER(JAYAM)",
+        "bookStockValueRs": "14175.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "127-1",
+        "description": "DC MOTOR INTERFACE BOARD(JAYAM)",
+        "bookStockValueRs": "11550.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "127-2",
+        "description": "STEPPER MOTOR INTERFACE BOARD(JAYAM)",
+        "bookStockValueRs": "11550.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "63",
+        "stockRegisterSlNo": "127-3",
+        "description": "TRAFFIC LIGHT CONTROLLER(JAYAM)",
+        "bookStockValueRs": "11550.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "TF Lab",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "64",
+        "stockRegisterSlNo": "128",
+        "description": "HITACHI PROJECTOR CPX40 30WN",
+        "bookStockValueRs": "189810.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "Audi -1 No. / SF Lab - 1 No. / TF Lab - 1 No.",
+        "location": "GF /SF /TF"
+    },
+    {
+        "stockRegisterPageNo": "65",
+        "stockRegisterSlNo": "129-1",
+        "description": "10 KVA ONLINE UPS SYSTEM",
+        "bookStockValueRs": "361905.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS Room",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "65",
+        "stockRegisterSlNo": "129-2",
+        "description": "BACKUP BATTERIES",
+        "bookStockValueRs": "361905.00",
+        "bookFigureQuantity": "60",
+        "issuedToRemarks": "UPS Room",
+        "location": "SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "65",
+        "stockRegisterSlNo": "130",
+        "description": "EPSON MULTIMEDIA PROJECTORS",
+        "bookStockValueRs": "127095.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "FF Lab / Technical Store Room",
+        "location": "GF / FF"
+    },
+    {
+        "stockRegisterPageNo": "67",
+        "stockRegisterSlNo": "131",
+        "description": "EXTREME NETWORK SWITCH",
+        "bookStockValueRs": "108000.00",
+        "bookFigureQuantity": "4",
+        "issuedToRemarks": "Technical Store Room - 1 No. / Library - 1 No. / IOT Server Rack -1 No. / FF Server Room",
+        "location": "GF / SF"
+    },
+    {
+        "stockRegisterPageNo": "68",
+        "stockRegisterSlNo": "132",
+        "description": "SHARP MFD PRINTER",
+        "bookStockValueRs": "123500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "P.A to HOD room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "68",
+        "stockRegisterSlNo": "133",
+        "description": "SAMSUNG M2071 LASERJET PRINTER",
+        "bookStockValueRs": "981750.00",
+        "bookFigureQuantity": "11",
+        "issuedToRemarks": "P.G Exam Cell / Dr.P.Geetha /                      Dr.Ranjani Parthasary / Dr.Kuluthungan / Dr.S.Sendhilkuamr / Dr.G.V.Uma / Dr.Vani /   Dr. J. Indumati /    Item Condominated in 2020  - 3 Nos.",
+        "location": "GF / FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "69",
+        "stockRegisterSlNo": "134-A",
+        "description": "WELCOME NOTICE BOARD&240 GOLPEN FRAME LETTERS WITH 3'X2' SIZE",
+        "bookStockValueRs": "9160.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Auditorium",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "69",
+        "stockRegisterSlNo": "134-B",
+        "description": "TRIPOD STANT WITH BLACK COLOUR 5'",
+        "bookStockValueRs": "9160.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Auditorium",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "69",
+        "stockRegisterSlNo": "135",
+        "description": "LED DISPLAY TV -   32\"",
+        "bookStockValueRs": "27500.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Conference Room",
+        "location": "GF"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "136-1",
+        "description": "CABLE LAYING CHARGES  WITH  1300 MTRS",
+        "bookStockValueRs": "86000.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Department use",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "136-2",
+        "description": "2TB SATA HDD FOR CCTV RECORDING",
+        "bookStockValueRs": "86000.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "136-3",
+        "description": "4U RACK",
+        "bookStockValueRs": "86000.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Missing Item",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "136-4",
+        "description": "SUPPLY OF 12  AMPS(16PTS)",
+        "bookStockValueRs": "86000.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Department use",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "136-5",
+        "description": "CAMERA FIXING CHARGES",
+        "bookStockValueRs": "86000.00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Department use",
+        "location": "nan"
+    },
+    {
+        "stockRegisterPageNo": "70",
+        "stockRegisterSlNo": "137",
+        "description": "DELL OPTIPLEX 9020MT SYSTEM",
+        "bookStockValueRs": "1508880.00",
+        "bookFigureQuantity": "30",
+        "issuedToRemarks": "SF Spl. Lab - 23 Nos. / Office Room -1 No. /  FF Server Room - 1 No. / CPDE - 2 Nos. /              RS Cabin (1) - 1 No. /                                               Dr. Kulothunga Room - 1 No. / Item Condominated in 2020  - 1 No.",
+        "location": "GF / FF / SF / TF / CPDE"
+    },
+    {
+        "stockRegisterPageNo": "71",
+        "stockRegisterSlNo": "138-1",
+        "description": "EVEREST - SKVA DOUBLE BOOSTING WALL MOUNT STABILIZER",
+        "bookStockValueRs": "45150.00",
+        "bookFigureQuantity": "7",
+        "issuedToRemarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "location": "FF / SF /TF"
+    },
+    {
+        "stockRegisterPageNo": "71",
+        "stockRegisterSlNo": "138-2",
+        "description": "OUT DOOR ANGLE",
+        "bookStockValueRs": "45150.00",
+        "bookFigureQuantity": "7",
+        "issuedToRemarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "location": "FF / SF /TF"
+    },
+    {
+        "stockRegisterPageNo": "71",
+        "stockRegisterSlNo": "139",
+        "description": "CANCELLED",
+        "bookStockValueRs": "00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "UPS Room - 4 Nos. / TF Spl Lab 2 Nos. /         RS Cabin (1) - 1 No.",
+        "location": "FF / SF /TF"
+    },
+    {
+        "stockRegisterPageNo": "72",
+        "stockRegisterSlNo": "140",
+        "description": "EXTREME NETWORK SWITCH",
+        "bookStockValueRs": "54000.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "72",
+        "stockRegisterSlNo": "141",
+        "description": "CANCELLED",
+        "bookStockValueRs": "00",
+        "bookFigureQuantity": "nan",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "73",
+        "stockRegisterSlNo": "142",
+        "description": "HITACHI 2 TON SPLIT AC",
+        "bookStockValueRs": "1,17,133.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "location": "TF / FF"
+    },
+    {
+        "stockRegisterPageNo": "74",
+        "stockRegisterSlNo": "143",
+        "description": "HITACHI 2 TON SPLIT AC",
+        "bookStockValueRs": "273,310.00",
+        "bookFigureQuantity": "7",
+        "issuedToRemarks": "UPS Room - 4 Nos. / TF Spl. Lab - 2 Nos. / RS Cabin (1) - 1 No.",
+        "location": "FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "75",
+        "stockRegisterSlNo": "144",
+        "description": "SUMSUNG M2071 LASERJET PRINTER",
+        "bookStockValueRs": "35700.00",
+        "bookFigureQuantity": "4",
+        "issuedToRemarks": "Dr.Yogesh / Dr.Geetha Ramani / Dr.T.Mala, Dr.Vijayalakshmi",
+        "location": "GF /FF /SF"
+    },
+    {
+        "stockRegisterPageNo": "75",
+        "stockRegisterSlNo": "145-1",
+        "description": "EVEREST - SKVA DOUBLE BOOSTING WALL MOUNT STABILIZER",
+        "bookStockValueRs": "19350.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "location": "TF / FF"
+    },
+    {
+        "stockRegisterPageNo": "75",
+        "stockRegisterSlNo": "145-2",
+        "description": "OUT DOOR ANGLE",
+        "bookStockValueRs": "19350.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "RS Cabin (2) - 2 Nos /                           Dr.Sendhilkumar - 1 Nos.",
+        "location": "TF / FF"
+    },
+    {
+        "stockRegisterPageNo": "76",
+        "stockRegisterSlNo": "146",
+        "description": "DOUBLE BOOSTING STABILIZER",
+        "bookStockValueRs": "5153.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    },
+    {
+        "stockRegisterPageNo": "76",
+        "stockRegisterSlNo": "147",
+        "description": "DLINK KVM SWITCH 8 PORT",
+        "bookStockValueRs": "18900.00",
+        "bookFigureQuantity": "1",
+        "issuedToRemarks": "Server Room",
+        "location": "FF"
+    },
+    {
+        "stockRegisterPageNo": "77",
+        "stockRegisterSlNo": "148",
+        "description": "10 KVA ONLINE UPS SYSTEM",
+        "bookStockValueRs": "411180.00",
+        "bookFigureQuantity": "2",
+        "issuedToRemarks": "UPS room",
+        "location": "GF / FF"
+    },
+    {
+        "stockRegisterPageNo": "77",
+        "stockRegisterSlNo": "149",
+        "description": "TIMER",
+        "bookStockValueRs": "11430.00",
+        "bookFigureQuantity": "3",
+        "issuedToRemarks": "UPS room",
+        "location": "FF / SF / TF"
+    },
+    {
+        "stockRegisterPageNo": "78",
+        "stockRegisterSlNo": "150",
+        "description": "optical mouse",
+        "bookStockValueRs": "2310.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "SF Lab",
+        "location": "SF"
+    },
+    {
+        "stockRegisterPageNo": "79",
+        "stockRegisterSlNo": "151",
+        "description": "optical mouse",
+        "bookStockValueRs": "1333.00",
+        "bookFigureQuantity": "5",
+        "issuedToRemarks": "Item Condominated in 2020",
+        "location": "TF"
+    }
+]
