@@ -22,15 +22,6 @@ module.exports = (sequelize, Sequelize) => {
             type: DataTypes.STRING,
             allowNull: false
         },
-        distid: {
-            type: DataTypes.STRING,
-            allowNull: true,
-            references: {
-                model : "Stocks",
-                key: "dist_id"
-
-            }
-        },
         username: {
             type: DataTypes.STRING,
             allowNull: false

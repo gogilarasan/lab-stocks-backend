@@ -135,6 +135,16 @@ router.post('/create_timetable', async (req, res) => {
     }
 });
 
+router.post('/create_timetable_offtime', async (req, res) => {
+    try {
+        const result = await obj.timetable.createTimetableOffTime(db, req.body);
+        res.status(200).json({ "message": "Timetable created successfully", "data": result });
+    } catch (error) {
+        console.error('Error creating timetable:', error);
+        res.status(500).json({ "error": "Internal server error" });
+    }
+});
+
 router.post('/create_research_scholar', async (req, res) => {
     try {
 
@@ -196,13 +206,19 @@ router.post('/create_user_log_timetable', async (req, res) => {
                 day: dayOfWeek,
             }
         });
-
+        let matchingSlot;
         if (!timetables || timetables.length === 0) {
-            throw new Error('Timetable not found for the desired day');
+            const userLogData = {
+                ...req.body,
+                timetable_id: "OFF_TIME",
+            };
+            const result = await obj.Userlog.createUserLog(db, userLogData);
+            res.status(200).json({ "message": "User log created successfully", "data": result });
+            return;
         }
 
         // Find the timetable slot that matches the entry time
-        const matchingSlot = timetables.find(slot => {
+         matchingSlot = timetables.find(slot => {
             const [startTimeStr, endTimeStr] = slot.timings.split('-');
             const startTime = new Date(`${date} ${startTimeStr}`);
             const endTime = new Date(`${date} ${endTimeStr}`);
@@ -211,7 +227,13 @@ router.post('/create_user_log_timetable', async (req, res) => {
         });
 
         if (!matchingSlot) {
-            throw new Error('Timetable slot not found for the entry time');
+            const userLogData = {
+                ...req.body,
+                timetable_id: "OFF_TIME",
+            };
+            const result = await obj.Userlog.createUserLog(db, userLogData);
+            res.status(200).json({ "message": "User log created successfully", "data": result });
+            return;
         }
 
         const { timetable_id } = matchingSlot;

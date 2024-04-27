@@ -3,7 +3,7 @@ POST http://localhost:3000/admin/create_lab  HTTP/1.1
 Content-Type: application/json 
 
 {
-    "lab_id": "NewID",
+    "lab_id": "SF",
     "lab_name": "fifth floor",
     "lab_incharge": "yashoda",
     "lab_description":"Name"
@@ -87,7 +87,25 @@ Content-Type: application/json
     "day": "Monday",
     "session_type": "FN",
     "timings": "9:00 AM - 11:00 AM",
-    "subject_teacher": "S000"
+    "subject_teacher": "S000",
+    "sem":2
+}
+
+###For Off time workings
+
+POST http://localhost:3000/admin/create_timetable_offtime HTTP/1.1
+Content-Type: application/json
+
+{
+    "lab_id": "SF",
+    "subject_id":"IT5506",
+    "subject_name": "DBMS Veimala",
+    "day": "Monday",
+    "session_type": "FN",
+    "timings": "9:00 AM - 11:00 AM",
+    "subject_teacher": "S000",
+    "sem":10,
+    "batch":4
 }
 
 ### Research Scholar
@@ -128,9 +146,8 @@ Content-Type: application/json
 
 {
         
-        "labid": "CL3",
+        "labid": "SF",
         "sysseat": "SF1",
-        "distid": "D019",
         "username": "Adithya",
         "rollno": "2021115001",
         "entry_time": "13:30:00",

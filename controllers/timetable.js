@@ -14,6 +14,17 @@ class TimetableController {
             throw error;
         }
     }
+    static async createTimetableOffTime(db, obj) {
+        try {
+            const t_id = "OFF_TIME";
+            obj.timetable_id = t_id;
+            const timetable = await db.Timetable.create(obj);
+            return timetable;
+        } catch (error) {
+            console.error('Error creating timetable:', error);
+            throw error;
+        }
+    }
 
 
     static async getTimetableById(db, timetableId) {
