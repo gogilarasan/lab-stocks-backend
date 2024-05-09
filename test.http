@@ -538,6 +538,23 @@ Content-Type: application/json
 
 ###
 
+POST http://localhost:3000/admin/create_timetable_offtime HTTP/1.1
+Content-Type: application/json
+
+{
+    "lab_id": "CL1",
+    "subject_id":"IT5506",
+    "subject_name": "DBMS Veimala",
+    "day": "Saturday",
+    "session_type": "FN",
+    "timings": "9:00 AM - 11:00 AM",
+    "subject_teacher": "1",
+    "sem":10,
+    "batch":4
+}
+
+###
+
 
 
 

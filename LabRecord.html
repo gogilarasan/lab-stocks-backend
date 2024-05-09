@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loggger</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-5">
+    <h2>Students' E register</h2>
+    <form id="studentForm">
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" class="form-control" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="roll">Roll:</label>
+        <input type="text" class="form-control" id="roll" name="roll" pattern="20\d{8}" title="Roll number should start with '20' and be 10 digits long." required>
+      </div>
+      <div class="form-group">
+        <label for="seatNo">Seat No:</label>
+        <input type="text" class="form-control" id="seatNo" name="seatNo" pattern="[FS]F\d+" title="Lab No should be in the format FF/SF/TF followed by a number." required>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    document.getElementById('studentForm').addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent form submission
+
+      // Get values from form fields
+      var name = document.getElementById('name').value;
+      var roll = document.getElementById('roll').value;
+      var seatNo = document.getElementById('seatNo').value;
+
+      // Fetch current time from API
+      fetch('http://worldtimeapi.org/api/timezone/Asia/Kolkata')
+        .then(response => response.json())
+        .then(data => {
+          var currentTime = data.datetime.slice(11, 19); // Extract time (HH:MM:SS) from datetime string
+          
+          // Construct data object
+          var formData = {
+            "labid": "CL1", // Extract first two characters from seatNo
+            "sysseat": seatNo,
+            "username": name,
+            "rollno": roll,
+            "entry_time": currentTime, // Current time from API
+            "date": data.datetime.slice(0, 10) // Extract date (YYYY-MM-DD) from datetime string
+          };
+
+          // Post data to endpoint
+          fetch('http://localhost:3000/admin/create_user_log_timetable', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(formData)
+          })
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Network response was not ok');
+            }
+            return response.json();
+          })
+          .then(data => {
+            console.log('Data posted successfully:', data);
+            // Optionally, you can show a success message to the user
+            alert('Data posted successfully!');
+          })
+          .catch(error => {
+            console.error('There was a problem posting the data:', error);
+            // Optionally, you can show an error message to the user
+            alert('There was a problem posting the data. Please try again later.');
+          });
+        })
+        .catch(error => {
+          console.error('There was a problem fetching the time:', error);
+          // Optionally, you can show an error message to the user
+          alert('There was a problem fetching the current time. Please try again later.');
+        });
+    });
+  </script>
+</body>
+</html>
